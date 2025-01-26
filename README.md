@@ -1,7 +1,7 @@
 <!--### Hi there! 👋
 
 # Developer Profile - Brajesh Kumar -->
-### <h1 align="center">Hello Folks 👋, I'm Akshay Tripathi</h1><br>
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 
@@ -15,16 +15,16 @@
   ### :zap: Most used languages ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="center">&nbsp;  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTripathi0331&layout=compact&hide=html&theme=dracula&hide_border=true"> <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshayTripathi0331&theme=dracula">
-<!--     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkshayTripathi0331&theme=radical&utcOffset=5">  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&hide=html&theme=dracula&hide_border=true"> <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&theme=dracula">
+<!--     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5">  -->
 </a>
 </p>
 
   <br><br><br>
 
 <!--<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayTripathi0331&layout=compact&theme=react&count_private=true" width="498">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=react&count_private=true" width="498">
 </div>-->
 
 
@@ -132,16 +132,16 @@
 ### :zap: GitHub Stats 📈
 
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayTripathi0331&theme=radical&show_icons=true)-->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkshayTripathi0331&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayTripathi0331&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh31&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
  <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayTripathi0331&theme=dracula" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" />
 </p>
 <!-- <br><br><br> -->
 
@@ -170,9 +170,9 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
  <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
 
 <p align="center">
-  <code><a href="https://akshaytripathi630@gmail.com/" target="_blank"> 
+  <code><a href="https://bk117134@gmail.com/" target="_blank"> 
   <img src="images\Social Media\Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
-  <code><a href="https://www.linkedin.com/in/akshaytripathi1050" target="_blank">
+  <code><a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8" target="_blank">
   <img align="center" src="images\Social Media\linkedin.svg" alt="linkedin" width="30px" /></a></code>  
   <code><a href="#" target="_blank">
   <img align="center" src="images\Social Media\twitter.svg" alt="Twitter" width="30px" /></a></code>
