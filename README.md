@@ -145,6 +145,21 @@
 </p>
 <!-- <br><br><br> -->
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Brajesh31/Brajesh31"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="400" />
+      </a>
+     </td>
+      <td>
+      <a href="https://github.com/Brajesh31/Brajesh31.github.io">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh31&repo=Brajesh31.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      </a>
+     </td>
+  </tr>
+</table>
+
 
 ## Projects Highlights
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -165,6 +180,12 @@
 
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
 
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
+
+<h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
 <!--<br><br><br>
  <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
