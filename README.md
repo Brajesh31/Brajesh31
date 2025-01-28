@@ -242,51 +242,10 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 <br /> -->
 
 <div align="center">
-    <!-- Profile Counter -->
-    <div id="profile-counter">
-        <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views">
-    </div>
+    <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views">
     <br>
     © 2021 Brajesh Kumar
 </div>
-
-<script>
-    // Profile Counter Logic
-    const counterURL = "https://profile-counter.glitch.me/Brajesh31/count.svg";
-    const localStorageKey = "profileVisited";
-
-    // Function to fetch and display the counter
-    async function fetchCounter() {
-        // Check if the user has visited this session
-        if (!localStorage.getItem(localStorageKey)) {
-            // First-time visit in this session
-            localStorage.setItem(localStorageKey, "true");
-
-            // Trigger a server-side count increment by fetching the counter
-            try {
-                const response = await fetch(counterURL);
-                if (response.ok) {
-                    // Successfully incremented
-                    document.getElementById("profile-counter").innerHTML = `
-                        <img src="${counterURL}" alt="Profile Views">
-                    `;
-                } else {
-                    console.error("Failed to update the counter");
-                }
-            } catch (err) {
-                console.error("Error fetching counter:", err);
-            }
-        } else {
-            // Not incrementing, just show the current count
-            document.getElementById("profile-counter").innerHTML = `
-                <img src="${counterURL}" alt="Profile Views">
-            `;
-        }
-    }
-
-    // Run the function
-    fetchCounter();
-</script>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
