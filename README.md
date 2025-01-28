@@ -243,9 +243,11 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 
 <div align="center">
     <!-- Profile Counter -->
-    <div id="profile-counter"></div>
+    <div id="profile-counter">
+        <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views">
+    </div>
     <br>
-    <span>© 2021 Brajesh Kumar</span>
+    © 2021 Brajesh Kumar
 </div>
 
 <script>
