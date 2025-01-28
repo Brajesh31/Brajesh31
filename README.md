@@ -40,8 +40,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="45%">
   
   <!-- Most Commit Language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&theme=dracula" alt="Most Commit Language" width="45%">
-
+ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&theme=dracula" alt="Most Commit Language" width="45%">
+-->
   <!-- Pie Chart for Language Usage -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="45%">
 </p>
