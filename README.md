@@ -4,6 +4,25 @@
 ### <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1><br>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://www.linkedin.com/in/brajesh-kumar-9b58651a8/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
 
 - Passionate learner and detail-oriented developer with a strong background in web development and backend programming.
 - Proficient in:
@@ -128,6 +147,10 @@
 - ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Advanced-blue) (Proficient in version control with Git and collaboration on GitHub)
 - ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow) (Familiar with Linux operating system)
 - ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)-->
+
+
+## ❤️ Let's get connected:
+
 
 ### :zap: GitHub Stats 📈
 
