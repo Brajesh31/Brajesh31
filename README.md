@@ -36,8 +36,14 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="230px" />
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="45%">
+  
+  <!-- Most Commit Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&theme=dracula" alt="Most Commit Language" width="45%">
+
+  <!-- Pie Chart for Language Usage -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="45%">
 </p>
 
 <br><br><br>
@@ -48,6 +54,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="65%">
 </p> 
 -->
+
 
 
 
