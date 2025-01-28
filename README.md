@@ -252,7 +252,7 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
-<br><br><br>
+<!--<br><br><br>
  <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
 
 <p align="center">
@@ -264,7 +264,7 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
   <img align="center" src="images\Social Media\twitter.svg" alt="Twitter" width="30px" /></a></code>
 </p>
 <br/>
-<br /> 
+<br /> -->
 
 <div align="center">
     <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views">
