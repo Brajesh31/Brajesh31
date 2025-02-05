@@ -35,7 +35,7 @@
  ### :zap: Most used languages ❤️  
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" height="100%" />
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" height="70%" />
 
 <p align="center">
   <!-- Top Languages -->
