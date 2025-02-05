@@ -236,34 +236,23 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+## Projects Highlights
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-  <!-- Left-aligned text content -->
-  <div style="width: 50%; text-align: left;">
-    <h2>🚀 Projects Highlights</h2>
-    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+- **Frontend Development:**
+  - Utilized React to create dynamic and interactive user interfaces.
+  - Implemented responsive design principles for a seamless user experience.
+  - Collaborated with the design team to ensure a visually appealing and intuitive frontend.
 
-    <p><strong>Frontend Development:</strong></p>
-    <p>• Utilized React to create dynamic and interactive user interfaces.</p>
-    <p>• Implemented responsive design principles for a seamless user experience.</p>
-    <p>• Collaborated with the design team to ensure a visually appealing and intuitive frontend.</p>
+- **Backend Development:**
+  - Implemented backend functionalities using Python and FastAPI.
+  - Integrated frontend and backend components to ensure smooth communication.
+  - Contributed to the design and implementation of RESTful APIs.
 
-    <p><strong>Backend Development:</strong></p>
-    <p>• Implemented backend functionalities using Python and FastAPI.</p>
-    <p>• Integrated frontend and backend components to ensure smooth communication.</p>
-    <p>• Contributed to the design and implementation of RESTful APIs.</p>
+- **Automation and Web Scraping:**
+  - Developed automation scripts using Selenium for efficient and reliable processes.
+  - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
 
-    <p><strong>Automation and Web Scraping:</strong></p>
-    <p>• Developed automation scripts using Selenium for efficient and reliable processes.</p>
-    <p>• Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.</p>
-  </div>
-
-  <!-- Right-aligned GIF -->
-  <div style="width: 45%; text-align: right;">
-    <img alt="Coding" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" style="width: 100%; height: auto; max-height: 300px;">
-  </div>
-
-</div>
 
 
 
