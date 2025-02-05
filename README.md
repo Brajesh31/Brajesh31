@@ -239,39 +239,22 @@
 ## Projects Highlights
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <!-- Left Side: Text Content (50%) -->
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
-      <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
-      
-      <p><strong>Frontend Development:</strong></p>
-      <ul>
-        <li>Utilized React to create dynamic and interactive user interfaces.</li>
-        <li>Implemented responsive design principles for a seamless user experience.</li>
-        <li>Collaborated with the design team to ensure a visually appealing and intuitive frontend.</li>
-      </ul>
+Frontend Development:
 
-      <p><strong>Backend Development:</strong></p>
-      <ul>
-        <li>Implemented backend functionalities using Python and FastAPI.</li>
-        <li>Integrated frontend and backend components to ensure smooth communication.</li>
-        <li>Contributed to the design and implementation of RESTful APIs.</li>
-      </ul>
+Utilized React to create dynamic and interactive user interfaces.
+Implemented responsive design principles for a seamless user experience.
+Collaborated with the design team to ensure a visually appealing and intuitive frontend.
+Backend Development:
 
-      <p><strong>Automation and Web Scraping:</strong></p>
-      <ul>
-        <li>Developed automation scripts using Selenium for efficient and reliable processes.</li>
-        <li>Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.</li>
-      </ul>
-    </td>
+Implemented backend functionalities using Python and FastAPI.
+Integrated frontend and backend components to ensure smooth communication.
+Contributed to the design and implementation of RESTful APIs.
+Automation and Web Scraping:
 
-    <!-- Right Side: GIF (50%) -->
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-      <img alt="Coding" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" style="width: 100%; height: auto; max-height: 350px;">
-    </td>
-  </tr>
-</table>
+Developed automation scripts using Selenium for efficient and reliable processes.
+Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
+
+    
 
 
 
