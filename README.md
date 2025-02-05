@@ -35,21 +35,21 @@
  ### :zap: Most used languages ❤️  
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="400px" />
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" />
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="50%">
   
   <!-- Pie Chart for Language Usage -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="50%">
 </p>
 
 <br><br>
 
 <!-- Productive Time Section -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="70%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="100%">
 </p>
 
 
