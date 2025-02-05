@@ -181,9 +181,9 @@
 ### :zap: GitHub Stats 📈
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -201,11 +201,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="400" />
       </a>
      </td>
-      <td>
-      <a href="https://github.com/Brajesh31/Brajesh31.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Brajesh31&repo=Brajesh31.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
-      </a>
-     </td>
+      
   </tr>
 </table>
 
