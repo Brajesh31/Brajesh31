@@ -231,31 +231,51 @@
     </a>
 </p>
 
-## Projects Highlights  
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+
+
+
+
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   
   <!-- Left-aligned content -->
   <div style="width: 50%;">
-    - **Frontend Development:**  
-      - Utilized React to create dynamic and interactive user interfaces.  
-      - Implemented responsive design principles for a seamless user experience.  
-      - Collaborated with the design team to ensure a visually appealing and intuitive frontend.  
+    <h2>🚀 Projects Highlights</h2>
+    <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
+    
+    <ul>
+      <li><strong>Frontend Development:</strong>
+        <ul>
+          <li>Utilized React to create dynamic and interactive user interfaces.</li>
+          <li>Implemented responsive design principles for a seamless user experience.</li>
+          <li>Collaborated with the design team to ensure a visually appealing and intuitive frontend.</li>
+        </ul>
+      </li>
+      
+      <li><strong>Backend Development:</strong>
+        <ul>
+          <li>Implemented backend functionalities using Python and FastAPI.</li>
+          <li>Integrated frontend and backend components to ensure smooth communication.</li>
+          <li>Contributed to the design and implementation of RESTful APIs.</li>
+        </ul>
+      </li>
 
-    - **Backend Development:**  
-      - Implemented backend functionalities using Python and FastAPI.  
-      - Integrated frontend and backend components to ensure smooth communication.  
-      - Contributed to the design and implementation of RESTful APIs.  
-
-    - **Automation and Web Scraping:**  
-      - Developed automation scripts using Selenium for efficient and reliable processes.  
-      - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.  
+      <li><strong>Automation and Web Scraping:</strong>
+        <ul>
+          <li>Developed automation scripts using Selenium for efficient and reliable processes.</li>
+          <li>Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.</li>
+        </ul>
+      </li>
+    </ul>
   </div>
 
   <!-- Right-aligned GIF -->
-  <img align="right" alt="Coding" width="45%" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" style="height: auto; max-height: 250px;">
+  <div style="width: 45%; text-align: right;">
+    <img alt="Coding" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075" style="width: 100%; height: auto; max-height: 300px;">
+  </div>
+
 </div>
+
 
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
 
