@@ -4,6 +4,11 @@
 ### <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1><br>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Brajesh31&label=Profile%20views&color=0e75b6&style=flat" alt="zigaowang"/>
+  <img src="https://waka.hackclub.com/api/badge/U06FTV6SQAH/U06FTV6SQAH?interval=30_days&label=last%2030d" alt="WakaTime Badge"/>
+</p>
+
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
