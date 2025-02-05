@@ -35,17 +35,22 @@
 ### :zap: Most used languages ❤️  
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" style="max-height: 80px; height: auto;" />
+<div style="display: flex; align-items: center; justify-content: center;">
+  <!-- GIF -->
+  <img alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" style="width: 50%; height: 100%;" />
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="50%">
-  
-  <!-- Pie Chart for Language Usage -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="50%">
-</p>
+  <div style="display: flex; flex-direction: column; width: 50%;">
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="width: 100%;" />
+    
+    <!-- Pie Chart for Language Usage -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" style="width: 100%;" />
+  </div>
+</div>
 
 <br><br>
+
+
 
 
 <!-- Productive Time Section -->
