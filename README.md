@@ -32,10 +32,10 @@
 - Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
 
  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002) -->
- ### :zap: Most used languages ❤️  
+### :zap: Most used languages ❤️  
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" height="70%" />
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" style="max-height: 180px; height: auto;" />
 
 <p align="center">
   <!-- Top Languages -->
@@ -46,6 +46,7 @@
 </p>
 
 <br><br>
+
 
 <!-- Productive Time Section -->
 <p align="center">
