@@ -187,11 +187,11 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center">&nbsp;
-  
- <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" />
+<p align="center">
+  <br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" width="100%" />
 </p>
+
 <!-- <br><br><br> -->
 
 <table>
