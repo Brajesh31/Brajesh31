@@ -188,7 +188,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh31&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+  
  <br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" />
 </p>
@@ -201,7 +201,9 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="400" />
       </a>
      </td>
-      
+      <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh31&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+     </td>
   </tr>
 </table>
 
