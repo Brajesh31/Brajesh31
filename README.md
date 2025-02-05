@@ -239,20 +239,19 @@
 ## Projects Highlights
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-Frontend Development:
+- **Frontend Development:**
+  - Utilized React to create dynamic and interactive user interfaces.
+  - Implemented responsive design principles for a seamless user experience.
+  - Collaborated with the design team to ensure a visually appealing and intuitive frontend.
 
-Utilized React to create dynamic and interactive user interfaces.
-Implemented responsive design principles for a seamless user experience.
-Collaborated with the design team to ensure a visually appealing and intuitive frontend.
-Backend Development:
+- **Backend Development:**
+  - Implemented backend functionalities using Python and FastAPI.
+  - Integrated frontend and backend components to ensure smooth communication.
+  - Contributed to the design and implementation of RESTful APIs.
 
-Implemented backend functionalities using Python and FastAPI.
-Integrated frontend and backend components to ensure smooth communication.
-Contributed to the design and implementation of RESTful APIs.
-Automation and Web Scraping:
-
-Developed automation scripts using Selenium for efficient and reliable processes.
-Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
+- **Automation and Web Scraping:**
+  - Developed automation scripts using Selenium for efficient and reliable processes.
+  - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
 
     
 
