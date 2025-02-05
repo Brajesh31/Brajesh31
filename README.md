@@ -32,26 +32,25 @@
 - Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
 
  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002) -->
-  ### :zap: Most used languages ❤️
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="430px" />
+ ### :zap: Most used languages ❤️  
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
+
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="400px" />
+
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%">
   
-  <!-- Most Commit Language -->
- <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&theme=dracula" alt="Most Commit Language" width="45%">
--->
   <!-- Pie Chart for Language Usage -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="45%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="48%">
 </p>
 
-<br><br><br>
+<br><br>
 
-<!-- Optional Section: Productive Time (commented for now, can be included if needed) -->
+<!-- Productive Time Section -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="65%">
-</p> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="70%">
+</p>
 
 
 
