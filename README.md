@@ -55,10 +55,19 @@
 </p>
 
 
+## 🎯 Expertise Areas
 
+<details open>
+<summary>💻 Development Environment</summary>
+<div align="center">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+    <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
+</div>
+</details>
 
-
-
+<details open>
 
 ### 🛠 &nbsp;Skills:
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
