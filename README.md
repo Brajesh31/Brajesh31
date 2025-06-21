@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00ffff" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=00ffff" alt="Followers"/>
     <img src="https://img.shields.io/badge/Status-Always%20Coding-00ffff?style=for-the-badge" alt="Status"/>
-    <img src="https://img.shields.io/badge/Experience-4+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
+    <img src="https://img.shields.io/badge/Experience-6+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
 </div>
 
 
@@ -320,9 +320,13 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 ### 💡 Contribution & Open Source:
 I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
 
-[![Today's Contribution](https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/Brajesh31)
-
-[![Snake Animation](https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg)](https://github.com/Brajesh31)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 </div>
 <div align="center">
