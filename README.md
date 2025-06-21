@@ -182,34 +182,88 @@
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake&perline=3" />
   </div>
 </details>
+### 🛠 &nbsp;Skills:
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <details open>
-  <summary><strong>Frontend</strong></summary>
-  - ![React](https://img.shields.io/badge/React-Advanced-blue) (Proficient in building complex UI components and managing state effectively)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow) (Strong understanding of core concepts and modern ES6+ features)
-  - ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue) (Familiar with building server-side rendered and statically generated React applications)
-  - ![Redux](https://img.shields.io/badge/Redux-Intermediate-yellow) (Experience in state management with Redux)
-  - ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange) (Proficient in semantic markup and modern HTML features)
-  - ![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue) (Skilled in styling web pages and creating responsive layouts)
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue) (Familiar with the Bootstrap framework for rapid front-end development)
-  - ![Material-UI](https://img.shields.io/badge/Material--UI-Intermediate-green) (Experience in implementing Material Design components in React applications)
-  - ![jQuery](https://img.shields.io/badge/jQuery-Intermediate-blue) (Familiarity with jQuery for DOM manipulation and event handling)
-  - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Beginner-green) (Basic knowledge of utility-first CSS framework)
-
-  <summary><strong>Backend</strong></summary>
-  - ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-green) (Experience in building fast and modern web APIs with Python)
-  - ![Python](https://img.shields.io/badge/Python-Advanced-blue) (Proficient in Python programming language, used for backend development)
-  - ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-blue) (Familiar with C/C++ programming languages)
-  - ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) (Familiar with Java programming language)
-
-  <summary><strong>Database</strong></summary>
-  - ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue) (Experience in relational database management with MySQL)
-  - ![DBMS](https://img.shields.io/badge/DBMS-Intermediate-yellow) (Understanding of database management systems concepts)
-
-  <summary><strong>Version Control & Other Tools</strong></summary>
-  - ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Advanced-blue) (Proficient in version control with Git and collaboration on GitHub)
-  - ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow) (Familiar with Linux operating system)
-  - ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)
+  <summary><strong>Frontend Development</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React"/>
+    <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Next.js-Intermediate-blue" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Redux-Intermediate-yellow" alt="Redux"/>
+    <img src="https://img.shields.io/badge/HTML5-Advanced-orange" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Bootstrap-Intermediate-blue" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Material--UI-Intermediate-green" alt="Material-UI"/>
+    <img src="https://img.shields.io/badge/jQuery-Intermediate-blue" alt="jQuery"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-Beginner-green" alt="Tailwind CSS"/>
+  </p>
 </details>
+
+<details>
+  <summary><strong>Backend Development</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-Intermediate-green" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Python-Advanced-blue" alt="Python"/>
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-blue" alt="C/C++"/>
+    <img src="https://img.shields.io/badge/Java-Intermediate-yellow" alt="Java"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Database & Management</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-Intermediate-blue" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white" alt="NoSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Version Control & Other Tools</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Git%2FGitHub-Advanced-blue" alt="Git"/>
+    <img src="https://img.shields.io/badge/Linux-Intermediate-yellow" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Firebase-Intermediate-orange" alt="Firebase"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>DevOps & Cloud</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/Azure-0087FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>AI/ML & Data Science</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  </p>
+</details>
+
+<details>
+  <summary><strong>IoT & Electronics</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+    <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  </p>
+</details>
+
 
 ### :zap: GitHub Stats 📈
 
