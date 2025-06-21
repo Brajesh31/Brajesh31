@@ -216,9 +216,9 @@
 ### :zap: GitHub Stats 📈
 
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -241,7 +241,6 @@
      </td>
   </tr>
 </table>
-###Trophies
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
