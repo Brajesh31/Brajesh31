@@ -273,7 +273,10 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     
 
-  <img src="https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg" alt="Snake animation" style="width: 100%; max-width: 800px;" />
+### 💡 Contribution & Open Source:
+I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
+
+[![Snake Animation](https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg)](https://github.com/Brajesh31)
 
 </div>
 <div align="center">
