@@ -42,6 +42,9 @@
 </p>
 
 <br><br>
+<div align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+</div>
 
 
 
@@ -50,6 +53,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="100%">
 </p>
+
 
 
 
@@ -205,6 +209,13 @@
      </td>
   </tr>
 </table>
+
+## 💭 Developer Quote
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
 
 ## ❤️ Let's get connected:
 
