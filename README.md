@@ -7,54 +7,81 @@
   <img src="https://waka.hackclub.com/api/badge/U06FTV6SQAH/U06FTV6SQAH?interval=30_days&label=last%2030d" alt="WakaTime Badge"/>
 </p>
 
-## 👨‍💻 About Me:
+## 👨🏻‍💻 About Me:
 
 <img src="https://media.giphy.com/media/d3o6g2jm5Cps2M2fPj/giphy.gif" height="290px" align="right" />
 
-- 🙋‍♂️ **Check out my portfolio** at [My Portfolio](https://etech-community.com) – Get a closer look at my work and journey!
-- 🔭 Currently, I'm diving deep into **AI-powered applications** and building the **Tech Dev Club**, an online community for tech enthusiasts.
-- 🌱 Always learning! Right now, I'm mastering **MERN Stack**, **AI/ML**, **Cloud Technologies**, and **Blockchain**.
-- 👯 I’m open to collaborating on **Dev Projects**, **AI Systems**, and **Blockchain Solutions**.
-- 🤔 If you need help with **Competitive Programming**, **AI algorithms**, or **Web Development**, I’m your go-to person!
-- 💬 Ask me anything—except **Maths** (my kryptonite 😅).
-- ⚡ Fun fact: I’m a **gaming enthusiast** – always squeezing in a game when I can!
+- 🙋‍♂️ **All about me is at [My Website](/)** – Explore my projects, blogs, and everything I do.
+- 🔭 Currently, I’m working on **Agrilearn AI**, an AI-powered agricultural information platform, and **Tech Dev Club**, a community for tech enthusiasts.
+- 🌱 I’m learning **MERN Stack**, **AI/ML**, **Blockchain** to stay on the cutting edge of technology.
+- 👯 I’m open to collaborating on **Dev Projects**, **AI Solutions**, and **Blockchain Integrations**.
+- 🤔 Looking for guidance and mentorship in **Competitive Programming** and **Advanced AI Models**.
+- 💬 Feel free to ask me about anything—except **Maths** (I’m not great with that 😅).
+- ⚡ **Fun Fact**: I’m a **gaming enthusiast** and love playing games in my free time 🎮.
 
-**Core Values:**
-- **Passionate learner:** Always exploring the latest in tech.
-- **Innovative developer:** Building scalable, intuitive, and creative solutions.
-- **Community-driven:** Helping peers through knowledge sharing and collaboration.
+Passionate about continuous learning and always eager to create innovative solutions to real-world problems.
+
+---
 
 ### 💻 Tech Stack & Skills:
+
 #### **Frontend Development:**
-- 💡 **React** | **Redux** | **Next.js** | **Material UI** | **Tailwind CSS** | **JavaScript** | **HTML5/CSS3** 
-
-#### **Backend Development:**
-- ⚙️ **Python** | **FastAPI** | **Node.js** | **Express** | **Java** | **C/C++** | **Go**
-
-#### **Database Management:**
-- 🗂️ **MySQL** | **MongoDB** | **NoSQL** | **PostgreSQL**
-
-#### **DevOps & Tools:**
-- 🔧 **Git** | **Docker** | **Jenkins** | **AWS** | **Ansible** | **Jira** | **CI/CD Pipelines**
-
-#### **AI & Machine Learning:**
-- 🤖 **TensorFlow** | **PyTorch** | **Scikit-learn** | **Natural Language Processing (NLP)**
-
-#### **Cloud & Hosting:**
-- ☁️ **AWS** | **Firebase** | **Heroku** | **Google Cloud Platform (GCP)**
-
-#### **Version Control:**
-- 🔄 **GitHub** | **GitLab**
-
-### :zap: Most Used Languages ❤️  
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="50%">
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🚀 GitHub Stats 📈
+#### **Backend Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+</p>
+
+#### **Database Management:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white" alt="NoSQL"/>
+</p>
+
+#### **DevOps & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3"/>
+</p>
+
+#### **AI & Machine Learning:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+#### **Cloud & Hosting:**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
+
+#### **Version Control:**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+</p>
+
+---
+
+### :zap: GitHub Stats 📈
+
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" width="100%" />
 </p>
@@ -65,62 +92,75 @@
 
 ---
 
-### 🛠️ My Key Projects:
-#### **Agrilearn AI** – AI-Powered Agricultural Information System:
-- 🚜 Utilized machine learning to predict crop yields and offer smart farming advice.
-- 🌾 Key Technologies: **Python**, **TensorFlow**, **Flask**, **AWS**.
-- 🎯 Result: Improved decision-making for farmers, boosting crop productivity by 20%.
+### 🛠️ Key Projects:
 
-#### **Tech Dev Club** – Community for Tech Enthusiasts:
-- 🌍 Founded a global community platform for developers to connect, collaborate, and innovate.
-- 🎤 Features: **Webinars**, **Workshops**, **Mentorship**, **Projects**.
-- 🔧 Tech Stack: **React**, **Node.js**, **MongoDB**, **JWT Authentication**.
-- 🌐 **Official Website:** [Tech Dev Club](https://techdevclub.com)
+#### **Agrilearn AI** – AI-Powered Agricultural Information System:
+- 🚜 **AI-driven platform** providing farmers with smart crop recommendations and market trends.
+- 🌾 **Tech Used**: **Python**, **TensorFlow**, **FastAPI**, **AWS**.
+- 🎯 **Outcome**: Enhanced farming decisions, increased crop productivity by 20%.
+
+#### **Tech Dev Club** – Tech Community Platform:
+- 🌍 **Global community** for developers, offering mentorship, collaborations, and resources.
+- 🎤 **Features**: **Webinars**, **Workshops**, **Projects**, **Tech Talks**.
+- 🔧 **Tech Stack**: **React**, **Node.js**, **MongoDB**, **JWT Authentication**.
+- 🌐 **Website**: [Tech Dev Club](https://techdevclub.com)
 
 #### **AI Therapist (Thea)** – Empathetic AI Assistant:
-- 🤖 An AI therapist built to provide emotional support and mental wellness advice.
-- 🧠 Key Technologies: **Python**, **Natural Language Processing (NLP)**, **TensorFlow**.
-- 🎯 Result: Aimed at promoting mental health by making therapy accessible 24/7.
+- 🤖 An **AI-powered therapist** providing mental health support and guidance.
+- 🧠 **Tech Used**: **Python**, **TensorFlow**, **NLP**.
+- 🎯 **Impact**: Accessible 24/7 mental health support for users worldwide.
 
-#### **AgroTech AI** – Smart Agriculture Solutions:
-- 🌱 An intelligent platform built to aid farmers with real-time insights on crop health and market trends.
-- 🔧 Key Technologies: **React**, **Node.js**, **MongoDB**, **IoT Integration**.
-- 🎯 Result: Empowered farmers with actionable insights, reducing operational costs by 30%.
+#### **AgroTech AI** – Smart Farming Solutions:
+- 🌱 A platform offering real-time insights for farmers on crop health and market trends.
+- 🔧 **Tech Stack**: **React**, **Node.js**, **MongoDB**, **IoT Integration**.
+- 🎯 **Impact**: Reduced operational costs by 30% for farmers.
 
-#### **Emma** – Personal AI Assistant:
-- 💼 Built an intelligent personal assistant to help users manage their daily tasks, set reminders, and get personalized advice.
-- 🧠 Key Technologies: **Python**, **Natural Language Processing**, **AI**.
-- 🎯 Result: Simplified everyday productivity for users with personalized task automation.
+#### **FitDeck** – Fitness Community Platform:
+- 💪 A social platform for **fitness enthusiasts** to track workouts, share goals, and follow coaches.
+- 🧠 **Tech Used**: **React**, **Node.js**, **MongoDB**, **Firebase**.
+- 🎯 **Outcome**: Increased engagement and fitness goal tracking.
 
 ---
 
 ### :bar_chart: Stats & Achievements:
-- 💯 Achieved **5 Stars** on **HackerRank** in Python.
-- 🏆 **3 Stars** on **CodeChef** with a rating of **1500+**.
-- 📚 Completed certifications from **IBM**, **Google Cloud**, **Microsoft**, and **Cognitive Class** in **AI**, **Data Science**, **SQL**, and **Python**.
-- 👨‍💻 Contributed as a **SSOC Contributor** in **Season 4**.
-- 🏅 Recipient of the **Gemini** certifications from **Google Cloud** in **Docs**, **Sheets**, **Slides**, and **Meet**.
+
+- 💯 **5 Stars** on **HackerRank** (Python).
+- 🏆 **3 Stars** on **CodeChef** (Rating: 1500+).
+- 📚 Certifications from **IBM**, **Google Cloud**, **Microsoft**, **Cognitive Class** in **AI**, **Data Science**, **SQL**, and **Python**.
+- 👨‍💻 **SSOC Contributor** (Season 4).
+- 🏅 **Gemini** certifications from **Google Cloud** (Docs, Sheets, Slides, Meet).
 
 ---
 
-### 🌱 Let's Connect and Collaborate:
+### 🌱 Let’s Connect:
 
-- **LinkedIn:** [Brajesh Kumar](https://www.linkedin.com/in/brajesh-kumar-9b58651a8)
-- **Twitter:** [@lord_Brajesh](https://x.com/lord_Brajesh)
-- **GitHub:** [Brajesh31](https://github.com/Brajesh31)
-- **Instagram:** [@lord_brajesh](https://www.instagram.com/lord_brajesh)
-- **Telegram:** [Lord_Brajesh](https://t.me/lord_Brajesh)
+<p>
+    <a href="https://x.com/lord_Brajesh" target="_blank">
+        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+    </a>
+    <a href="https://t.me/lord_Brajesh" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
+    </a>
+    <a href="https://www.instagram.com/lord_brajesh" target="_blank">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
+    </a>
+</p>
 
 ---
 
-### :star: Let's Work Together:
-Feel free to get in touch with me if you’re working on any interesting projects or if you need help with:
+### :star: Let's Collaborate:
+
 - **Frontend Development** | **Backend Integration** | **AI and Machine Learning** | **Competitive Programming** | **Tech Startups**
 
+Feel free to reach out to me if you're working on an interesting project or need assistance with any of the above!
+
 ---
 
-## 📈 My Professional Journey:
-Since 2023, I’ve been developing innovative solutions across multiple domains, including **AI**, **Full-Stack Web Development**, and **Cloud Integration**. From creating smart agriculture systems to co-founding **Tech Dev Club**, I've contributed to projects that empower communities and enhance real-world efficiency.
+### 📈 My Professional Journey:
+Since 2023, I’ve been dedicated to developing innovative solutions across domains such as **AI**, **Full-Stack Web Development**, and **Cloud Integration**. Whether it’s building **Agrilearn AI** or co-founding **Tech Dev Club**, I focus on creating impactful solutions that solve real-world problems.
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -143,29 +183,24 @@ Since 2023, I’ve been developing innovative solutions across multiple domains,
 
 ## 🚀 Additional Projects:
 
-### **FitDeck** – Fitness Community Platform:
-- 💪 A social platform for fitness enthusiasts to track workouts, share goals, and follow coaches.
-- 🧠 Key Technologies: **React**, **Node.js**, **MongoDB**, **Firebase**.
-- 🎯 Result: Increased engagement and fitness goal tracking within the community.
-
 ### **Cap’nShare** – Campus Food Sharing:
-- 🍲 A web application for students to share excess food with peers, reducing food waste.
-- 🧠 Key Technologies: **Ruby on Rails**, **PostgreSQL**, **AWS S3**.
-- 🎯 Result: Contributed to reducing campus food waste by 40%.
+- 🍲 An app for **students** to share excess food, reducing waste on campus.
+- 🧠 **Tech Used**: **Ruby on Rails**, **PostgreSQL**, **AWS S3**.
+- 🎯 **Impact**: Reduced campus food waste by 40%.
 
 ### **Career Mapper** – Job Comparison Tool:
-- 💼 An interactive platform that compares job opportunities based on various metrics like cost of living, crime rates, and safety.
-- 🧠 Key Technologies: **Python**, **React**, **MySQL**.
-- 🎯 Result: Helped users make informed decisions about relocation for jobs.
+- 💼 Compare job opportunities based on various indices (cost of living, safety, etc.).
+- 🧠 **Tech Used**: **Python**, **React**, **MySQL**.
+- 🎯 **Impact**: Helped users make more informed career decisions.
 
 ---
 
 ### 💬 Reach Out:
-I am always open to collaborations, discussions, or just sharing thoughts on tech innovations. Feel free to reach out through the contact options provided. Let’s create impactful projects together! 🚀
+I am always open to collaborations, discussions, and sharing insights on **tech innovations**. Feel free to connect, whether you're looking for **collaborators** or simply want to discuss the latest in **AI**, **web development**, or **startups**.
 
 ---
 
 ### 💡 Contribution & Open Source:
-I believe in contributing to the open-source community and sharing knowledge. I regularly contribute to GitHub repositories, collaborate with peers on coding challenges, and improve projects that promote social impact.
+I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
 
 [![Snake Animation](https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg)](https://github.com/Brajesh31)
