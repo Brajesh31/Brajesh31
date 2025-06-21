@@ -417,7 +417,7 @@ I contribute regularly to open-source projects and love collaborating with other
 
 </div>
 <div align="center">
-    <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views">
+    <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views"> 
     <br>
     © 2021 Brajesh Kumar
 </div>
