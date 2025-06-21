@@ -35,15 +35,16 @@
 
 <p align="center">
   <!-- Table to Align Top Languages and Pie Chart Side by Side with Increased Size -->
-  <table style="width: 200%; border: none; padding: 0; margin: 0;">
+  <table style="width: 100%; border: none; padding: 0; margin: 0;">
     <tr>
       <!-- Left: Top Languages -->
-      <td style="width: 100%; padding: 15px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="90%">
+      <td style="width: 50%; padding: 10px; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="100%">
       </td>
+
       <!-- Right: Pie Chart for Language Usage -->
-      <td style="width: 100%; padding: 15px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="90%">
+      <td style="width: 50%; padding: 10px; vertical-align: top;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="100%">
       </td>
     </tr>
   </table>
@@ -53,8 +54,9 @@
 
 <!-- Contribution Chart Below the Table -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
+
 
 
 
