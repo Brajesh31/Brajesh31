@@ -59,7 +59,7 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
-### :zap: Most Used Languages ❤️  
+:zap: Most Used Languages ❤️  
 
 <p align="center">
   <!-- Table to Align Top Languages and Pie Chart Side by Side with Increased Size -->
