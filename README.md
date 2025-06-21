@@ -44,7 +44,7 @@
 
       <!-- Right: Pie Chart for Language Usage -->
       <td style="width: 50%; padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="100%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="100%">
       </td>
     </tr>
   </table>
@@ -56,6 +56,7 @@
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
+
 
 
 
