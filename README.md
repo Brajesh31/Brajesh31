@@ -39,11 +39,11 @@
     <tr>
       <!-- Left: Top Languages -->
       <td style="width: 50%; padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="200%">
       </td>
       <!-- Right: Pie Chart for Language Usage -->
       <td style="width: 50%; padding: 10px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="100%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="200%">
       </td>
     </tr>
   </table>
