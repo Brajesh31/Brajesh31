@@ -293,11 +293,10 @@
 
 
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
-
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-<hr>
+ ###Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
