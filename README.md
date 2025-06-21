@@ -85,14 +85,6 @@
 </div>
 
 
-
-
-<!-- Productive Time Section -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="100%">
-</p>
-
-
 ## 🎯 Expertise Areas
 
 <details open>
