@@ -1,6 +1,3 @@
-<!--### Hi there! 👋
-
-# Developer Profile - Brajesh Kumar -->
 ### <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1><br>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -14,55 +11,36 @@
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](/)** 
+- 🔭 I’m currently working on `Agrilearn AI` and expanding my EdTech startup **Tech Dev Club**.
+- 🌱 I’m currently learning `MERN Stack`, `AI/ML`, and `Web3`
+- 👯 I’m looking to collaborate on `Dev Projects`, `AI-based Systems`, and `Blockchain Integrations`.
+- 🤔 I’m looking for help with `Competitive Programming` and advanced `AI models`.
+- 💬 Ask me about anything, except Maths 😅
+- 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+- ⚡ Fun fact: I waste most of my time playing games 🎮
 
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
-
-
-- Passionate learner and detail-oriented developer with a strong background in web development and backend programming.
+- Passionate learner and detail-oriented developer with a strong background in web development, backend programming, AI/ML, and blockchain technologies.
 - Proficient in:
   - React, HTML, CSS, and JSX for building dynamic and responsive user interfaces.
   - Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping.
-- Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
+  - Experienced in cloud technologies like AWS and Firebase for scalable solutions.
 
- <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002) -->
 ### :zap: Most used languages ❤️  
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)  
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/hamdan-codes/hamdan-codes/master/wave.gif" width="50%" style="max-height: 180px; height: auto;" />
 
 <p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="50%">
   
-  <!-- Pie Chart for Language Usage -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula" alt="Language Pie Chart" width="50%">
 </p>
 
 <br><br>
 
-
-
-
-<!-- Productive Time Section -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=5" alt="Productive Time" width="100%">
 </p>
-
-
-
-
 
 ### 🛠 &nbsp;Skills:
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
@@ -155,42 +133,8 @@
     </td>
   </tr>
 </table>
-<!--## Skills
-
-### Frontend
-- ![React](https://img.shields.io/badge/React-Advanced-blue) (Proficient in building complex UI components and managing state effectively)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow) (Strong understanding of core concepts and modern ES6+ features)
-- ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-blue) (Familiar with building server-side rendered and statically generated React applications)
-- ![Redux](https://img.shields.io/badge/Redux-Intermediate-yellow) (Experience in state management with Redux)
-
-- ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange) (Proficient in semantic markup and modern HTML features)
-- ![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue) (Skilled in styling web pages and creating responsive layouts)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-blue) (Familiar with the Bootstrap framework for rapid front-end development)
-- ![Material-UI](https://img.shields.io/badge/Material--UI-Intermediate-green) (Experience in implementing Material Design components in React applications)
-- ![jQuery](https://img.shields.io/badge/jQuery-Intermediate-blue) (Familiarity with jQuery for DOM manipulation and event handling)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Beginner-green) (Basic knowledge of utility-first CSS framework)
-
-### Backend
-- ![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-green) (Experience in building fast and modern web APIs with Python)
-- ![Python](https://img.shields.io/badge/Python-Advanced-blue) (Proficient in Python programming language, used for backend development)
-- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-blue) (Familiar with C/C++ programming languages)
-- ![Java](https://img.shields.io/badge/Java-Intermediate-yellow) (Familiar with Java programming language)
-
-### Database
-- ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue) (Experience in relational database management with MySQL)
-- ![DBMS](https://img.shields.io/badge/DBMS-Intermediate-yellow) (Understanding of database management systems concepts)
-
-### Version Control & Other Tools
-- ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Advanced-blue) (Proficient in version control with Git and collaboration on GitHub)
-- ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow) (Familiar with Linux operating system)
-- ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)-->
 
 ### :zap: GitHub Stats 📈
-
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -198,8 +142,6 @@
   <br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" width="100%" />
 </p>
-
-<!-- <br><br><br> -->
 
 <table>
   <tr>
@@ -231,11 +173,6 @@
     </a>
 </p>
 
-
-
-
-
-
 ## Projects Highlights
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
@@ -253,10 +190,6 @@
   - Developed automation scripts using Selenium for efficient and reliable processes.
   - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
 
-    
-
-
-
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
 
 <hr>
@@ -266,24 +199,8 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
-<!--<br><br><br>
- <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
-
-<p align="center">
-  <code><a href="https://bk117134@gmail.com/" target="_blank"> 
-  <img src="images\Social Media\Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
-  <code><a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8" target="_blank">
-  <img align="center" src="images\Social Media\linkedin.svg" alt="linkedin" width="30px" /></a></code>  
-  <code><a href="#" target="_blank">
-  <img align="center" src="images\Social Media\twitter.svg" alt="Twitter" width="30px" /></a></code>
-</p>
-<br/>
-<br /> -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
-
   <img src="https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg" alt="Snake animation" style="width: 100%; max-width: 800px;" />
-
 </div>
 <div align="center">
     <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views">
@@ -291,5 +208,4 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
     © 2021 Brajesh Kumar
 </div>
 
- 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
