@@ -30,7 +30,35 @@
   - Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping.
 - Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
 
- <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002) -->
+### :zap: GitHub Stats 📈
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
+
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">
+  <br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" width="100%" />
+</p>
+
+<!-- <br><br><br> -->
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Brajesh31/Brajesh31"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="400" />
+      </a>
+     </td>
+      <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh31&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+     </td>
+  </tr>
+</table>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
 ### :zap: Most Used Languages ❤️  
 
 <p align="center">
@@ -266,41 +294,6 @@
   </p>
 </details>
 
-
-
-
-
-### :zap: GitHub Stats 📈
-
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-<p align="center">
-  <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=dracula" width="100%" />
-</p>
-
-<!-- <br><br><br> -->
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Brajesh31/Brajesh31"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="400" />
-      </a>
-     </td>
-      <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh31&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
-     </td>
-  </tr>
-</table>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
 
 ## 💭 Developer Quote
 
