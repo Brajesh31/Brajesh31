@@ -180,7 +180,6 @@
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake&perline=3" />
   </div>
 </details>
-### 🛠 &nbsp;Skills:
 <details open>
   <summary><strong>Frontend Development</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
   <br>
