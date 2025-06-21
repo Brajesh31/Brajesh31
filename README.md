@@ -277,6 +277,8 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 ### 💡 Contribution & Open Source:
 I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
 
+[![Today's Contribution](https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/Brajesh31)
+
 [![Snake Animation](https://raw.githubusercontent.com/sogalabhi/sogalabhi/output/snake.svg)](https://github.com/Brajesh31)
 
 </div>
