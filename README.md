@@ -151,7 +151,24 @@
     </td>
   </tr>
 </table>
-<!--## Skills
+
+<details>
+  <summary>🔨 Tech Stack</summary>
+  <div align="center">
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,golang,rust&perline=7" />
+    <h3>Frontend Development:</h3>
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,tailwind,sass,webpack&perline=8" />
+    <h3>Backend & Database:</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,mongodb,mysql,postgres,redis&perline=8" />
+    <h3>DevOps & Cloud:</h3>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,terraform,ansible&perline=8" />
+    <h3>AI/ML & Data Science:</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium&perline=4" />
+    <h3>IoT & Electronics:</h3>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake&perline=3" />
+  </div>
+</details>
 
 ### Frontend
 - ![React](https://img.shields.io/badge/React-Advanced-blue) (Proficient in building complex UI components and managing state effectively)
