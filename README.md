@@ -34,23 +34,22 @@
 ### :zap: Most Used Languages ❤️  
 
 <p align="center">
-  <!-- Table to Align Top Languages and Pie Chart Side by Side -->
-  <table style="width: 100%; border: none; padding: 0; margin: 0; display: flex; justify-content: space-between;">
-    <tr>
-      <!-- Left: Top Languages -->
-      <td style="width: 50%; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="100%">
-      </td
-      <td style="width: 50%; padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="100%">
-      </td>
-    </tr>
-  </table>
+  <!-- Flexbox Container for Side-by-Side Layout -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;">
+    <!-- Left: Top Languages -->
+    <div style="flex: 1; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="100%">
+    </div>
+    <!-- Right: Pie Chart for Language Usage -->
+    <div style="flex: 1; padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="100%">
+    </div>
+  </div>
 </p>
 
 <br>
 
-<!-- Contribution Chart Below the Table -->
+<!-- Contribution Chart Below the Flexbox -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
