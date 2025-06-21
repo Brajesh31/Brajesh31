@@ -161,7 +161,8 @@
   </tr>
 </table>
 
-<details>
+</details>
+<details open>
   <summary>🔨 Tech Stack</summary>
   <div align="center">
     <h3>Languages:</h3>
@@ -178,7 +179,6 @@
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake&perline=3" />
   </div>
 </details>
-
 ### Frontend
 - ![React](https://img.shields.io/badge/React-Advanced-blue) (Proficient in building complex UI components and managing state effectively)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow) (Strong understanding of core concepts and modern ES6+ features)
@@ -206,6 +206,8 @@
 - ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Advanced-blue) (Proficient in version control with Git and collaboration on GitHub)
 - ![Linux](https://img.shields.io/badge/Linux-Intermediate-yellow) (Familiar with Linux operating system)
 - ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-orange) (Experience in using Firebase for backend services and hosting)-->
+
+  </details>
 
 ### :zap: GitHub Stats 📈
 
