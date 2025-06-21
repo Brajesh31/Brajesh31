@@ -81,6 +81,58 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 
+<summary>🪶 Badges from GSSOC'24</summary>
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
+      <br>
+      <strong>Postman</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
+      <br>
+      <strong>Explorer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
+      <br>
+      <strong>Adventurer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
+      <br>
+      <strong>Trailblazer</strong>
+    </td>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
+      <br>
+      <strong>SummitSeeker</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
+      <br>
+      <strong>Champion</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
+      <br>
+      <strong>Innovator</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="100" />
+      <br>
+      <strong>Conqurer</strong>
+    </td>
+  </tr>
+</table>
+<br>
 
 ## 🎯 Expertise Areas
 
@@ -94,9 +146,6 @@
 </div>
 </details>
 <details open>
-### 🛠 &nbsp;Skills:
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 <table>
   <tr>
     <td>💻 <strong>Frontend Development</strong></td>
