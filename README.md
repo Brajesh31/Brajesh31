@@ -241,6 +241,10 @@
      </td>
   </tr>
 </table>
+###Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</div>
 
 ## 💭 Developer Quote
 
@@ -293,10 +297,7 @@
 
 
 Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
- ###Trophies
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
+ 
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
 
