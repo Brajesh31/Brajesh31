@@ -81,7 +81,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 
-<summary>🪶 Badges from GSSOC'24</summary>
+<summary>🪶 Badges </summary>
 <!-- Row 1 -->
 <table align="center">
   <tr align="center">
