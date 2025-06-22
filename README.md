@@ -82,57 +82,83 @@
 </div>
 
 <summary>🪶 Badges from GSSOC'24</summary>
+<!-- Row 1 -->
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Postman%20Badge.png" alt="GSSoC'24 Postman Badge" width="100" />
-      <br>
-      <strong>Postman</strong>
+      <img src="assets/Adventurer Badge.png" alt="Adventurer Badge" width="100" />
+      <br><strong>Adventurer</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Explorer%20Badge.png" alt="GSSoC'24 Explorer Badge" width="100" />
-      <br>
-      <strong>Explorer</strong>
+      <img src="assets/Champion Badge.png" alt="Champion Badge" width="100" />
+      <br><strong>Champion</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Adventurer%20Badge.png" alt="GSSoC'24 Adventurer Badge" width="100" />
-      <br>
-      <strong>Adventurer</strong>
+      <img src="assets/Conqurer Badge.png" alt="Conqurer Badge" width="100" />
+      <br><strong>Conqurer</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Trailblazer%20Badge.png" alt="GSSoC'24 Trailblazer Badge" width="100" />
-      <br>
-      <strong>Trailblazer</strong>
+      <img src="assets/Explorer Badge.png" alt="Explorer Badge" width="100" />
+      <br><strong>Explorer</strong>
     </td>
+    <td align="center">
+      <img src="assets/Innovator Bage.png" alt="Innovator Bage" width="100" />
+      <br><strong>Innovator</strong>
     </td>
   </tr>
 </table>
 
+<!-- Row 2 -->
 <table align="center">
   <tr align="center">
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Summit%20Seeker%20Badge.png" alt="GSSoC'24 Summit Seeker Badge" width="100" />
-      <br>
-      <strong>SummitSeeker</strong>
+      <img src="assets/Postman Badge.png" alt="Postman Badge" width="100" />
+      <br><strong>Postman</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Champion%20Badge.png" alt="GSSoC'24 Champion Badge" width="100" />
-      <br>
-      <strong>Champion</strong>
+      <img src="assets/Summit Seeker Badge.png" alt="Summit Seeker Badge" width="100" />
+      <br><strong>Summit Seeker</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="assets/Trailblazer Badge.png" alt="Trailblazer Badge" width="100" />
+      <br><strong>Trailblazer</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="assets/Hands-on collab.png" alt="Hands-on collab" width="100" />
+      <br><strong>Hands-on Collab</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Innovator%20Bage.png" alt="GSSoC'24 Innovator Badge" width="100" />
-      <br>
-      <strong>Innovator</strong>
-    </td>
-    <td align="center">
-      <img src="https://github.com/MeetDOD/MeetDOD/blob/main/Conqurer%20Badge.png" alt="GSSoC'24 Conqurer Badge" width="100" />
-      <br>
-      <strong>Conqurer</strong>
+      <img src="assets/github-copilot.png" alt="GitHub Copilot" width="100" />
+      <br><strong>GitHub Copilot</strong>
     </td>
   </tr>
 </table>
-<br>
+
+<!-- Row 3 -->
+<table align="center">
+  <tr align="center">
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="assets/Hand-on Snowflake.png" alt="Hand-on Snowflake" width="100" />
+      <br><strong>Hands-on Snowflake</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="assets/8.png" alt="Badge 8" width="100" />
+      <br><strong>Badge 8</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="assertion-XkuMujUWTASFmoCJW7fpVw" width="100" />
+      <br><strong>Assertion</strong>
+    </td>
+    <td style="border-right: 1px solid #eeeeef;" align="center">
+      <img src="assets/Git Explorer.png" alt="Git Explorer" width="100" />
+      <br><strong>Git Explorer</strong>
+    </td>
+    <td align="center">
+      <img src="assets/Hack-Web3Conf 2024 Badge (2).png" alt="Hack-Web3Conf 2024 Badge" width="100" />
+      <br><strong>Hack-Web3Conf 2024</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🎯 Expertise Areas
 
