@@ -143,7 +143,7 @@
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="assets/8.png" alt="Badge 8" width="100" />
-      <br><strong>Badge 8</strong>
+      <br><strong>Dragon</strong>
     </td>
     <td style="border-right: 1px solid #eeeeef;" align="center">
       <img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="assertion-XkuMujUWTASFmoCJW7fpVw" width="100" />
