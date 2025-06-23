@@ -51,10 +51,11 @@
       </a>
      </td>
       <td>
-      <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)" />
+      <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true&type=png)](https://git.io/streak-stats)" />
      </td>
   </tr>
 </table>
+
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div> 
