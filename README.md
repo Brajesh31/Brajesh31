@@ -5,7 +5,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00ffff" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00ffff" alt="Profile Views"/> 
     <img src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=00ffff" alt="Followers"/>
     <img src="https://img.shields.io/badge/Status-Always%20Coding-00ffff?style=for-the-badge" alt="Status"/>
     <img src="https://img.shields.io/badge/Experience-6+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
