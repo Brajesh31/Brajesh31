@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Brajesh31/Brajesh31"> 
+      <a href="https://github.com/Brajesh31"> 
         <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="495" height="195" />
       </a>
     </td>
