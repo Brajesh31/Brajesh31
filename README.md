@@ -51,7 +51,9 @@
       </a>
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats">
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true" alt="GitHub Streak" width="495" height="195" />
+      </a>
     </td>
   </tr>
 </table>
