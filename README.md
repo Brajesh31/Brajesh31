@@ -52,7 +52,7 @@
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-       <img src="https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true&border_radius=4&card_width=490&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" width="490" height="195 /></a>
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true&border_radius=4&card_width=490&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak"/></a>
     </td>
   </tr>
 </table>
