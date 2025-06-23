@@ -49,12 +49,13 @@
       <a href="https://github.com/Brajesh31/Brajesh31"> 
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="400" />
       </a>
-     </td>
-      <td>
-      <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true&type=png)](https://git.io/streak-stats)" />
-     </td>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" width="400" />
+    </td>
   </tr>
 </table>
+
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
