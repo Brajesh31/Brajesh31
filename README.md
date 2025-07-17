@@ -76,6 +76,24 @@
   </table>
 </p>
 
+
+<p align="center">
+  <table style="width: 1000%; border: none; padding: 0; margin: 0;">
+    <tr>
+      <!-- Left: Top Languages -->
+      <td style="width: 300%; padding: 10px; vertical-align: top;">
+        <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=radical)" alt="Top Languages" width="400%">
+      </td>
+      <!-- Right: Pie Chart for Language Usage -->
+      <td style="width: 300%; padding: 10px; vertical-align: top;">
+        <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=8)" alt="Language Pie Chart" width="400%">
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
 <div align="center">
   <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
