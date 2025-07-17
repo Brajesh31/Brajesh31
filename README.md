@@ -77,7 +77,7 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Brajesh31/github-readme-stats)" />
+  <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
 <br>
 
