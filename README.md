@@ -38,7 +38,7 @@
 
 <p align="center">
   <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" width="101%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" width="101%" />
 </p>
 
 <!-- <br><br><br> -->
