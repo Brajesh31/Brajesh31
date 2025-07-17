@@ -78,17 +78,18 @@
 
 
 <p align="center">
-  <table style="width: 1000%; border: none; padding: 0; margin: 0;">
+  <table style="border: none; padding: 0; margin: 0;">
     <tr>
-      <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=radical" width="400%">
+      <td style="padding: 10px; vertical-align: top;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=radical" width="500px">
       </td>
-      <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=8" width="400%">
+      <td style="padding: 10px; vertical-align: top;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=8" width="500px">
       </td>
     </tr>
   </table>
 </p>
+
 
 
 
