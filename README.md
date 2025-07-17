@@ -60,17 +60,17 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=16" />
 </div> 
+
+
+
 <p align="center">
-  <!-- Table to Align Top Languages and Pie Chart Side by Side with Increased Size -->
-  <table style="width: 1000%; border: none; padding: 0; margin: 0;">
+  <table style="border: none; padding: 0; margin: 0;">
     <tr>
-      <!-- Left: Top Languages -->
-      <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="400%">
+      <td style="padding: 10px; vertical-align: top;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="500px">
       </td>
-      <!-- Right: Pie Chart for Language Usage -->
-      <td style="width: 300%; padding: 10px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="400%">
+      <td style="padding: 10px; vertical-align: top;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true" alt="Language Pie Chart" width="500px">
       </td>
     </tr>
   </table>
