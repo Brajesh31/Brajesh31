@@ -38,7 +38,7 @@
 
 <p align="center">
   <br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" width="100%" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" width="101%" />
 </p>
 
 <!-- <br><br><br> -->
@@ -47,7 +47,7 @@
   <tr>
     <td>
       <a href="https://github.com/Brajesh31"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="495" height="195" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="495" height="196" />
       </a>
     </td>
     <td>
@@ -58,7 +58,7 @@
 
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=16" />
 </div> 
 <p align="center">
   <!-- Table to Align Top Languages and Pie Chart Side by Side with Increased Size -->
@@ -77,7 +77,7 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Brajesh31/github-readme-stats)" />
 </div>
 <br>
 
