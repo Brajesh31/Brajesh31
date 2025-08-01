@@ -43,7 +43,7 @@
 
 <!-- <br><br><br> -->
 
-<!-- <table>
+<table>
   <tr>
     <td>
       <a href="https://github.com/Brajesh31"> 
@@ -90,8 +90,6 @@
   </table>
 </p>
 
-
--->
 
 
 <div align="center">
