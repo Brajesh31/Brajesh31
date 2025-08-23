@@ -58,7 +58,7 @@
 
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=16" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Brajesh31)](https://github.com/ryo-ma/github-profile-trophy)" />
 </div> 
 
 
