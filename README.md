@@ -2,6 +2,11 @@
 
 # Developer Profile - Brajesh Kumar -->
 ### <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Design.+Create.;Passionate+Full+Stack+Developer;Crafting+seamless+web+experiences" alt="Typing SVG" />
+</p>
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
