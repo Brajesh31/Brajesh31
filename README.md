@@ -37,7 +37,7 @@
 ## ⏰ My Coding Activity
 <div align="center">
   <a href="https://wakatime.com/@brajesh31">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brajesh31&theme=vision-friendly-dark&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&theme=vision-friendly-dark&layout=compact" alt="WakaTime Stats"/>
 </a>
 </div>
 
