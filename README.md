@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Experience-6+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
 </div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 👨🏻‍💻 About Me:
 
@@ -34,6 +35,8 @@
   - Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping.
 - Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 ## ⏰ My Coding Activity
 <div align="center">
   <a href="https://wakatime.com/@Brajesh31">
@@ -41,12 +44,12 @@
 </a>
 </div>
 
-### :zap: GitHub Stats 📈
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+## GitHub Stats 📈
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  
 <div style="text-align: center;">
   <img 
@@ -56,6 +59,7 @@
   />
 </div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <!-- <br><br><br> -->
 
 <div align="center">
@@ -81,6 +85,8 @@
   </table>
 </div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <div align="center">
   <img 
     alt="GitHub Trophies"
@@ -89,6 +95,7 @@
   />
 </div>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">
   <table style="border: none; padding: 0; margin: 0;">
@@ -103,6 +110,7 @@
   </table>
 </p>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">
   <table style="border: none; padding: 0; margin: 0;">
@@ -117,17 +125,21 @@
   </table>
 </p>
 
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
   <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
 <br>
 
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <!-- Contribution Chart Below the Table -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <summary>🪶 Badges </summary>
 <!-- Row 1 -->
@@ -207,6 +219,8 @@
     </td>
   </tr>
 </table>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## 🎯 Expertise Areas
 
