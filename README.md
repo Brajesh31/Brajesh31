@@ -34,6 +34,13 @@
   - Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping.
 - Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
 
+## ⏰ My Coding Activity
+<div align="center">
+  <a href="https://wakatime.com/@brajesh31">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brajesh31&theme=vision-friendly-dark&layout=compact" alt="WakaTime Stats"/>
+</a>
+</div>
+
 ### :zap: GitHub Stats 📈
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
 
