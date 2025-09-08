@@ -101,10 +101,10 @@
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=radical" width="501px">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=dracula" width="501px">
       </td>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=radical&utcOffset=8" width="501px">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=dracula&utcOffset=8" width="501px">
       </td>
     </tr>
   </table>
