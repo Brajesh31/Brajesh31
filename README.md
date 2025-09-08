@@ -79,18 +79,25 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 16px; flex-wrap: wrap;">
-
-  <img 
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true&border_radius=10"
-  />
-
-  <img 
-    alt="Language Pie Chart"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true"
-  />
-
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="padding: 10px; vertical-align: top;">
+        <img 
+          alt="Top Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=dracula&hide_border=true&border_radius=10"
+          style="width: 100%;"
+        />
+      </td>
+      <td style="padding: 10px; vertical-align: top;">
+        <img 
+          alt="Language Pie Chart"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=dracula&hide_border=true"
+          style="width: 100%;"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
