@@ -41,10 +41,13 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  
-<p align="center">
-  <br><br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" width="101%" />
-</p>
+<div style="text-align: center;">
+  <img 
+    alt="Brajesh's GitHub Profile Summary Card"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" 
+    style="width: 100%; max-width: 800px;"
+  />
+</div>
 
 <!-- <br><br><br> -->
 
@@ -64,13 +67,8 @@
 
 <div align="center">
   <img 
-    alt="Top Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&margin-w=0&margin-h=0&include=sSSRank,multiLanguage,longTimeUser,newUser,repositories,commits,stars" 
-  />
-  <br>
-  <img 
-    alt="Bottom Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&margin-w=0&margin-h=0&include=followers,issues,pullRequest,ancientUser,organizations" 
+    alt="GitHub Trophies"
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
   />
 </div>
 
