@@ -292,17 +292,49 @@
   <summary>🔨 Tech Stack</summary>
   <div align="center">
     <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,golang,rust&perline=7" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="65px" />
     <h3>Frontend Development:</h3>
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,tailwind,sass,webpack&perline=8" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/nuxtjs-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65px" />
     <h3>Backend & Database:</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,mongodb,mysql,postgres,redis&perline=8" />
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="icon" width="65px" />
     <h3>DevOps & Cloud:</h3>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,terraform,ansible&perline=8" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/ansible-icon.svg" alt="icon" width="65px" />
     <h3>AI/ML & Data Science:</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium&perline=4" />
+    <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/opencv-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/selenium-icon.svg" alt="icon" width="65px" />
     <h3>IoT & Electronics:</h3>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake&perline=3" />
+    <img src="https://techstack-generator.vercel.app/arduino-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65px" />
+    <img src="https://techstack-generator.vercel.app/cmake-icon.svg" alt="icon" width="65px" />
   </div>
 </details>
 <details open>
