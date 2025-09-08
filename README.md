@@ -518,5 +518,5 @@ I contribute regularly to open-source projects and love collaborating with other
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github-readme-headers-footers/main/footer.gif">
+    <img src="https://raw.githubusercontent.com/Fantasztikus/Fantasztikus/master/separator.svg">
 </div>
