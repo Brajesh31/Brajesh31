@@ -65,7 +65,7 @@
 <div align="center">
   <img 
     alt="GitHub Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&no-frame=false&no-bg=false&margin-w=4" 
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
   />
 </div>
 
