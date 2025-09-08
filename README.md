@@ -51,18 +51,23 @@
 
 <!-- <br><br><br> -->
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Brajesh31"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Brajesh's GitHub Stats" width="495" height="196" />
-      </a>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Brajesh31&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 8px; flex-wrap: wrap;">
+  
+  <a href="https://github.com/Brajesh31">
+    <img 
+      alt="Brajesh's GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&border_radius=10" 
+    />
+  </a>
+
+  <a href="https://git.io/streak-stats">
+    <img 
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=Brajesh31&theme=radical&hide_border=true&border_radius=10" 
+    />
+  </a>
+
+</div>
 
 
 <div align="center">
