@@ -74,14 +74,13 @@
   </table>
 </div>
 
-
 <div align="center">
   <img 
     alt="GitHub Trophies"
     src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
+    style="width: 100%; max-width: 800px;"
   />
 </div>
-
 
 
 <p align="center">
