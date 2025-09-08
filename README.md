@@ -505,19 +505,21 @@ Feel free to reach out if you have any questions or if there's an opportunity fo
 I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 </div>
 
 <div align="center">
-    <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views"> 
-    <br>
-    © 2025 Brajesh Kumar
+    <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views"> 
+    <br>
+    © 2021 Brajesh Kumar
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/github-readme-headers-footers/main/footer.gif">
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 </div>
