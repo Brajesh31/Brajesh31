@@ -288,51 +288,54 @@
 </table>
 
 </details>
-</details>
 <details open>
   <summary>🔨 Tech Stack</summary>
   <div align="center">
     <h3>Languages:</h3>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="ReScript" width="45" height="45" /></div>
-    <img src="https://skillicons.dev/icons?i=golang,rust" alt="Go, Rust"/>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/golang-icon.svg" alt="Go" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="45" height="45" />
     <h3>Frontend Development:</h3>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="Storybook" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="Testing Library" width="45" height="45" /></div>
-    <img src="https://skillicons.dev/icons?i=vue,angular,nextjs,nuxtjs,tailwind" alt="Vue, Angular, Next.js, Nuxt.js, Tailwind CSS"/>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/nuxtjs-icon.svg" alt="Nuxt.js" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind CSS" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="45" height="45" />
     <h3>Backend & Database:</h3>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" /></div>
-    <img src="https://skillicons.dev/icons?i=nodejs,flask,express,mongodb,postgres,redis" alt="Node.js, Flask, Express, MongoDB, PostgreSQL, Redis"/>
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="Redis" width="45" height="45" />
     <h3>DevOps & Cloud:</h3>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" /></div>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" /></div>
-    <img src="https://skillicons.dev/icons?i=gcp,azure,jenkins,terraform,ansible" alt="GCP, Azure, Jenkins, Terraform, Ansible"/>
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="Google Cloud" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/ansible-icon.svg" alt="Ansible" width="45" height="45" />
     <h3>AI/ML & Data Science:</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium" alt="TensorFlow, PyTorch, OpenCV, Selenium"/>
+    <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/opencv-icon.svg" alt="OpenCV" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/selenium-icon.svg" alt="Selenium" width="45" height="45" />
     <h3>IoT & Electronics:</h3>
-    <div style="display: inline-block;"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="45" height="45" /></div>
-    <img src="https://skillicons.dev/icons?i=arduino,cmake" alt="Arduino, CMake"/>
-
+    <img src="https://techstack-generator.vercel.app/arduino-icon.svg" alt="Arduino" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/cmake-icon.svg" alt="CMake" width="45" height="45" />
+    
   </div>
 </details>
 <details open>
