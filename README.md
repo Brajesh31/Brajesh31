@@ -128,7 +128,7 @@
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <div align="center">
-  <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img width="100%" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
 <br>
 
