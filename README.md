@@ -506,9 +506,9 @@ I contribute regularly to open-source projects and love collaborating with other
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -516,9 +516,8 @@ I contribute regularly to open-source projects and love collaborating with other
 <div align="center">
     <img src="https://profile-counter.glitch.me/Brajesh31/count.svg" alt="Profile Views"> 
     <br>
-    © 2021 Brajesh Kumar
+    © 2025 Brajesh Kumar
 </div>
-
  
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<img src="https://raw.githubusercontent.com/rahul-jha98/github-readme-headers-footers/main/footer.gif">
 
