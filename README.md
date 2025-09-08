@@ -64,8 +64,13 @@
 
 <div align="center">
   <img 
-    alt="GitHub Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
+    alt="Top Trophies"
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&margin-w=0&margin-h=0&include=sSSRank,multiLanguage,longTimeUser,newUser,repositories,commits,stars" 
+  />
+  <br>
+  <img 
+    alt="Bottom Trophies"
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=radical&margin-w=0&margin-h=0&include=followers,issues,pullRequest,ancientUser,organizations" 
   />
 </div>
 
