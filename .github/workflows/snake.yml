@@ -1,51 +1,30 @@
-name: Generate Snake Animation & Profile Cards # Updated name to reflect both actions
+name: Generate Snake Animation
 
 on:
-  schedule:
-    # Runs every 2 hours
-    - cron: '0 */2 * * *'
-  # Allows manual running from the GitHub UI
-  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4 # Changed to v4 for latest best practices
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-      # --- 1. Generate Snake Animation ---
-      - name: Generate snake animation 🐍
-        uses: Platane/snk@v3
-        with:
-          # Using your specific GitHub username for accurate generation
-          github_user_name: Brajesh31
-          outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      # --- 2. Generate Profile Summary Cards ---
-      - name: Generate GitHub Profile Summary Cards 📈
-        uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
-        with:
-          # Your GitHub username
-          USERNAME: Brajesh31
-          # The branch to commit to, usually 'main' or 'master'
-          BRANCH_NAME: main
-          # Where the cards should be saved
-          FILE_NAME: profile-summary-card.svg
-          # Optional: Choose a style/template
-          TEMPLATE: github_snake
-          # Optional: Commits all generated card files to the repo
-          # This action automatically commits, but we'll use a single commit action below.
-
-      # --- 3. Push all generated files (Snake + Cards) ---
-      - name: Push generated files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update profile assets (snake animation & summary cards)"
-          # Commit all SVG files in the output directory and the root summary card
-          file_pattern: |
-            output/*.svg
-            profile-summary-card.svg
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+        
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update snake animation"
+          file_pattern: output/*.svg
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
