@@ -77,7 +77,7 @@
         <a href="https://git.io/streak-stats">
           <img 
             alt="GitHub Streak"
-            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=radical&hide_border=true&border_radius=10" 
+            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=tokyonight-duo&hide_border=true&border_radius=10" 
           />
         </a>
       </td>
