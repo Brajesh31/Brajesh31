@@ -54,7 +54,7 @@
 <div style="text-align: center;">
   <img 
     alt="Brajesh's GitHub Profile Summary Card"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=radical" 
     style="width: 100%; max-width: 800px;"
   />
 </div>
