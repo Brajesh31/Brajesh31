@@ -69,7 +69,7 @@
         <a href="https://github.com/Brajesh31">
           <img 
             alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=material_palenight" 
+            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=vision-friendly-dark" 
           />
         </a>
       </td>
@@ -90,7 +90,7 @@
 <div align="center">
   <img 
     alt="GitHub Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=material_palenight&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
     style="width: 100%; max-width: 800px;"/>
 </div>
 
@@ -100,7 +100,7 @@
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=material_palenight&hide_border=true" alt="Top Languages" width="500px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="500px">
       </td>
       <td style="padding: 10px; vertical-align: top;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=material_palenight&hide_border=true" alt="Language Pie Chart" width="500px">
