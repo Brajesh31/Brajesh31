@@ -54,7 +54,7 @@
 <div style="text-align: center;">
   <img 
     alt="Brajesh's GitHub Profile Summary Card"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=material_palenight" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=midnight_purple" 
     style="width: 100%; max-width: 800px;"
   />
 </div>
@@ -69,7 +69,7 @@
         <a href="https://github.com/Brajesh31">
           <img 
             alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=vision-friendly-dark" 
+            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=midnight_purple" 
           />
         </a>
       </td>
@@ -77,7 +77,7 @@
         <a href="https://git.io/streak-stats">
           <img 
             alt="GitHub Streak"
-            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=material_palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
+            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=midnight_purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
           />
         </a>
       </td>
@@ -90,7 +90,7 @@
 <div align="center">
   <img 
     alt="GitHub Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=dracula&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=midnight_purple&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
     style="width: 100%; max-width: 800px;"/>
 </div>
 
@@ -100,10 +100,10 @@
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="500px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=midnight_purple&hide_border=true" alt="Top Languages" width="500px">
       </td>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=material_palenight&hide_border=true" alt="Language Pie Chart" width="500px">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=midnight_purple&hide_border=true" alt="Language Pie Chart" width="500px">
       </td>
     </tr>
   </table>
@@ -115,10 +115,10 @@
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=material_palenight" width="501px">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=midnight_purple" width="501px">
       </td>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=material_palenight&utcOffset=8" width="501px">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=midnight_purple&utcOffset=8" width="501px">
       </td>
     </tr>
   </table>
@@ -128,7 +128,7 @@
 
 <!-- Contribution Chart Below the Table -->
 <div align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=vision-friendly-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=midnight_purple&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
