@@ -69,7 +69,7 @@
         <a href="https://github.com/Brajesh31">
           <img 
             alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=midnight_purple" 
+            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=github_dark" 
           />
         </a>
       </td>
@@ -100,7 +100,7 @@
   <table style="border: none; padding: 0; margin: 0;">
     <tr>
       <td style="padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=midnight_purple&hide_border=true" alt="Top Languages" width="500px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="500px">
       </td>
       <td style="padding: 10px; vertical-align: top;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=midnight_purple&hide_border=true" alt="Language Pie Chart" width="500px">
