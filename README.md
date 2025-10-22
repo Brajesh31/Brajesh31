@@ -69,7 +69,7 @@
         <a href="https://github.com/Brajesh31">
           <img 
             alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,commits_year=2024,commits_year=2023,commits_year=2022,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dracula" 
+            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage&commits_year=2024,commits_year=2023,commits_year=2022&rank_icon=percentile&theme=dracula" 
           />
         </a>
       </td>
