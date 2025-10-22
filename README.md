@@ -69,7 +69,7 @@
         <a href="https://github.com/Brajesh31">
           <img 
             alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&border_radius=10" 
+            src="https://github-readme-stats.vercel.app/api?username=Brajesh31\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&border_radius=10" 
           />
         </a>
       </td>
