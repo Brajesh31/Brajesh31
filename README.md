@@ -128,7 +128,7 @@
 
 <!-- Contribution Chart Below the Table -->
 <div align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=vision-friendly-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
 </div>
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
