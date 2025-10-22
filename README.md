@@ -90,7 +90,7 @@
 <div align="center">
   <img 
     alt="GitHub Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
+    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=dracula&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
     style="width: 100%; max-width: 800px;"/>
 </div>
 
