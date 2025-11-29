@@ -41,6 +41,7 @@
 <div align="center">
   <a href="https://wakatime.com/@Brajesh31">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&theme=vision-friendly-dark&layout=compact" alt="WakaTime Stats"/>
+   [![wakatime](https://wakatime.com/badge/user/d55f1647-8848-4cc5-accd-7347e1a3d7b8.svg)](https://wakatime.com/@d55f1647-8848-4cc5-accd-7347e1a3d7b8)
 </a>
 </div>
 
