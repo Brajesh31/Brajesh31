@@ -1,6 +1,6 @@
  <!--### Hi there! 👋
 
-# Developer Profile - Brajesh Kumar -->
+# Developer Profile - Brajesh Kumar  -->
 ### <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1><br>
 
 <p align="center">
