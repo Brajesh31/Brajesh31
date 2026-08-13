@@ -86,7 +86,12 @@ I'm a **Computer Science & Engineering student specializing in AI/ML**, focused 
 
 ## ⏱️ Coding Activity
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&theme=vision-friendly-dark&layout=compact)](https://wakatime.com/@Brajesh31)
+<p align="center">
+  <a href="https://wakatime.com/@Brajesh31">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&amp;theme=vision-friendly-dark&amp;layout=compact&amp;v=1" alt="Brajesh's WakaTime Stats" />
+  </a>
+</p>
+
 
 <p align="center">
   <i>Tracking the hours behind the code.</i>
