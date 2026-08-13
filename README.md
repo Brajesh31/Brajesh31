@@ -1,38 +1,42 @@
-<h1 align="center">Hey, I'm Brajesh Kumar.</h1>
+<h1 align="center">Hey, I'm Brajesh Kumar 👋</h1>
 
 <p align="center">
-  <strong>Engineer. Builder. Problem Solver.</strong>
+  <strong>Engineer · Builder · Problem Solver</strong>
 </p>
 
 <p align="center">
-  I build software at the intersection of <b>AI, full-stack engineering, and developer experience</b>.
-  <br>
-  Turning ambitious ideas into products that actually work.
+  I build software at the intersection of <strong>AI, full-stack engineering, and developer experience</strong>.
+  <br />
+  Turning ideas into reliable products, intelligent systems, and experiences people actually use.
 </p>
 
 <p align="center">
   <a href="https://github.com/Brajesh31">
-    <img src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=111827&label=PROFILE+VIEWS"
+      alt="Profile Views"
+    />
   </a>
   <a href="https://github.com/Brajesh31?tab=followers">
-    <img src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=0f172a&label=FOLLOWERS" alt="GitHub Followers"/>
+    <img
+      src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=111827&label=FOLLOWERS"
+      alt="GitHub Followers"
+    />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Building+products%2C+not+just+projects.;Engineering+systems+that+scale.;Exploring+AI+%C3%97+Software+Engineering.;Learning.+Building.+Shipping."
-    alt="Typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=64748B&center=true&vCenter=true&width=700&lines=Building+products%2C+not+just+projects.;Engineering+systems+that+scale.;Exploring+AI+%C3%97+Software+Engineering.;Designing.+Building.+Shipping."
+    alt="Brajesh Kumar typing introduction"
   />
 </p>
 
-<br>
+<br />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%" alt="Divider"/>
+  <strong>What I Build</strong>
 </p>
-
-<h3 align="center">⚡ What I Build</h3>
 
 <p align="center">
   <code>AI Systems</code>
@@ -47,8 +51,14 @@
 </p>
 
 <p align="center">
-  <i>Curiosity drives the idea. Engineering turns it into reality.</i>
+  <i>Curiosity starts the idea. Engineering brings it to life.</i>
 </p>
+
+<br />
+
+<hr />
+
+<br />
 
 
 ## 👨🏻‍💻 About Me:
