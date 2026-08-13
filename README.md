@@ -12,7 +12,6 @@
     alt="Typing introduction"
   />
 </p>
-
 <p align="center">
   <img
     src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
@@ -21,7 +20,6 @@
     alt="Divider"
   />
 </p>
-
 <p align="center">
   <a href="https://github.com/Brajesh31">
     <img
@@ -36,7 +34,6 @@
     />
   </a>
 </p>
-
 <p align="center">
   <strong>⚡ What I Build</strong>
   <br><br>
@@ -50,11 +47,9 @@
    • 
   <code>Web Experiences</code>
 </p>
-
 <p align="center">
   <i>Curiosity starts the idea. Engineering brings it to life.</i>
 </p>
-
 <p align="center">   <img     src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"     width="100%"     height="2"     alt="Divider"   /> </p>
 
 
