@@ -53,33 +53,61 @@
 <p align="center">   <img     src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"     width="100%"     height="2"     alt="Divider"   /> </p>
 
 
-## 👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img src="./thoughtworks-gif_dribbble.gif" height="280px" align="right" />
 
-- 🙋‍♂️ **All about me is at [My Website](https://edtech-community.com)** – Explore my projects, blogs, and everything I do.
-- 🔭 Currently, I’m working on **Agrilearn AI**, an AI-powered agricultural information platform, and **Tech Dev Club**, a community for tech enthusiasts.
-- 🌱 I’m learning **MERN Stack**, **AI/ML**, **Blockchain** to stay on the cutting edge of technology.
-- 👯 I’m open to collaborating on **Dev Projects**, **AI Solutions**, and **Blockchain Integrations**.
-- 🤔 Looking for guidance and mentorship in **Competitive Programming** and **Advanced AI Models**.
-- 💬 Feel free to ask me about anything—except **Maths** (I’m not great with that 😅).
-- ⚡ **Fun Fact**: I’m a **gaming enthusiast** and love playing games in my free time 🎮.
-- Passionate learner and detail-oriented developer with a strong background in web development and backend programming.
-- Proficient in:
-  - React, HTML, CSS, and JSX for building dynamic and responsive user interfaces.
-  - Python, FastAPI, Selenium, and BeautifulSoup for backend development, automation, and web scraping.
-- Contributed significantly to a comprehensive web application project, demonstrating expertise in both frontend and backend technologies.
+I'm a **Computer Science & Engineering student specializing in AI/ML**, focused on building practical software across **AI, full-stack development, automation, and developer tools**.
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+* 🔭 Building and working on products across **AI, web development, automation, and developer ecosystems**.
+* 💻 Experienced with **React, TypeScript, JavaScript, Python, FastAPI, Node.js, MongoDB, MySQL, Docker, and cloud platforms**.
+* 🤖 Exploring **AI/ML, LLM applications, RAG systems, and intelligent automation**.
+* 🌐 Interested in building products that combine **good engineering, thoughtful design, and real-world utility**.
+* 🚀 I enjoy taking ideas from **concept → architecture → implementation → deployment**.
+* 🤝 Open to collaborating on **AI products, full-stack applications, developer tools, and open-source projects**.
+* 🎮 Outside of code, you'll usually find me exploring technology, riding, gaming, or working on something new.
 
-## ⏰ My Coding Activity
-<div align="center">
+<br clear="right"/>
+
+<p align="center">
+  <i>Build with curiosity. Ship with intent. Keep learning.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
+    width="100%"
+    height="2"
+    alt="Divider"
+  />
+</p>
+
+## ⏱️ Coding Activity
+
+<p align="center">
   <a href="https://wakatime.com/@Brajesh31">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&theme=vision-friendly-dark&layout=compact" alt="WakaTime Stats"/>
-</a>
-</div>
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&theme=vision-friendly-dark&layout=compact"
+      alt="Brajesh Kumar's WakaTime Coding Activity"
+    />
+  </a>
+</p>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<p align="center">
+  <i>Tracking the hours behind the code.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
+    width="100%"
+    height="2"
+    alt="Divider"
+  />
+</p>
+
 
 ## GitHub Stats 📈
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
