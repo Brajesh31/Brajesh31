@@ -1,22 +1,55 @@
- <!--### Hi there! 👋
-
-# Developer Profile - Brajesh Kumar  -->
-  ### <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1><br>
+<h1 align="center">Hey, I'm Brajesh Kumar.</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Design.+Create.;Passionate+Full+Stack+Developer;Crafting+seamless+web+experiences" alt="Typing SVG" />
+  <strong>Engineer. Builder. Problem Solver.</strong>
 </p>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<p align="center">
+  I build software at the intersection of <b>AI, full-stack engineering, and developer experience</b>.
+  <br>
+  Turning ambitious ideas into products that actually work.
+</p>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00ffff" alt="Profile Views"/> 
-    <img src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=00ffff" alt="Followers"/> 
-    <img src="https://img.shields.io/badge/Status-Always%20Coding-00ffff?style=for-the-badge" alt="Status"/>
-    <img src="https://img.shields.io/badge/Experience-6+%20Years-00ffff?style=for-the-badge" alt="Experience"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Brajesh31">
+    <img src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Brajesh31?tab=followers">
+    <img src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=0f172a&label=FOLLOWERS" alt="GitHub Followers"/>
+  </a>
+</p>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Building+products%2C+not+just+projects.;Engineering+systems+that+scale.;Exploring+AI+%C3%97+Software+Engineering.;Learning.+Building.+Shipping."
+    alt="Typing introduction"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%" alt="Divider"/>
+</p>
+
+<h3 align="center">⚡ What I Build</h3>
+
+<p align="center">
+  <code>AI Systems</code>
+  &nbsp;•&nbsp;
+  <code>Full-Stack Products</code>
+  &nbsp;•&nbsp;
+  <code>Developer Tools</code>
+  &nbsp;•&nbsp;
+  <code>Automation</code>
+  &nbsp;•&nbsp;
+  <code>Web Experiences</code>
+</p>
+
+<p align="center">
+  <i>Curiosity drives the idea. Engineering turns it into reality.</i>
+</p>
+
 
 ## 👨🏻‍💻 About Me:
 
