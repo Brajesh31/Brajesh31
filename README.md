@@ -88,7 +88,10 @@ I'm a **Computer Science & Engineering student specializing in AI/ML**, focused 
 
 <p align="center">
   <a href="https://wakatime.com/@Brajesh31">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Brajesh31&amp;theme=vision-friendly-dark&amp;layout=compact&amp;v=1" alt="Brajesh's WakaTime Stats" />
+    <img 
+      src="https://stats-7nwldavev-brajeshs-projects-659a7e75.vercel.app/api/wakatime?username=Brajesh31&amp;theme=vision-friendly-dark&amp;layout=compact" 
+      alt="Brajesh Kumar's WakaTime Coding Activity" 
+    />
   </a>
 </p>
 
