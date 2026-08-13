@@ -1,23 +1,17 @@
 <h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1>
 
 <p align="center">
-  <strong>Engineer · Builder · Problem Solver</strong>
+  I build software at the intersection of <strong>AI, full-stack engineering, and developer experience</strong>.
+  <br>
+  Turning ideas into reliable products, intelligent systems, and experiences people actually use.
 </p>
-
-<p align="center">
-  <i>Building intelligent systems, full-stack products, and experiences that turn ideas into reality.</i>
-</p>
-
-<br>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00C7FF&center=true&vCenter=true&width=750&lines=AI+%C3%97+Software+Engineering;Full-Stack+Development;Building+Products%2C+Not+Just+Projects;Designing.+Building.+Shipping."
-    alt="Brajesh Kumar typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00C7FF&center=true&vCenter=true&width=650&lines=Building+products%2C+not+just+projects.;Engineering+systems+that+scale.;Exploring+AI+%C3%97+Software+Engineering.;Designing.+Building.+Shipping."
+    alt="Typing introduction"
   />
 </p>
-
-<br>
 
 <p align="center">
   <img
@@ -28,101 +22,40 @@
   />
 </p>
 
-<br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>PROFILE VIEWS</strong>
-    </td>
-    <td align="center">
-      <strong>FOLLOWERS</strong>
-    </td>
-    <td align="center">
-      <strong>FOCUS</strong>
-    </td>
-    <td align="center">
-      <strong>BUILDING</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Brajesh31">
-        <img
-          src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00C7FF&label="
-          alt="Profile Views"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Brajesh31?tab=followers">
-        <img
-          src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=00C7FF&label="
-          alt="GitHub Followers"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <code>AI + Full-Stack</code>
-    </td>
-    <td align="center">
-      <code>Products + Systems</code>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
-    width="100%"
-    height="2"
-    alt="Divider"
-  />
+  <a href="https://github.com/Brajesh31">
+    <img
+      src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00C7FF&label=PROFILE+VIEWS"
+      alt="Profile Views"
+    />
+  </a>
+  <a href="https://github.com/Brajesh31?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=00C7FF&label=FOLLOWERS"
+      alt="GitHub Followers"
+    />
+  </a>
 </p>
 
-<br>
-
-<h2 align="center">⚡ What I Build</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">🤖<br><strong>AI Systems</strong></td>
-    <td align="center">🧩<br><strong>Full-Stack Products</strong></td>
-    <td align="center">🛠️<br><strong>Developer Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">⚙️<br><strong>Automation</strong></td>
-    <td align="center">🌐<br><strong>Web Experiences</strong></td>
-    <td align="center">🚀<br><strong>Digital Products</strong></td>
-  </tr>
-</table>
-
-</div>
-
-<br>
+<p align="center">
+  <strong>⚡ What I Build</strong>
+  <br><br>
+  <code>AI Systems</code>
+   • 
+  <code>Full-Stack Products</code>
+   • 
+  <code>Developer Tools</code>
+   • 
+  <code>Automation</code>
+   • 
+  <code>Web Experiences</code>
+</p>
 
 <p align="center">
   <i>Curiosity starts the idea. Engineering brings it to life.</i>
 </p>
 
-<br>
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
-    width="100%"
-    height="2"
-    alt="Divider"
-  />
-</p>
+<p align="center">   <img     src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"     width="100%"     height="2"     alt="Divider"   /> </p>
 
 
 ## 👨🏻‍💻 About Me:
