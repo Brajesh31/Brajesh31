@@ -282,11 +282,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Developer Tools
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,npm,webpack&amp;perline=7&amp;theme=dark" height="44" alt="Git, GitHub, GitLab, Visual Studio Code, WebStorm, npm, and Webpack icons" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jira/jira-original.svg" height="44" alt="Jira logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" height="44" alt="Postman logo" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" height="48" alt="Git icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" height="48" alt="GitHub icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" height="48" alt="GitLab icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" height="48" alt="Visual Studio Code icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=webstorm&amp;theme=dark" height="48" alt="WebStorm icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" height="48" alt="npm icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=webpack&amp;theme=dark" height="48" alt="Webpack icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jira/jira-original.svg" height="48" alt="Jira logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" height="48" alt="Postman logo" />
+</div>
 
 ### Other
 
