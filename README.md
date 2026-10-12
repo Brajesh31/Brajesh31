@@ -320,18 +320,43 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🐾 Git Animals</h3>
-      <img src="https://render.gitanimals.org/farms/Brajesh31" width="400" alt="Brajesh31 Git Animals" />
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h3>🎮 TETRIS FUN</h3>
-      <p><strong><a href="https://play.tetris.com/play-now">🎮 Play Tetris with Me!</a></strong></p>
-      <p><sub>Opens the official Tetris game</sub></p>
-    </td>
-  </tr>
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<h2>🐾 Git Animals <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
+<img src="https://render.gitanimals.org/farms/Brajesh31" width="500" alt="Brajesh31 Git Animals"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<h2>🎮 TETRIS FUN <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
+<a href="https://play.tetris.com/play-now" target="_blank" rel="noopener">
+  <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
+</a>
+
+<br/>
+<strong>🎮 Play Tetris with Me!</strong><br/>
+Watch the blocks stack!
+
+<p>
+🟦🟥🟩🟨🟪🟦🟨<br/>
+🟥🟩🟪🟦🟩🟨🟥<br/>
+🟩🟨🟥🟦🟪🟩🟦<br/>
+🟪🟦🟨🟥🟩🟦🟨<br/>
+🟦🟨🟪🟩🟥🟪🟩
+</p>
+
+Keep stacking and clearing lines! 🚀<br/>
+🎮 <strong>Play the real game here:</strong> 👉 <a href="https://play.tetris.com/play-now">https://play.tetris.com/play-now</a>
+
+</td>
+
+</tr>
 </table>
 
 <br/>
