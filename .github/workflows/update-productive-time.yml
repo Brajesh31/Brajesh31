@@ -1,0 +1,60 @@
+name: Update Productive Time Card
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    env:
+      SUMMARY_GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub summary cards
+        if: ${{ env.SUMMARY_GITHUB_TOKEN != '' }}
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ env.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: Brajesh31
+          BRANCH_NAME: main
+          UTC_OFFSET: "5.5"
+          AUTO_PUSH: false
+          THEME: github_dark
+
+      - name: Keep existing card until the token is configured
+        if: ${{ env.SUMMARY_GITHUB_TOKEN == '' }}
+        run: echo "::warning::Add the SUMMARY_GITHUB_TOKEN repository secret to enable daily card updates."
+
+      - name: Commit refreshed productive-time card
+        if: ${{ env.SUMMARY_GITHUB_TOKEN != '' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          source="profile-summary-card-output/github_dark/4-productive-time.svg"
+          target="assets/productive-time.svg"
+
+          test -s "$source"
+          if grep -Eqi 'ERROR!!!|temporarily rate limited|rate limit' "$source"; then
+            echo "Generated card contains an error; keeping the previous image."
+            exit 1
+          fi
+
+          install -D "$source" "$target"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$target"
+          if git diff --cached --quiet; then
+            echo "Productive-time card is already current."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh productive-time card"
+          git push origin HEAD:main

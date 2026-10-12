@@ -140,7 +140,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar GitHub Overview Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;theme=github_dark&amp;hide_border=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -155,7 +155,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <p align="center">
   <a href="https://github.com/Brajesh31">
-    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp;refresh=20261012" alt="GitHub Trophies for Brajesh31" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp;refresh=20261012-2" alt="GitHub Trophies for Brajesh31" width="100%" />
   </a>
 </p>
 
@@ -182,12 +182,12 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar Most Commit Language" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar GitHub Summary Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&amp;theme=github_dark&amp;utcOffset=5.5" alt="Brajesh Kumar Productive Time in India Standard Time" width="100%" />
+        <img src="./assets/productive-time.svg" alt="Brajesh Kumar Commits by Hour (UTC+5:30)" width="100%" />
       </a>
     </td>
   </tr>
@@ -205,34 +205,22 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <table width="100%">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <a href="https://holopin.io/@brajesh31">
-        <img src="https://holopin.me/brajesh31" alt="Brajesh31 Holopin achievement badges" width="100%" />
-      </a>
-    </td>
-    <td width="60%" align="center" valign="middle">
+    <td align="center" valign="middle">
       <p align="center">
-        <img src="assets/Adventurer%20Badge.png" alt="Adventurer badge" width="52" />&nbsp;<img src="assets/Champion%20Badge.png" alt="Champion badge" width="52" />&nbsp;<img src="assets/Conqurer%20Badge.png" alt="Conqurer badge" width="52" />
+        <img src="assets/Adventurer%20Badge.png" alt="Adventurer badge" width="100" />&nbsp;<img src="assets/Champion%20Badge.png" alt="Champion badge" width="100" />&nbsp;<img src="assets/Conqurer%20Badge.png" alt="Conqurer badge" width="100" />&nbsp;<img src="assets/Explorer%20Badge.png" alt="Explorer badge" width="100" />&nbsp;<img src="assets/Innovator%20Bage.png" alt="Innovator badge" width="100" />
         <br />
-        <img src="assets/Explorer%20Badge.png" alt="Explorer badge" width="52" />&nbsp;<img src="assets/Innovator%20Bage.png" alt="Innovator badge" width="52" />&nbsp;<img src="assets/Postman%20Badge.png" alt="Postman badge" width="52" />
+        <img src="assets/Postman%20Badge.png" alt="Postman badge" width="100" />&nbsp;<img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="100" />&nbsp;<img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" />&nbsp;<img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="100" />&nbsp;<img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="100" />
         <br />
-        <img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="52" />&nbsp;<img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="52" />&nbsp;<img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="52" />
-        <br />
-        <img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="52" />&nbsp;<img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="52" />&nbsp;<img src="assets/8.png" alt="Dragon badge" width="52" />
-        <br />
-        <img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Assertion badge" width="52" />&nbsp;<img src="assets/Git%20Explorer.png" alt="Git Explorer badge" width="52" />&nbsp;<img src="assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf 2024 badge" width="52" />
+        <img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="100" />&nbsp;<img src="assets/8.png" alt="Dragon badge" width="100" />&nbsp;<img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Assertion badge" width="100" />&nbsp;<img src="assets/Git%20Explorer.png" alt="Git Explorer badge" width="100" />&nbsp;<img src="assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf 2024 badge" width="100" />
+      </p>
+      <p align="center">
+        <a href="https://holopin.io/@brajesh31">
+          <img src="https://holopin.me/brajesh31" alt="Brajesh31 Holopin achievement badges" width="100%" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
-
-### 🌍 Open Source Ranking
-
-<p align="center">
-  <a href="https://committers.top/india">
-    <img src="https://user-badge.committers.top/india/Brajesh31.svg" alt="Brajesh31 Committers.top India open source ranking" width="300" />
-  </a>
-</p>
 
 ## 🎯 Expertise Areas
 
