@@ -320,7 +320,10 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <br/>
 
-<table>
+<br clear="right"/>
+
+<div align="center">
+<table width="100%">
 <tr>
 
 <td align="center" width="50%">
@@ -358,6 +361,7 @@ Keep stacking and clearing lines! 🚀<br/>
 
 </tr>
 </table>
+</div>
 
 <br/>
 
