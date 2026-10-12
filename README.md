@@ -363,32 +363,6 @@ Keep stacking and clearing lines! 🚀<br/>
 
 
 
-## Projects Highlights
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-- **Frontend Development:**
-  - Utilized React to create dynamic and interactive user interfaces.
-  - Implemented responsive design principles for a seamless user experience.
-  - Collaborated with the design team to ensure a visually appealing and intuitive frontend.
-
-- **Backend Development:**
-  - Implemented backend functionalities using Python and FastAPI.
-  - Integrated frontend and backend components to ensure smooth communication.
-  - Contributed to the design and implementation of RESTful APIs.
-
-- **Automation and Web Scraping:**
-  - Developed automation scripts using Selenium for efficient and reliable processes.
-  - Utilized BeautifulSoup for web scraping tasks, extracting relevant data for analysis.
-
-    
-
-
-
-Feel free to reach out if you have any questions or if there's an opportunity for collaboration! 😊
- 
-
-<h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
-
 <!--<br><br><br>
  <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
 
