@@ -315,7 +315,12 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 ## 💭 Developer Quote
 
 <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical"
+    alt="Random Developer Quote"
+  />
+  <br/>
+  <img src="./assets/github-icon.gif" height="32" alt="GitHub Octocat icon" />
 </div>
 
 
