@@ -228,11 +228,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Programming Languages
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,go,dart,html,css&amp;perline=10&amp;theme=dark" height="44" alt="C, C++, Java, JavaScript, TypeScript, Python, Go, Dart, HTML, and CSS icons" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=c&amp;theme=dark" height="55" alt="C icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" height="55" alt="C++ icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&amp;theme=dark" height="55" alt="Java icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" height="55" alt="JavaScript icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" height="55" alt="TypeScript icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&amp;theme=dark" height="55" alt="Python icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&amp;theme=dark" height="55" alt="Go icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart&amp;theme=dark" height="55" alt="Dart icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&amp;theme=dark" height="55" alt="HTML icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&amp;theme=dark" height="55" alt="CSS icon" />
+</div>
 
 #### Frontend Engineering
 
