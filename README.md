@@ -323,6 +323,23 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <img src="./assets/github-icon.gif" height="32" alt="GitHub Octocat icon" />
 </div>
 
+<br/>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🐾 Git Animals</h3>
+      <img src="https://render.gitanimals.org/farms/Brajesh31" width="400" alt="Brajesh31 Git Animals" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🎮 TETRIS FUN</h3>
+      <p><strong><a href="https://play.tetris.com/play-now">🎮 Play Tetris with Me!</a></strong></p>
+      <p><sub>Opens the official Tetris game</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## ❤️ Let's get connected:
 
