@@ -361,7 +361,7 @@ Keep stacking and clearing lines! 🚀<br/>
 
 <br/>
 
-## ❤️ Let's Get Connected <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## ❤️ Let's Get Connected
 
 <div align="center">
   <a href="https://github.com/Brajesh31"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" /></a>&nbsp;&nbsp;
