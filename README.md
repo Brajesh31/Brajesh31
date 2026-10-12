@@ -1,79 +1,90 @@
-<h1 align="center">Hello Folks 👋, I'm Brajesh Kumar</h1>
+# Hey, I'm Brajesh Kumar 👋
+
+> I build software at the intersection of **AI, full-stack engineering, and developer experience**.<br>
+> I turn ideas into reliable products, intelligent systems, and digital experiences people actually use.
 
 <p align="center">
-  I build software at the intersection of <strong>AI, full-stack engineering, and developer experience</strong>.
-  <br>
-  Turning ideas into reliable products, intelligent systems, and experiences people actually use.
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=00C7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+products%2C+not+just+projects.;Shipping+full-stack+software.;Exploring+AI+%C3%97+software+engineering.;Building+systems+people+use.;Designing.+Building.+Shipping." alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00C7FF&center=true&vCenter=true&width=650&lines=Building+products%2C+not+just+projects.;Engineering+systems+that+scale.;Exploring+AI+%C3%97+Software+Engineering.;Designing.+Building.+Shipping."
-    alt="Typing introduction"
-  />
+  <a href="https://brajesh31.com"><img src="https://img.shields.io/badge/Portfolio-brajesh31.com-00C7FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio: brajesh31.com" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@lifebetweencommit"><img src="https://img.shields.io/badge/YouTube-Life%20Between%20Commits-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube: Life Between Commits" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/lord_Brajesh"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Follow on X" /></a>
 </p>
+
 <p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
-    width="100%"
-    height="2"
-    alt="Divider"
-  />
+  <a href="https://github.com/Brajesh31?tab=followers"><img src="https://img.shields.io/github/followers/Brajesh31?style=flat-square&amp;color=00C7FF&amp;label=Followers" alt="GitHub followers" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Brajesh31?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBrajesh31&amp;query=%24.public_repos&amp;label=Repositories&amp;color=00C7FF&amp;logo=github&amp;style=flat-square" alt="Public GitHub repositories" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Brajesh31"><img src="https://komarev.com/ghpvc/?username=Brajesh31&amp;style=flat-square&amp;color=00C7FF&amp;label=Profile+Views" alt="GitHub profile views" /></a>&nbsp;&nbsp;
+  <a href="https://wakatime.com/@d55f1647-8848-4cc5-accd-7347e1a3d7b8"><img src="https://wakatime.com/badge/user/d55f1647-8848-4cc5-accd-7347e1a3d7b8.svg" alt="Total time coded since Sep 9 2025" /></a>
 </p>
-<p align="center">
-  <a href="https://github.com/Brajesh31">
-    <img
-      src="https://komarev.com/ghpvc/?username=Brajesh31&style=for-the-badge&color=00C7FF&label=PROFILE+VIEWS"
-      alt="Profile Views"
-    />
-  </a>
-  <a href="https://github.com/Brajesh31?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Brajesh31?style=for-the-badge&color=00C7FF&label=FOLLOWERS"
-      alt="GitHub Followers"
-    />
-  </a>
-</p>
-<p align="center">
-  <strong>⚡ What I Build</strong>
-  <br><br>
-  <code>AI Systems</code>
-   • 
-  <code>Full-Stack Products</code>
-   • 
-  <code>Developer Tools</code>
-   • 
-  <code>Automation</code>
-   • 
-  <code>Web Experiences</code>
-</p>
-<p align="center">
-  <i>Curiosity starts the idea. Engineering brings it to life.</i>
-</p>
+
+### What I Build
+
+`AI Systems` · `Full-Stack Products` · `Developer Tools` · `Automation` · `Web Experiences`
+
 <p align="center">   <img     src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"     width="100%"     height="2"     alt="Divider"   /> </p>
 
 
 ## 👨🏻‍💻 About Me
 
-<img src="./thoughtworks-gif_dribbble.gif" height="280px" align="right" />
+### 🚀 Executive Summary
 
-I'm a **Computer Science & Engineering student specializing in AI/ML**, focused on building practical software across **AI, full-stack development, automation, and developer tools**.
+I work across **software engineering, AI/ML, DevOps, platform engineering, and automation**, building and improving systems from development to deployment. My work ranges from designing and shipping **full-stack applications and developer tools** to working with **AI/ML models, model training, LLM applications, and intelligent automation**. Beyond individual projects, I’m involved in **developer communities, technical initiatives, and product development**, where I work across engineering, infrastructure, and community building. I enjoy moving between different layers of technology, understanding how systems fit together, and turning ideas into practical solutions that can be built, deployed, and used in the real world.
 
-* 🔭 Building and working on products across **AI, web development, automation, and developer ecosystems**.
-* 💻 Experienced with **React, TypeScript, JavaScript, Python, FastAPI, Node.js, MongoDB, MySQL, Docker, and cloud platforms**.
-* 🤖 Exploring **AI/ML, LLM applications, RAG systems, and intelligent automation**.
-* 🌐 Interested in building products that combine **good engineering, thoughtful design, and real-world utility**.
-* 🚀 I enjoy taking ideas from **concept → architecture → implementation → deployment**.
-* 🤝 Open to collaborating on **AI products, full-stack applications, developer tools, and open-source projects**.
-* 🎮 Outside of code, you'll usually find me exploring technology, riding, gaming, or working on something new.
+<table width="100%">
+  <tr>
+    <td width="64%" valign="top">
+      <h3>🛠️ What I Work On</h3>
+      <ul>
+        <li>🔭 I work across <strong>full-stack development, AI/ML, DevOps, platform engineering, and automation</strong>, often moving between application code, infrastructure, and the systems that connect them.</li>
+        <li>🤖 On the AI side, I work with <strong>model training, LLM applications, RAG systems, and intelligent automation</strong>, focusing on practical and production-oriented use cases.</li>
+        <li>🏗️ I build <strong>web applications, developer tools, automation workflows, and technical platforms</strong>, with an emphasis on reliable, maintainable, and practical software.</li>
+        <li>🔄 I enjoy working across different layers of a system, from <strong>application development and APIs to infrastructure, deployment, and automation</strong>.</li>
+      </ul>
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <img src="./thoughtworks-gif_dribbble.gif" width="100%" alt="Developer working on software" />
+    </td>
+  </tr>
+</table>
 
-<br clear="right"/>
+<table width="100%">
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="./assets/git-header.svg" width="100%" alt="Developer and technology illustration" />
+    </td>
+    <td width="64%" valign="top">
+      <h3>🧩 How I Build</h3>
+      <ul>
+        <li>💡 I like turning rough ideas into <strong>clear, structured solutions</strong>, starting with the problem before jumping into implementation.</li>
+        <li>🚀 My approach usually follows <strong>concept → architecture → implementation → deployment → iteration</strong>, adapting each stage to what the product actually needs.</li>
+        <li>🎯 I care about the balance between <strong>good engineering, thoughtful design, and real-world utility</strong>. A technically strong product should also be understandable, usable, and useful.</li>
+        <li>🤝 I’m open to collaborating on <strong>AI products, full-stack applications, developer tools, infrastructure, automation, and open-source projects</strong>.</li>
+        <li>🌍 Outside of engineering, I enjoy <strong>exploring new places, riding, gaming, and working on creative ideas</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <i>Build with curiosity. Ship with intent. Keep learning.</i>
-</p>
+## 🏗️ Flagship Projects
 
-<br>
+*A selection of projects that represent the systems I build across AI, full-stack engineering, automation, and product development.*
+
+| Project | What I Built | Key Technologies | Highlights |
+|---|---|---|---|
+| **[Bharat XR Platform](https://bharatxr.co/)** | Contributed to its XR web and platform ecosystem, alongside community initiatives. | XR · AR/VR · Web platforms | Spatial computing · Community programs · Platform initiatives |
+| **[AgroTech AI](https://github.com/Brajesh31/Agro_tech_AI)** | Multi-service agriculture platform combining disease and crop APIs with an AI assistant, quiz app, and frontend. | React · Vite · Node.js · Express · MongoDB · Gemini API · Docker | Disease prediction · Crop rotation · Map experiences · OAuth · Docker Compose |
+| **[Glaucoma Detection using Deep Learning & NSGA-II](https://github.com/Brajesh31/Glaucoma-Detection-NSGA)** | Retinal-image training and inference pipeline with CNN and transfer-learning support, NSGA-II hyperparameter search, and Grad-CAM++ visualizations. | Python · PyTorch · TorchVision · scikit-learn · DEAP · Flask | Fundus image classification · 5-fold cross-validation · NSGA-II search · Grad-CAM++ |
+| **[Multi-Agent Observability with OpenTelemetry](https://github.com/Brajesh31/multi-agent-observability-opentelemetry)** | LangGraph multi-agent reference system instrumented to trace routing decisions, tool calls, latency, token usage, and failures. | Python · LangGraph · OpenTelemetry · OTLP | Agent-level traces · Custom metrics · Loop guardrails · Error attribution |
+| **[Influencer Sponsor Coordination Platform](https://github.com/Brajesh31/Influencer-Sponsor-Coordination-Platform)** | Campaign app connecting sponsor and influencer accounts through dashboards, REST APIs, and scheduled ad-request checks. | Python · Flask · Flask-RESTful · Flask-SQLAlchemy · SQLite · APScheduler | Sponsor and influencer roles · Campaign workflows · Ad-request APIs · Scheduled checks |
+| **[Arexa Website](https://arexa.co/)** | Built the Arexa XR studio website as a multi-page React application for its services, work, industries, case studies, and contact flows. | React · TypeScript · Vite · Tailwind CSS · Framer Motion | Animated route transitions · Responsive AR video carousel · Case-study and services routes · Page metadata and VideoObject schema |
+| **[BharatXR Ambassador Portal](https://ambassador.bharatxr.co/)** | Built a full-stack ambassador platform with student and admin dashboards for onboarding, tasks, chapters, events, and community operations. | React · TypeScript · PHP · MySQL · PDO · REST APIs | PHP session authentication · Task and proof submissions · Admin review and analytics · Chapter, event, and finance workflows |
+| **[AR Core Studio](https://github.com/Brajesh31/ar-core-studio)** | Built a browser-based AR viewer and admin portal for grouping Snap lenses and serving shareable AR experiences. | React · TypeScript · Snap Camera Kit · PHP · MySQL · Push2Web | Camera Kit lens carousel · Snap login and camera permissions · Group and lens management · Image/video capture with chunked uploads |
+| **[Self-Healing Intrusion Detection System](https://github.com/Brajesh31/self-healing-ids-main)** | Built a Streamlit IDS prototype that runs bundled demo flows through XGBoost detection and decision-tree playbook selection, then visualizes simulated response actions. | Python · Streamlit · XGBoost · scikit-learn · pandas · joblib | XGBoost threat classification · Decision-tree playbook selection · Single-flow and 50-packet simulations · Session audit log and threat chart |
+| **[Speech Emotion Detection](https://github.com/Brajesh31/emotion-detector)** | Built a Flask inference app that processes uploaded or recorded speech with 40-coefficient MFCC features and returns a label with model confidence. | Python · Flask · TensorFlow/Keras · Librosa · NumPy · joblib | Browser recording and audio uploads · MFCC preprocessing · Fixed-length pad/truncate pipeline · Saved-model inference with label decoding |
 
 <p align="center">
   <img
@@ -86,15 +97,18 @@ I'm a **Computer Science & Engineering student specializing in AI/ML**, focused 
 
 ## ⏱️ Coding Activity
 
-<p align="center">
-  <a href="https://wakatime.com/@Brajesh31">
-    <img 
-      src="https://stats-7nwldavev-brajeshs-projects-659a7e75.vercel.app/api/wakatime?username=Brajesh31&amp;theme=vision-friendly-dark&amp;layout=compact" 
-      alt="Brajesh Kumar's WakaTime Coding Activity" 
-    />
-  </a>
-</p>
-
+<table width="100%">
+  <tr>
+    <td width="60%" align="center" valign="middle">
+      <a href="https://wakatime.com/@Brajesh31">
+        <img src="https://wakatime.com/share/@Brajesh31/a6325579-60a8-4beb-ab7a-7d680bdbfbac.svg" alt="Brajesh Kumar's WakaTime Coding Activity" width="100%" />
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/code-mode.gif" alt="Coding mode" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <i>Tracking the hours behind the code.</i>
@@ -110,176 +124,115 @@ I'm a **Computer Science & Engineering student specializing in AI/ML**, focused 
 </p>
 
 
-## GitHub Stats 📈
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brajesh31&theme=radical&show_icons=true)-->
+## 🧊 3D Contribution Map
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Brajesh31&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- 
-<div style="text-align: center;">
-  <img 
-    alt="Brajesh's GitHub Profile Summary Card"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&theme=midnight_purple" 
-    style="width: 100%; max-width: 800px;"
-  />
-</div>
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-<!-- <br><br><br> -->
-
+<!-- 3D CONTRIBUTION MAP — generated by GitHub Action -->
 <div align="center">
-  <table>
-    <tr>
-      <td style="padding-right: 4px;">
-        <a href="https://github.com/Brajesh31">
-          <img 
-            alt="Brajesh's GitHub Stats"
-            src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,prs_merged,prs_merged_percentage,commits_year=2025&rank_icon=percentile!!github&theme=github_dark" 
-          />
-        </a>
-      </td>
-      <td style="padding-left: 4px;">
-        <a href="https://git.io/streak-stats">
-          <img 
-            alt="GitHub Streak"
-            src="https://streak-stats.demolab.com/?user=Brajesh31&theme=midnight_purple&hide_border=true&date_format=j%20M%5B%20Y%5D&border_radius=10"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Brajesh Kumar 3D Contribution Map" />
 </div>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<br/>
+## 📈 GitHub Stats
 
-<div align="center">
-  <img 
-    alt="GitHub Trophies"
-    src="https://github-trophies.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=false&no-bg=false&margin-w=0&margin-h=0" 
-    style="width: 100%; max-width: 800px;"/>
-</div>
+### 📊 GitHub Overview
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Brajesh31">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar GitHub Overview Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Brajesh31">
+        <img src="https://streak-stats.demolab.com/?user=Brajesh31&amp;theme=github-dark&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;border_radius=10&amp;background=0D1117&amp;border=30363D&amp;ring=00C7FF&amp;fire=00C7FF&amp;currStreakNum=00C7FF&amp;sideNums=00C7FF&amp;currStreakLabel=00C7FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D&amp;refresh=20261012" alt="Brajesh Kumar GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <table style="border: none; padding: 0; margin: 0;">
-    <tr>
-      <td style="padding: 10px; vertical-align: top;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="500px">
-      </td>
-      <td style="padding: 10px; vertical-align: top;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&theme=midnight_purple&hide_border=true" alt="Language Pie Chart" width="500px">
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Brajesh31">
+    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp;refresh=20261012" alt="GitHub Trophies for Brajesh31" width="100%" />
+  </a>
 </p>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+### 💻 Language Statistics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Brajesh31?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00C7FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;cache_seconds=21600&amp;refresh=20261012" alt="Brajesh Kumar Top Languages" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Brajesh31?tab=repositories">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Repository Language Distribution for Brajesh31" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Insights
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Brajesh31">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar Most Commit Language" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Brajesh31">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&amp;theme=github_dark&amp;utcOffset=5.5" alt="Brajesh Kumar Productive Time in India Standard Time" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🔥 Contribution Activity
 
 <p align="center">
-  <table style="border: none; padding: 0; margin: 0;">
-    <tr>
-      <td style="padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&theme=midnight_purple" width="501px">
-      </td>
-      <td style="padding: 10px; vertical-align: top;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Brajesh31&theme=midnight_purple&utcOffset=8" width="501px">
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Brajesh31">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar Contribution Activity" width="100%" />
+  </a>
 </p>
 
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+### 🛡️ Security & Achievements
 
-<!-- Contribution Chart Below the Table -->
-<div align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brajesh31&theme=midnight_purple&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=00ffff&area_color=00ffff" />
-</div>
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
-<summary>🪶 Badges </summary>
-<!-- Row 1 -->
-<table align="center">
-  <tr align="center">
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Adventurer Badge.png" alt="Adventurer Badge" width="100" />
-      <br><strong>Adventurer</strong>
+<table width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://holopin.io/@brajesh31">
+        <img src="https://holopin.me/brajesh31" alt="Brajesh31 Holopin achievement badges" width="100%" />
+      </a>
     </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Champion Badge.png" alt="Champion Badge" width="100" />
-      <br><strong>Champion</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Conqurer Badge.png" alt="Conqurer Badge" width="100" />
-      <br><strong>Conqurer</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Explorer Badge.png" alt="Explorer Badge" width="100" />
-      <br><strong>Explorer</strong>
-    </td>
-    <td align="center">
-      <img src="assets/Innovator Bage.png" alt="Innovator Bage" width="100" />
-      <br><strong>Innovator</strong>
+    <td width="60%" align="center" valign="middle">
+      <p align="center">
+        <img src="assets/Adventurer%20Badge.png" alt="Adventurer badge" width="52" />&nbsp;<img src="assets/Champion%20Badge.png" alt="Champion badge" width="52" />&nbsp;<img src="assets/Conqurer%20Badge.png" alt="Conqurer badge" width="52" />
+        <br />
+        <img src="assets/Explorer%20Badge.png" alt="Explorer badge" width="52" />&nbsp;<img src="assets/Innovator%20Bage.png" alt="Innovator badge" width="52" />&nbsp;<img src="assets/Postman%20Badge.png" alt="Postman badge" width="52" />
+        <br />
+        <img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="52" />&nbsp;<img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="52" />&nbsp;<img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="52" />
+        <br />
+        <img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="52" />&nbsp;<img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="52" />&nbsp;<img src="assets/8.png" alt="Dragon badge" width="52" />
+        <br />
+        <img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Assertion badge" width="52" />&nbsp;<img src="assets/Git%20Explorer.png" alt="Git Explorer badge" width="52" />&nbsp;<img src="assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf 2024 badge" width="52" />
+      </p>
     </td>
   </tr>
 </table>
 
-<!-- Row 2 --> 
-<table align="center">
-  <tr align="center">
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Postman Badge.png" alt="Postman Badge" width="100" />
-      <br><strong>Postman</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Summit Seeker Badge.png" alt="Summit Seeker Badge" width="100" />
-      <br><strong>Summit Seeker</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Trailblazer Badge.png" alt="Trailblazer Badge" width="100" />
-      <br><strong>Trailblazer</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Hands-on collab.png" alt="Hands-on collab" width="100" />
-      <br><strong>Hands-on Collab</strong>
-    </td>
-    <td align="center">
-      <img src="assets/github-copilot.png" alt="GitHub Copilot" width="100" />
-      <br><strong>GitHub Copilot</strong>
-    </td>
-  </tr>
-</table>
+### 🌍 Open Source Ranking
 
-<!-- Row 3 -->
-<table align="center">
-  <tr align="center">
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Hand-on Snowflake.png" alt="Hand-on Snowflake" width="100" />
-      <br><strong>Hands-on Snowflake</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/8.png" alt="Badge 8" width="100" />
-      <br><strong>Dragon</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="assertion-XkuMujUWTASFmoCJW7fpVw" width="100" />
-      <br><strong>Assertion</strong>
-    </td>
-    <td style="border-right: 1px solid #eeeeef;" align="center">
-      <img src="assets/Git Explorer.png" alt="Git Explorer" width="100" />
-      <br><strong>Git Explorer</strong>
-    </td>
-    <td align="center">
-      <img src="assets/Hack-Web3Conf 2024 Badge (2).png" alt="Hack-Web3Conf 2024 Badge" width="100" />
-      <br><strong>Hack-Web3Conf 2024</strong>
-    </td>
-  </tr>
-</table>
-
-
-[![An image of @brajesh31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brajesh31)](https://holopin.io/@brajesh31)
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<p align="center">
+  <a href="https://committers.top/india">
+    <img src="https://user-badge.committers.top/india/Brajesh31.svg" alt="Brajesh31 Committers.top India open source ranking" width="300" />
+  </a>
+</p>
 
 ## 🎯 Expertise Areas
 
