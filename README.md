@@ -274,11 +274,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### DevOps &amp; Infrastructure
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=docker,jenkins,linux&amp;perline=3&amp;theme=dark" height="44" alt="Docker, Jenkins, and Linux icons" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" height="55" alt="Docker icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" height="55" alt="Jenkins icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" height="55" alt="Linux icon" />
+</div>
 
 ### 🧰 Development Tools
 
