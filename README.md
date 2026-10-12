@@ -312,16 +312,11 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 </tr>
 </table>
 
-## 💭 Developer Quote
+## Random Developer Quote 💡 <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-<div align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical"
-    alt="Random Developer Quote"
-  />
-  <br/>
-  <img src="./assets/github-icon.gif" height="32" alt="GitHub Octocat icon" />
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="GitHub animation" />
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight)
 
 <br/>
 
