@@ -224,217 +224,108 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 ## 🎯 Expertise Areas
 
-<details open>
-<summary>💻 Development Environment</summary>
-<div align="center">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-00ffff?style=for-the-badge&logo=git&logoColor=black" />
-    <img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
-</div>
-</details>
-<details open>
-<table>
-  <tr>
-    <td>💻 <strong>Frontend Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    </td>
-  </tr>
+<p align="center">A focused look at the engineering domains and tools represented across my projects.</p>
 
-  <tr>
-    <td>🌐 <strong>Web Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    </td>
-  </tr>
+### Software Engineering
 
-  <tr>
-    <td>💻 <strong>Backend Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core">
-    </td>
-  </tr>
+#### Programming Languages
 
-  <tr>
-    <td>📋 <strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-      <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,js,ts,py&amp;perline=4&amp;theme=dark" alt="C, C++, Java, Go, JavaScript, TypeScript, and Python icons" />
+</p>
 
-  <tr>
-    <td>📂 <strong>Database</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white" alt="NoSQL">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    </td>
-  </tr>
+#### Frontend Engineering
 
-  <tr>
-    <td>⚙️ <strong>DevOps Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,materialui,html,css&amp;perline=4&amp;theme=dark" alt="React, Vite, Tailwind CSS, Bootstrap, Material UI, HTML, and CSS icons" />
+</p>
+<p align="center">Framer Motion</p>
 
-  <tr>
-    <td>🛠️ <strong>Developer Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-      <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3">
-    </td>
-  </tr>
+#### Backend &amp; API Engineering
 
-  <tr>
-    <td>📘 <strong>SDLC</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile">
-      <img src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logoColor=white" alt="SOLID Principles">
-      <img src="https://img.shields.io/badge/OOP-0078D4?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming">
-      <img src="https://img.shields.io/badge/UML-6DB33F?style=for-the-badge&logoColor=white" alt="UML">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;perline=3&amp;theme=dark" alt="Node.js, Express.js, and FastAPI icons" />
+</p>
 
-</details>
-<details open>
-  <summary>🔨 Tech Stack</summary>
-  <div align="center">
-    <h3>Languages:</h3>
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
-    <img src="https://skillicons.dev/icons?i=go,rust" alt="Go, Rust"/>
-    <h3>Frontend Development:</h3>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="45" height="45" />
-    <img src="https://skillicons.dev/icons?i=vue,angular,nextjs,nuxtjs,tailwind" alt="Vue, Angular, Next.js, Nuxt.js, Tailwind CSS"/>
-    <h3>Backend & Database:</h3>
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-    <img src="https://skillicons.dev/icons?i=nodejs,flask,express,mongodb,postgres,redis" alt="Node.js, Flask, Express, MongoDB, PostgreSQL, Redis"/>
-    <h3>DevOps & Cloud:</h3>
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" />
-    <img src="https://skillicons.dev/icons?i=gcp,azure,jenkins,terraform,ansible" alt="GCP, Azure, Jenkins, Terraform, Ansible"/>
-    <h3>AI/ML & Data Science:</h3>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,selenium" alt="TensorFlow, PyTorch, OpenCV, Selenium"/>
-    <h3>IoT & Electronics:</h3>
-    <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="45" height="45" />
-    <img src="https://skillicons.dev/icons?i=arduino,cmake" alt="Arduino, CMake"/>
-    
-  </div>
-</details>
-<details open>
-  <summary><strong>Frontend Development</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React"/>
-    <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Next.js-Intermediate-blue" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Redux-Intermediate-yellow" alt="Redux"/>
-    <img src="https://img.shields.io/badge/HTML5-Advanced-orange" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-Advanced-blue" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Bootstrap-Intermediate-blue" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Material--UI-Intermediate-green" alt="Material-UI"/>
-    <img src="https://img.shields.io/badge/jQuery-Intermediate-blue" alt="jQuery"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-Beginner-green" alt="Tailwind CSS"/>
-  </p>
-</details>
+#### Databases
 
-<details>
-  <summary><strong>Backend Development</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-Intermediate-green" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Python-Advanced-blue" alt="Python"/>
-    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-blue" alt="C/C++"/>
-    <img src="https://img.shields.io/badge/Java-Intermediate-yellow" alt="Java"/>
-  </p>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&amp;perline=2&amp;theme=dark" alt="MySQL and MongoDB icons" />
+</p>
 
-<details>
-  <summary><strong>Database & Management</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-Intermediate-blue" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/NoSQL-4479A1?style=for-the-badge&logoColor=white" alt="NoSQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
-</details>
+### AI &amp; Intelligent Systems
 
-<details>
-  <summary><strong>Version Control & Other Tools</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Git%2FGitHub-Advanced-blue" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-Intermediate-yellow" alt="Linux"/>
-    <img src="https://img.shields.io/badge/Firebase-Intermediate-orange" alt="Firebase"/>
-  </p>
-</details>
+#### AI / Machine Learning
 
-<details>
-  <summary><strong>DevOps & Cloud</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-    <img src="https://img.shields.io/badge/Azure-0087FF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  </p>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;perline=4&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn, and OpenCV icons" />
+</p>
+<p align="center">NumPy · pandas · TorchVision · Librosa · DEAP<br />Model training · CNNs · transfer learning · hyperparameter optimization · NSGA-II</p>
 
-<details>
-  <summary><strong>AI/ML & Data Science</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  </p>
-</details>
+#### Generative AI &amp; LLM
 
-<details>
-  <summary><strong>IoT & Electronics</strong> <span style="font-size: 14px; color: #00ffff;">(Click to expand)</span></summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-    <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  </p>
-</details>
+<p align="center">Gemini API · generative AI · LLM applications · RAG</p>
 
+#### Multi-Agent Systems
+
+<p align="center">LangGraph · multi-agent systems · agent routing · tool calling</p>
+
+### Cloud &amp; Engineering
+
+#### Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure&amp;perline=2&amp;theme=dark" alt="AWS and Microsoft Azure icons" />
+</p>
+<p align="center">Deployment workflows · platform engineering · multi-service applications</p>
+
+#### DevOps &amp; Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux&amp;perline=3&amp;theme=dark" alt="Docker, Jenkins, and Linux icons" />
+</p>
+<p align="center">Infrastructure automation · containerized applications · deployment</p>
+
+#### Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions&amp;perline=1&amp;theme=dark" alt="GitHub Actions icon" />
+</p>
+<p align="center">CI/CD · scheduled workflows · API automation</p>
+
+#### Observability
+
+<p align="center">OpenTelemetry · OTLP · distributed traces · metrics · logging · error attribution · agent observability</p>
+
+### Development Tools
+
+#### Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack&amp;perline=5&amp;theme=dark" alt="Git, GitHub, Visual Studio Code, Postman, and Webpack icons" />
+</p>
+
+#### Testing &amp; Quality
+
+<p align="center">5-fold cross-validation · model evaluation</p>
+
+#### Authentication &amp; Security
+
+<p align="center">Session authentication · account access control</p>
+
+#### Payments &amp; Integrations
+
+<p align="center">REST APIs · OAuth integrations · external service connections</p>
+
+### XR &amp; Product Development
+
+#### XR &amp; Spatial Computing
+
+<p align="center">AR/VR development · spatial experiences · browser-based AR</p>
+
+### Developer Ecosystem
+
+<p align="center">Open source · developer communities · community programs · technical initiatives · ecosystem building</p>
 
 ## 💭 Developer Quote
 
