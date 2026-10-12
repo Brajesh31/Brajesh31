@@ -268,11 +268,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Cloud
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=aws,azure,vercel&amp;perline=3&amp;theme=dark" height="44" alt="AWS, Microsoft Azure, and Vercel icons" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/hostinger" height="44" alt="Hostinger logo" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" height="55" alt="AWS icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" height="55" alt="Microsoft Azure icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" height="55" alt="Vercel icon" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/hostinger" height="55" alt="Hostinger logo" />
+</div>
 
 #### DevOps &amp; Infrastructure
 
