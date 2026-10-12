@@ -260,11 +260,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Generative AI &amp; LLM
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://cdn.simpleicons.org/googlegemini" height="44" alt="Gemini API logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/google" height="44" alt="Google Generative AI logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langchain" height="44" alt="LangChain logo" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://cdn.simpleicons.org/googlegemini" height="55" alt="Gemini API logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/google" height="55" alt="Google Generative AI logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langchain" height="55" alt="LangChain logo" />
+</div>
 
 ### ☁️ Cloud &amp; Engineering
 
