@@ -276,14 +276,6 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 </tr>
 </table>
 
-#### Multi-Agent Systems
-
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://cdn.simpleicons.org/langgraph" height="44" alt="LangGraph logo" /></td>
-</tr>
-</table>
-
 ### ☁️ Cloud &amp; Engineering
 
 #### Cloud
@@ -302,22 +294,6 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 </tr>
 </table>
 
-#### Automation
-
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=githubactions&amp;perline=1&amp;theme=dark" height="44" alt="GitHub Actions icon" /></td>
-</tr>
-</table>
-
-#### Observability
-
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://cdn.simpleicons.org/opentelemetry/F5A800" height="44" alt="OpenTelemetry logo" /></td>
-</tr>
-</table>
-
 ### 🧰 Development Tools
 
 #### Developer Tools
@@ -328,27 +304,11 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 </tr>
 </table>
 
-#### Testing &amp; Quality
+### Other
 
 <table width="100%">
 <tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=jest&amp;perline=1&amp;theme=dark" height="44" alt="Jest icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" height="44" alt="PyTest logo" /></td>
-</tr>
-</table>
-
-#### Authentication &amp; Security
-
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oauth/oauth-original.svg" height="44" alt="OAuth 2.0 logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/00C7FF" height="44" alt="JSON Web Tokens logo" /></td>
-</tr>
-</table>
-
-#### Payments &amp; Integrations
-
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Stripe_Logo,_revised_2016.svg" height="44" alt="Stripe wordmark" /></td>
+<td align="center" style="white-space: nowrap;"><img src="https://cdn.simpleicons.org/langgraph" height="44" alt="LangGraph logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions&amp;perline=1&amp;theme=dark" height="44" alt="GitHub Actions icon" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opentelemetry/F5A800" height="44" alt="OpenTelemetry logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jest&amp;perline=1&amp;theme=dark" height="44" alt="Jest icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" height="44" alt="PyTest logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oauth/oauth-original.svg" height="44" alt="OAuth 2.0 logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/00C7FF" height="44" alt="JSON Web Tokens logo" />&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Stripe_Logo,_revised_2016.svg" height="44" alt="Stripe wordmark" /></td>
 </tr>
 </table>
 
