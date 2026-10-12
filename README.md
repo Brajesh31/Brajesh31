@@ -246,11 +246,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Databases
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=mysql,mongodb&amp;perline=2&amp;theme=dark" height="44" alt="MySQL and MongoDB icons" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongoose/mongoose-original.svg" height="44" alt="Mongoose logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/phpmyadmin" height="44" alt="phpMyAdmin logo" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" height="55" alt="MySQL icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" height="55" alt="MongoDB icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongoose/mongoose-original.svg" height="55" alt="Mongoose logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/phpmyadmin" height="55" alt="phpMyAdmin logo" />
+</div>
 
 ### 🤖 AI &amp; Intelligent Systems
 
