@@ -288,11 +288,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 ### Other
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://cdn.simpleicons.org/langgraph" height="44" alt="LangGraph logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions&amp;perline=1&amp;theme=dark" height="44" alt="GitHub Actions icon" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opentelemetry/F5A800" height="44" alt="OpenTelemetry logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jest&amp;perline=1&amp;theme=dark" height="44" alt="Jest icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" height="44" alt="PyTest logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oauth/oauth-original.svg" height="44" alt="OAuth 2.0 logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/00C7FF" height="44" alt="JSON Web Tokens logo" />&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Stripe_Logo,_revised_2016.svg" height="44" alt="Stripe wordmark" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://cdn.simpleicons.org/langgraph" height="48" alt="LangGraph logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" height="48" alt="GitHub Actions icon" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opentelemetry/F5A800" height="48" alt="OpenTelemetry logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jest&amp;theme=dark" height="48" alt="Jest icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" height="48" alt="PyTest logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oauth/oauth-original.svg" height="48" alt="OAuth 2.0 logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/00C7FF" height="48" alt="JSON Web Tokens logo" />&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Stripe_Logo,_revised_2016.svg" height="48" alt="Stripe wordmark" />
+</div>
 
 ## Random Developer Quote 💡 <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
