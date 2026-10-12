@@ -234,11 +234,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Frontend Engineering
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,materialui&amp;perline=5&amp;theme=dark" height="44" alt="React, Vite, Tailwind CSS, Bootstrap, and Material UI icons" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/chartjs/chartjs-original.svg" height="44" alt="Chart.js logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/framermotion/framermotion-original.svg" height="44" alt="Framer Motion logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/reactrouter/reactrouter-original.svg" height="44" alt="React Router logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/headlessui" height="44" alt="Headless UI logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/leaflet" height="44" alt="Leaflet logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fontawesome" height="44" alt="Font Awesome logo" />&nbsp;&nbsp;<img src="https://react-leaflet.js.org/img/logo.svg" height="44" alt="React Leaflet logo" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" height="45" alt="React icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" height="45" alt="Vite icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" height="45" alt="Tailwind CSS icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" height="45" alt="Bootstrap icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=materialui&amp;theme=dark" height="45" alt="Material UI icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/chartjs/chartjs-original.svg" height="45" alt="Chart.js logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/framermotion/framermotion-original.svg" height="45" alt="Framer Motion logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/reactrouter/reactrouter-original.svg" height="45" alt="React Router logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/headlessui" height="45" alt="Headless UI logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/leaflet" height="45" alt="Leaflet logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fontawesome" height="45" alt="Font Awesome logo" />&nbsp;&nbsp;<img src="https://react-leaflet.js.org/img/logo.svg" height="45" alt="React Leaflet logo" />
+</div>
 
 #### Backend &amp; API Engineering
 
