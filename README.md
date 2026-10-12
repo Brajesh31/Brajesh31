@@ -231,26 +231,43 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 #### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,go,js,ts,py&amp;perline=4&amp;theme=dark" alt="C, C++, Java, Go, JavaScript, TypeScript, and Python icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,go,dart,html,css&amp;perline=5&amp;theme=dark" alt="C, C++, Java, JavaScript, TypeScript, Python, Go, Dart, HTML, and CSS icons" />
 </p>
+<p align="center"><sub>SQL</sub></p>
 
 #### Frontend Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,materialui,html,css&amp;perline=4&amp;theme=dark" alt="React, Vite, Tailwind CSS, Bootstrap, Material UI, HTML, and CSS icons" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,materialui&amp;perline=5&amp;theme=dark" height="48" alt="React, Vite, Tailwind CSS, Bootstrap, and Material UI icons" />
 </p>
-<p align="center">Framer Motion</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/chartjs/chartjs-original.svg" height="48" alt="Chart.js logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/framermotion/framermotion-original.svg" height="48" alt="Framer Motion logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/reactrouter/reactrouter-original.svg" height="48" alt="React Router logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/headlessui" height="48" alt="Headless UI logo" />
+</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/leaflet" height="48" alt="Leaflet logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/fontawesome" height="48" alt="Font Awesome logo" />&nbsp;
+  <img src="https://react-leaflet.js.org/img/logo.svg" height="48" alt="React Leaflet logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/tailwindlabs/heroicons@616b7a4dbbf3d011760af8066262cd5c6b3868f3/.github/logo-dark.svg" height="48" alt="Heroicons logo" />
+</p>
+<p align="center"><sub>tsParticles</sub></p>
 
 #### Backend &amp; API Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;perline=3&amp;theme=dark" alt="Node.js, Express.js, and FastAPI icons" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;perline=3&amp;theme=dark" height="48" alt="Node.js, Express.js, and FastAPI icons" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/nodemailer/nodemailer@0780032250ad5c566b5d8e6fd56ca8c210e423ec/assets/nm_logo_200x136.png" height="48" alt="Nodemailer logo" />
 </p>
+<p align="center"><sub>REST APIs · Winston</sub></p>
 
 #### Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&amp;perline=2&amp;theme=dark" alt="MySQL and MongoDB icons" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&amp;perline=2&amp;theme=dark" height="48" alt="MySQL and MongoDB icons" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongoose/mongoose-original.svg" height="48" alt="Mongoose logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/phpmyadmin" height="48" alt="phpMyAdmin logo" />
 </p>
 
 ### AI &amp; Intelligent Systems
@@ -258,74 +275,110 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 #### AI / Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;perline=4&amp;theme=dark" alt="PyTorch, TensorFlow, scikit-learn, and OpenCV icons" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&amp;perline=4&amp;theme=dark" height="48" alt="PyTorch, TensorFlow, scikit-learn, and OpenCV icons" />
 </p>
-<p align="center">NumPy · pandas · TorchVision · Librosa · DEAP<br />Model training · CNNs · transfer learning · hyperparameter optimization · NSGA-II</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/keras/keras-original.svg" height="48" alt="Keras logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" height="48" alt="NumPy logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" height="48" alt="Pandas logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib logo" />
+</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/mwaskom/seaborn@c1cb287835852406691aed60ea0c62710f2c6b18/doc/_static/logo-mark-darkbg.svg" height="48" alt="Seaborn logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/librosa/librosa@08e2c0a20d650fe00f10aaf3a1eaa9698ac19641/docs/img/librosa_logo_dark.svg" height="48" alt="Librosa logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/DEAP/deap@8a96fd3a75026f7b30e835f595a5199c75634ddf/doc/_static/deap_icon-39x55.png" height="48" alt="DEAP logo" />
+</p>
+<p align="center"><sub>TorchVision · Deep Learning · Neural Networks · CNN · Transfer Learning · Hyperparameter Optimization · NSGA-II</sub></p>
+<p align="center"><sub>Data Analysis · Data Visualization · Statistical Analysis · Feature Engineering · Data Preprocessing · Mel Spectrograms · SEDNet</sub></p>
 
 #### Generative AI &amp; LLM
 
-<p align="center">Gemini API · generative AI · LLM applications · RAG</p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlegemini" height="48" alt="Gemini API logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/google" height="48" alt="Google Generative AI logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" height="48" alt="LangChain logo" />
+</p>
+<p align="center"><sub>Google Generative AI · Generative AI · RAG · LLM Applications · Prompt Engineering</sub></p>
 
 #### Multi-Agent Systems
 
-<p align="center">LangGraph · multi-agent systems · agent routing · tool calling</p>
+<p align="center"><img src="https://cdn.simpleicons.org/langgraph" height="48" alt="LangGraph logo" />&nbsp; <sub>Multi-Agent Systems · AI Agents · Agent Routing · Tool Calling</sub></p>
 
 ### Cloud &amp; Engineering
 
 #### Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure&amp;perline=2&amp;theme=dark" alt="AWS and Microsoft Azure icons" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,vercel&amp;perline=3&amp;theme=dark" height="48" alt="AWS, Microsoft Azure, and Vercel icons" />&nbsp;
+  <img src="https://cdn.simpleicons.org/hostinger" height="48" alt="Hostinger logo" />
 </p>
-<p align="center">Deployment workflows · platform engineering · multi-service applications</p>
 
 #### DevOps &amp; Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux&amp;perline=3&amp;theme=dark" alt="Docker, Jenkins, and Linux icons" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux&amp;perline=3&amp;theme=dark" height="48" alt="Docker, Jenkins, and Linux icons" />
 </p>
-<p align="center">Infrastructure automation · containerized applications · deployment</p>
+<p align="center"><sub>Docker Compose · CI/CD · Infrastructure Automation</sub></p>
 
 #### Automation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions&amp;perline=1&amp;theme=dark" alt="GitHub Actions icon" />
-</p>
-<p align="center">CI/CD · scheduled workflows · API automation</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=githubactions&amp;perline=1&amp;theme=dark" height="48" alt="GitHub Actions icon" />&nbsp; <sub>Node Cron · API Automation · AI Automation · Workflow Automation · Developer Automation</sub></p>
 
 #### Observability
 
-<p align="center">OpenTelemetry · OTLP · distributed traces · metrics · logging · error attribution · agent observability</p>
+<p align="center"><img src="https://cdn.simpleicons.org/opentelemetry" height="48" alt="OpenTelemetry logo" />&nbsp; <sub>OTLP · Distributed Tracing · Metrics · Logging · Error Attribution · Agent Observability</sub></p>
+
+#### Architecture &amp; Engineering
+
+<p align="center"><sub>Full-Stack Development · API Development · REST APIs · Microservices · Multi-Service Applications · System Architecture · Platform Engineering · Developer Tooling · Deployment</sub></p>
 
 ### Development Tools
 
 #### Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack&amp;perline=5&amp;theme=dark" alt="Git, GitHub, Visual Studio Code, Postman, and Webpack icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode&amp;perline=4&amp;theme=dark" height="48" alt="Git, GitHub, GitLab, and Visual Studio Code icons" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=webstorm,npm,webpack&amp;perline=3&amp;theme=dark" height="48" alt="WebStorm, npm, and Webpack icons" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jira/jira-original.svg" height="48" alt="Jira logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" height="48" alt="Postman logo" />
 </p>
 
 #### Testing &amp; Quality
 
-<p align="center">5-fold cross-validation · model evaluation</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest&amp;perline=1&amp;theme=dark" height="48" alt="Jest icon" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" height="48" alt="PyTest logo" />
+</p>
+<p align="center"><sub>Supertest · Unit Testing · Integration Testing · API Testing · Model Evaluation · Cross-Validation · 5-Fold Cross-Validation · Confusion Matrix · Precision · Recall · F1 Score</sub></p>
 
 #### Authentication &amp; Security
 
-<p align="center">Session authentication · account access control</p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oauth/oauth-original.svg" height="48" alt="OAuth 2.0 logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" height="48" alt="JSON Web Tokens logo" />
+</p>
+<p align="center"><sub>Google OAuth · bcrypt · Session Authentication · API Security</sub></p>
 
 #### Payments &amp; Integrations
 
-<p align="center">REST APIs · OAuth integrations · external service connections</p>
+<p align="center"><img src="https://cdn.simpleicons.org/stripe" height="48" alt="Stripe logo" />&nbsp; <sub>REST APIs · OAuth 2.0 · Google OAuth · Nodemailer · API Integrations</sub></p>
 
 ### XR &amp; Product Development
 
 #### XR &amp; Spatial Computing
 
-<p align="center">AR/VR development · spatial experiences · browser-based AR</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=threejs&amp;perline=1&amp;theme=dark" height="48" alt="Three.js icon" />&nbsp; <sub>AR · VR · XR · AR/VR Development · Spatial Computing · 3D Experiences · React Three Fiber</sub></p>
+
+#### Mobile Development
+
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter&amp;perline=1&amp;theme=dark" height="48" alt="Flutter icon" />&nbsp; <sub>Dart</sub></p>
 
 ### Developer Ecosystem
 
-<p align="center">Open source · developer communities · community programs · technical initiatives · ecosystem building</p>
+<p align="center"><sub>Open Source · Developer Communities · Community Management · Technical Workshops · Developer Programs · Community Building · Technical Initiatives · Ecosystem Building · Mentorship · Campus Programs</sub></p>
 
 ## 💭 Developer Quote
 
