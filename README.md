@@ -341,22 +341,18 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <br/>
 
-## ❤️ Let's get connected:
+## ❤️ Let's Get Connected
 
-<p>
-    <a href="https://x.com/lord_Brajesh" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
-    </a>
-    <a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
-    </a>
-    <a href="https://t.me/lord_Brajesh" target="_blank">
-        <img alt="Telegram" src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
-    </a>
-    <a href="https://www.instagram.com/lord_brajesh" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
-    </a>
-</p>
+<div align="center">
+  <a href="https://github.com/Brajesh31"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brajesh31/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_brajesh31/"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/lord_Brajesh"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@lifebetweencommit"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@brajesh31"><img src="https://cdn.simpleicons.org/medium/FFFFFF" height="45" alt="Medium" /></a>&nbsp;&nbsp;
+  <a href="https://brajesh31.com"><img src="https://cdn.simpleicons.org/googlechrome/00C7FF" height="45" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/919548797453"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp" /></a>
+</div>
 
 
 
