@@ -240,11 +240,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 #### Backend &amp; API Engineering
 
-<table width="100%">
-<tr>
-<td align="center" style="white-space: nowrap;"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;perline=3&amp;theme=dark" height="44" alt="Node.js, Express.js, and FastAPI icons" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/nodemailer/nodemailer@0780032250ad5c566b5d8e6fd56ca8c210e423ec/assets/nm_logo_200x136.png" height="44" alt="Nodemailer logo" /></td>
-</tr>
-</table>
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" height="55" alt="Node.js icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express&amp;theme=dark" height="55" alt="Express.js icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" height="55" alt="FastAPI icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/nodemailer/nodemailer@0780032250ad5c566b5d8e6fd56ca8c210e423ec/assets/nm_logo_200x136.png" height="55" alt="Nodemailer logo" />
+</div>
 
 #### Databases
 
