@@ -65,3 +65,7 @@ Remote image requests can disclose ordinary request metadata to the provider and
 ## Dependency alerts
 
 Review GitHub security alerts for Actions and any future dependencies. The repository currently has no application package manifest or server runtime to scan.
+
+## Data classification
+
+Keep private account data, unpublished analytics, and personal contact information out of tracked assets and workflow artifacts unless there is a clear need and permission to publish them.
