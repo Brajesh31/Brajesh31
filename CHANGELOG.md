@@ -34,3 +34,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added line-ending and binary handling guidance for static media.
 
 - Added ignore rules for local secrets, editor files, caches, and build scratch output.
+
+- Added consistent editor settings for Markdown, YAML, and repository configuration.
