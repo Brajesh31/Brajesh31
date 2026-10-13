@@ -13,3 +13,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 This MIT grant covers original repository text and configuration created by Brajesh Kumar, including original documentation and workflow/configuration files. It does not grant rights to third-party material merely because that material is stored in this repository.
 
 The existing profile `README.md` is not modified by this documentation work. Its original text remains attributable to its author; embedded external images, badges, feeds, and linked services retain their providers' terms.
+
+Files under `assets/` include image, badge, logo, and animation material whose individual creators and licenses are not recorded consistently in this repository. They are excluded from the MIT grant unless a separate notice in the relevant file says otherwise.
