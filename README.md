@@ -140,7 +140,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;theme=github_dark&amp;hide_border=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;theme=neon&amp;hide_border=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -155,7 +155,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <p align="center">
   <a href="https://github.com/Brajesh31">
-    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp;refresh=20261012-2" alt="GitHub Trophies for Brajesh31" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=neon&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp" alt="GitHub Trophies for Brajesh31" width="100%" />
   </a>
 </p>
 
@@ -165,12 +165,12 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00C7FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;cache_seconds=21600&amp;refresh=20261012" alt="Brajesh Kumar Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brajesh31&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00C7FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;cache_seconds=21600&amp" alt="Brajesh Kumar Top Languages" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31?tab=repositories">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Repository Language Distribution for Brajesh31" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brajesh31&amp;theme=github_dark&amp" alt="Repository Language Distribution for Brajesh31" width="100%" />
       </a>
     </td>
   </tr>
@@ -182,7 +182,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar GitHub Summary Stats" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brajesh31&amp;theme=github_dark&amp" alt="Brajesh Kumar GitHub Summary Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -197,7 +197,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <p align="center">
   <a href="https://github.com/Brajesh31">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&amp;theme=github_dark&amp;refresh=20261012" alt="Brajesh Kumar Contribution Activity" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brajesh31&amp;theme=github_dark&amp" alt="Brajesh Kumar Contribution Activity" width="100%" />
   </a>
 </p>
 
