@@ -22,3 +22,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Documented the six-hour contribution-snake asset refresh.
 
 - Documented the optional productive-time card secret and generated output path.
+
+- Added support guidance for profile rendering, assets, and Actions failures.
