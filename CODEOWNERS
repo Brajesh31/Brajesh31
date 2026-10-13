@@ -1,0 +1,17 @@
+# Assign repository review ownership to the profile maintainer.
+* @brajesh31
+
+# Workflow definitions and their automation permissions.
+/.github/workflows/ @brajesh31
+
+# Static graphics, badges, and generated contribution visuals.
+/assets/ @brajesh31
+/output/ @brajesh31
+/profile-3d-contrib/ @brajesh31
+
+# Repository policy and user-facing documentation.
+/docs/ @brajesh31
+/LICENSE @brajesh31
+/CONTRIBUTING.md @brajesh31
+/CODE_OF_CONDUCT.md @brajesh31
+/SECURITY.md @brajesh31

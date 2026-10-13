@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you reference or reuse this profile repository, cite it using this metadata and follow the applicable licenses for each file."
+title: "Brajesh31 GitHub Profile"
+type: software
+authors:
+  - family-names: Kumar
+    given-names: Brajesh
+identifiers:
+  - type: url
+    value: "https://github.com/Brajesh31/Brajesh31"
+    description: "GitHub profile repository"
+repository-code: "https://github.com/Brajesh31/Brajesh31"
+url: "https://github.com/Brajesh31"
+license: MIT
+keywords:
+  - GitHub profile
+  - profile page
+  - GitHub Actions
+abstract: >
+  A personal GitHub profile repository containing profile-page content,
+  static visual assets, and scheduled automation for selected profile elements.
+  The MIT license applies only to original material in the scope described by
+  LICENSE; third-party assets and services may have separate terms.

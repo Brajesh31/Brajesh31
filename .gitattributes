@@ -1,0 +1,30 @@
+# Treat text files consistently across operating systems.
+* text=auto eol=lf
+
+# Markdown and repository policy metadata.
+*.md text eol=lf
+*.cff text eol=lf
+LICENSE text eol=lf
+CODEOWNERS text eol=lf
+
+# Workflow and configuration files.
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.properties text eol=lf
+*.sh text eol=lf
+
+# SVG files are text and should retain stable line endings.
+*.svg text eol=lf
+
+# Images and other binary media must not receive text conversion.
+*.png binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary

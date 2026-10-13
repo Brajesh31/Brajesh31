@@ -1,0 +1,42 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor state not needed by other contributors
+.vscode/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/httpRequests/
+.history/
+
+# Temporary editor files
+*.swp
+*.swo
+*~
+
+# Python scratch environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.virtualenv/
+
+# JavaScript package and build output, if used for local tooling
+node_modules/
+.npm/
+dist/
+build/
+coverage/
+
+# Temporary workflow output and logs
+profile-summary-card-output/
+.cache/
+*.log
+*.tmp
