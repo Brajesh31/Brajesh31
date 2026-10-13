@@ -17,3 +17,7 @@ The scheduled workflows may use GitHub's automatically provided `GITHUB_TOKEN`; 
 ## Safe handling
 
 Treat workflow logs and generated profile artifacts as public. Grant Actions only the permissions required by each job. Review third-party Actions and external image or feed providers before enabling them. Report suspected issues with generated assets or external services to the relevant provider when the issue is outside this repository's control.
+
+## Scope of this policy
+
+This policy covers files and workflows maintained in this repository. It does not promise security support for the external hosting, statistics, image, or feed services embedded by the profile.
