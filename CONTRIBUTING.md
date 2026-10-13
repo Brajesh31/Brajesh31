@@ -24,3 +24,7 @@ The repository is maintained by Brajesh Kumar (`@brajesh31`). Contributors are e
 ## Repository scope
 
 Changes should fit a profile repository: profile content, static media, repository documentation, or the automation that refreshes generated profile assets. There is no application source tree to extend.
+
+## Profile page edits
+
+The root `README.md` is rendered as the profile page. The hourly blog-post workflow also updates its marked blog section. Coordinate manual changes to action-managed regions with the maintainer and review the workflow's expected behavior before proposing edits.
