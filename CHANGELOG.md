@@ -32,3 +32,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added citation metadata for the profile project.
 
 - Added line-ending and binary handling guidance for static media.
+
+- Added ignore rules for local secrets, editor files, caches, and build scratch output.
