@@ -77,3 +77,7 @@ Use documented sources for profile images and badges. If an asset appears modifi
 ## Incident coordination
 
 The maintainer may ask for clarification or a safer proof of concept. Please allow reasonable time to assess the report and coordinate a fix before public disclosure.
+
+## Acknowledgment
+
+With the reporter's consent, the maintainer may credit them in a release note or security notice. Reports can remain anonymous if the reporting channel permits it.
