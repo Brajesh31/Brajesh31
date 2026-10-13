@@ -85,3 +85,7 @@ A report made honestly will be treated seriously even if it cannot be substantia
 ## Confidentiality limits
 
 Reports are handled privately where practical. The maintainer may need to share limited details to investigate, address an immediate safety issue, or comply with a legal obligation.
+
+## Appeals
+
+A participant may ask the maintainer to reconsider an enforcement decision by providing a concise explanation and relevant context through a private contact channel.
