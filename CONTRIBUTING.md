@@ -92,3 +92,7 @@ Describe what is present in the repository and distinguish it from planned work.
 ## Review and response
 
 Be open to specific review feedback. If you disagree with a suggestion, explain the tradeoff and propose a concrete alternative. Keep discussion respectful and focused on the contribution.
+
+## License and attribution
+
+By submitting a contribution, you confirm you have the right to submit it. Your contribution to original text or configuration is offered under this repository's MIT license unless you state otherwise; third-party material keeps its own terms.
