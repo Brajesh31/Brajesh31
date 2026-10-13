@@ -88,3 +88,7 @@ For user-visible or operational changes, update `CHANGELOG.md` with a concise de
 ## Documentation accuracy
 
 Describe what is present in the repository and distinguish it from planned work. In particular, do not claim that this repository hosts an API, database, build pipeline, or deployable application.
+
+## Review and response
+
+Be open to specific review feedback. If you disagree with a suggestion, explain the tradeoff and propose a concrete alternative. Keep discussion respectful and focused on the contribution.
