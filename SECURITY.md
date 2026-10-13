@@ -49,3 +49,7 @@ A workflow that commits generated assets needs write access to repository conten
 ## Third-party Actions
 
 Actions execute code in the workflow context. Review their maintainers, releases, requested permissions, and transitive dependencies before adoption. Immutable commit pinning can make the selected implementation auditable.
+
+## Workflow output
+
+Workflow logs and artifacts may be visible to repository collaborators or the public. Do not print secrets, private feed data, or sensitive information to logs, and use GitHub's secret handling rather than shell literals.
