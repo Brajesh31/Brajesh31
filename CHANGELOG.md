@@ -30,3 +30,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added owner metadata for repository review routing.
 
 - Added citation metadata for the profile project.
+
+- Added line-ending and binary handling guidance for static media.
