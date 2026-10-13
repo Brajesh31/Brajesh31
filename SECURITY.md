@@ -29,3 +29,7 @@ Use a private channel whenever a report could expose a weakness, token, personal
 ## GitHub reporting availability
 
 Private vulnerability reporting is a repository setting. The reporting button is available only if the owner has enabled the feature; follow GitHub's current private-reporting guidance if you need to find it.
+
+## What to include
+
+A useful report identifies the affected workflow or file, the conditions needed to reproduce the issue, the likely impact, and a suggested mitigation when known. Keep the report factual and concise.
