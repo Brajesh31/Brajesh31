@@ -38,3 +38,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added consistent editor settings for Markdown, YAML, and repository configuration.
 
 - Added a safe environment example that does not contain credential values.
+
+- Added architecture and installation documentation for a static GitHub profile repo.
