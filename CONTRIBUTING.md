@@ -20,3 +20,7 @@ Use a short, descriptive title. Explain the reason for the change, list affected
 ## Maintainer
 
 The repository is maintained by Brajesh Kumar (`@brajesh31`). Contributors are expected to follow `CODE_OF_CONDUCT.md` and to report security concerns using `SECURITY.md`.
+
+## Repository scope
+
+Changes should fit a profile repository: profile content, static media, repository documentation, or the automation that refreshes generated profile assets. There is no application source tree to extend.
