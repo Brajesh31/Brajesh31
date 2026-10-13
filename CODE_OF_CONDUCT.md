@@ -61,3 +61,7 @@ Do not knowingly submit material that violates another person's copyright, licen
 ## Security reports
 
 Do not publicly disclose an unpatched vulnerability or expose a secret to prove a point. Follow `SECURITY.md` and share only the information needed for a responsible review.
+
+## Maintainer responsibilities
+
+The maintainer will make reasonable efforts to apply this policy consistently, explain significant enforcement decisions when safe, and protect the confidentiality of people who report concerns.
