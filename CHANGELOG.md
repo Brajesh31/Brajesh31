@@ -20,3 +20,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Documented the daily 3D contribution visualization workflow.
 
 - Documented the six-hour contribution-snake asset refresh.
+
+- Documented the optional productive-time card secret and generated output path.
