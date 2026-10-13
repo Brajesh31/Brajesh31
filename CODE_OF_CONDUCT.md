@@ -45,3 +45,7 @@ Do not post private contact details, credentials, non-public repository informat
 ## Good-faith questions
 
 Ask questions in good faith and answer them with patience. Do not treat a beginner question as evidence that someone does not belong in the project.
+
+## Feedback
+
+Keep feedback specific, actionable, and relevant to the change under review. Explain the reason for requested changes and remain open to a different solution that addresses the same concern.
