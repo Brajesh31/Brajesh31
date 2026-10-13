@@ -36,3 +36,7 @@ For a redesign, new external integration, or a change to what is publicly displa
 ## Branch and pull request
 
 Work on a short-lived branch based on the current `main`. Submit changes through a pull request when repository settings permit. Do not force-push to `main` or rewrite shared history.
+
+## Keep the diff focused
+
+Change only the files needed for the contribution. Do not reformat unrelated profile markup, replace generated media without checking its producing workflow, or bundle unrelated asset changes with documentation edits.
