@@ -77,3 +77,7 @@ When appropriate, the maintainer may invite a participant to acknowledge impact,
 ## Retaliation
 
 Do not threaten, punish, or target someone for making a good-faith report, supporting a report, or cooperating with a review.
+
+## False or abusive reports
+
+A report made honestly will be treated seriously even if it cannot be substantiated. Knowingly fabricated reports or attempts to weaponize this process may themselves be addressed as misconduct.
