@@ -57,3 +57,7 @@ Workflow logs and artifacts may be visible to repository collaborators or the pu
 ## Scheduled content updates
 
 The blog, contribution graph, snake, and productive-time workflows refresh profile files on schedules. If a generated change is unexpected, inspect the triggering workflow run and upstream action before editing its output manually.
+
+## External embeds
+
+Remote image requests can disclose ordinary request metadata to the provider and can fail independently of this repository. Avoid embedding confidential content or URLs with private access tokens.
