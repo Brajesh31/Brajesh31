@@ -61,3 +61,7 @@ The blog, contribution graph, snake, and productive-time workflows refresh profi
 ## External embeds
 
 Remote image requests can disclose ordinary request metadata to the provider and can fail independently of this repository. Avoid embedding confidential content or URLs with private access tokens.
+
+## Dependency alerts
+
+Review GitHub security alerts for Actions and any future dependencies. The repository currently has no application package manifest or server runtime to scan.
