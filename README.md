@@ -320,11 +320,11 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 <h2>🐾 Git Animals <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Brajesh31&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Brajesh31"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/Brajesh31?cache=1"
+    width="600"
+    height="300"
+  />
 </a>
 </td>
 
