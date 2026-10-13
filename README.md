@@ -159,7 +159,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <p align="center">
   <a href="https://github.com/Brajesh31">
-    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp" alt="GitHub Trophies for Brajesh31" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=Brajesh31&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6&cache=latest" alt="GitHub Trophies for Brajesh31" width="100%" />
   </a>
 </p>
 
