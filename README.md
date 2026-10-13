@@ -117,6 +117,9 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP Is Dead.](https://brajesh31.medium.com/mcp-is-dead-e2fd0f3ee38e?source=rss-a0a2c966e2f7------2)
+- [Why Your API Shouldn’t Send Emails](https://brajesh31.medium.com/why-your-api-shouldnt-send-emails-1f9f99de16a9?source=rss-a0a2c966e2f7------2)
+- [Why Uber Doesn’t Use Cron Jobs](https://brajesh31.medium.com/why-uber-doesnt-use-cron-jobs-8df43b100de4?source=rss-a0a2c966e2f7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
