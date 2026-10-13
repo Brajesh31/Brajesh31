@@ -25,3 +25,7 @@ The maintainer will review reports as promptly as practical, respect confidentia
 ## Scope
 
 This policy applies to project spaces and to conduct in public spaces when a person is representing or interacting with the project. It complements GitHub's own policies and does not replace them.
+
+## Respectful technical disagreement
+
+Disagreement about design, wording, or implementation is expected. Explain the impact and evidence, and propose a practical alternative without insulting or belittling another participant.
