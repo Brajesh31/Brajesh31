@@ -64,3 +64,7 @@ The profile references third-party image and statistics services. Consider avail
 ## Workflow permissions
 
 Keep each workflow's `GITHUB_TOKEN` permissions limited to the required scope. A job that pushes generated files needs write permission for repository contents; read-only jobs should not receive write access.
+
+## Workflow dependencies
+
+When changing an Action, use a maintained upstream and review its release and permission requirements. Pinning an Action to a reviewed immutable revision can reduce supply-chain risk; document the chosen version and update process.
