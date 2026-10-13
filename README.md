@@ -132,17 +132,21 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 </div>
 
 <br/>
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ### 📊 GitHub Overview
 
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Brajesh31">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&number_format=long&disable_animations=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
-      </a>
-    </td>
+  <a href="https://github.com/Brajesh31">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=default&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&number_format=long&disable_animations=true"
+      alt="Brajesh Kumar GitHub Stats"
+      width="100%"
+    />
+  </a>
+</td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
         <img src="https://streak-stats.demolab.com/?user=Brajesh31&amp;theme=neon&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;border_radius=10&amp;background=0D1117&amp;border=30363D&amp;ring=00C7FF&amp;fire=00C7FF&amp;currStreakNum=00C7FF&amp;sideNums=00C7FF&amp;currStreakLabel=00C7FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D&amp" alt="Brajesh Kumar GitHub Streak" width="100%" />
