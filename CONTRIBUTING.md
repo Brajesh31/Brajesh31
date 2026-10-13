@@ -52,3 +52,7 @@ Use descriptive headings, meaningful link text, and useful alternative text for 
 ## Asset provenance
 
 Before adding an image, icon, badge, animation, or font, record its source and license in an appropriate notice. Obtain permission when terms do not allow the intended use. Do not assume an asset is MIT-licensed because it is checked into this repository.
+
+## Generated visual files
+
+The `profile-3d-contrib/` and `output/` directories contain files refreshed by scheduled Actions. Edit their producing workflow or source inputs when behavior needs to change; direct edits can be overwritten by the next scheduled run.
