@@ -12,3 +12,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added security guidance for Actions tokens, workflow permissions, and external services.
 
 - Recorded the current profile repository scope rather than describing it as an application.
+
+- Documented that the root profile page is rendered by GitHub from this repository.
