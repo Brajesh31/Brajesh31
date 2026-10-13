@@ -89,3 +89,7 @@ Reports are handled privately where practical. The maintainer may need to share 
 ## Appeals
 
 A participant may ask the maintainer to reconsider an enforcement decision by providing a concise explanation and relevant context through a private contact channel.
+
+## Project spaces
+
+Project spaces include repository issues, pull requests, code reviews, discussions, and project-related communication where contributors are acting on behalf of this repository.
