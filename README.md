@@ -326,7 +326,6 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   height="300"
 />
 </a>
-
 </td>
 
 <td align="center" width="50%">
