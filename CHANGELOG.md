@@ -24,3 +24,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Documented the optional productive-time card secret and generated output path.
 
 - Added support guidance for profile rendering, assets, and Actions failures.
+
+- Added a roadmap for maintainability, accessibility, licensing, and workflow hardening.
