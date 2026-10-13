@@ -53,3 +53,7 @@ Keep feedback specific, actionable, and relevant to the change under review. Exp
 ## Attribution
 
 Credit the creators of third-party art, badges, code, or other material when applicable. Do not present another person's work as your own.
+
+## Licensing conduct
+
+Do not knowingly submit material that violates another person's copyright, license, or other rights. Raise uncertainty about an asset's provenance before adding it.
