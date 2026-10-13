@@ -41,3 +41,7 @@ Do not send live token values, passwords, private keys, personal records, or a p
 ## Token exposure
 
 For an exposed Actions secret, delete or rotate the secret in GitHub settings, revoke the credential at its issuer, and inspect workflow runs and audit activity. Removing a value from the latest file alone does not revoke it.
+
+## Least privilege
+
+A workflow that commits generated assets needs write access to repository contents. Keep that access scoped to the specific workflow and avoid granting broader administration, package, or deployment permissions without a documented need.
