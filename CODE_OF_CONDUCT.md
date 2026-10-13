@@ -49,3 +49,7 @@ Ask questions in good faith and answer them with patience. Do not treat a beginn
 ## Feedback
 
 Keep feedback specific, actionable, and relevant to the change under review. Explain the reason for requested changes and remain open to a different solution that addresses the same concern.
+
+## Attribution
+
+Credit the creators of third-party art, badges, code, or other material when applicable. Do not present another person's work as your own.
