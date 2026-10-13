@@ -42,3 +42,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added architecture and installation documentation for a static GitHub profile repo.
 
 - Added development, deployment, API, database, troubleshooting, and FAQ documentation.
+
+- Kept the existing profile README content unchanged while adding the documentation set.
