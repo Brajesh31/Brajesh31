@@ -29,3 +29,7 @@ This policy applies to project spaces and to conduct in public spaces when a per
 ## Respectful technical disagreement
 
 Disagreement about design, wording, or implementation is expected. Explain the impact and evidence, and propose a practical alternative without insulting or belittling another participant.
+
+## Inclusive participation
+
+Use welcoming language and make a reasonable effort to support people with different experience levels, backgrounds, identities, and communication styles.
