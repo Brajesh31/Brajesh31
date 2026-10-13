@@ -16,3 +16,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Documented that the root profile page is rendered by GitHub from this repository.
 
 - Documented the hourly Medium blog-post refresh and its managed content region.
+
+- Documented the daily 3D contribution visualization workflow.
