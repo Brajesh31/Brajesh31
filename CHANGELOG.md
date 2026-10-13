@@ -26,3 +26,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added support guidance for profile rendering, assets, and Actions failures.
 
 - Added a roadmap for maintainability, accessibility, licensing, and workflow hardening.
+
+- Added owner metadata for repository review routing.
