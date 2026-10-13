@@ -37,3 +37,7 @@ Use welcoming language and make a reasonable effort to support people with diffe
 ## Accessibility
 
 When sharing media or proposing profile changes, consider whether people using assistive technology can understand the content. Provide useful alternative text and avoid unnecessary flashing or motion.
+
+## Privacy
+
+Do not post private contact details, credentials, non-public repository information, or personal data without the person's consent. Use the private security process for sensitive technical reports.
