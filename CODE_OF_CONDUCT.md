@@ -69,3 +69,7 @@ The maintainer will make reasonable efforts to apply this policy consistently, e
 ## Enforcement options
 
 Depending on the context and severity, the maintainer may issue a warning, request edits, remove content, close a discussion, restrict participation, or block a participant from project spaces.
+
+## Correction and restoration
+
+When appropriate, the maintainer may invite a participant to acknowledge impact, correct harmful content, or demonstrate changed behavior before restoring participation.
