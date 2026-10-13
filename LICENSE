@@ -11,3 +11,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ## Scope clarification
 
 This MIT grant covers original repository text and configuration created by Brajesh Kumar, including original documentation and workflow/configuration files. It does not grant rights to third-party material merely because that material is stored in this repository.
+
+The existing profile `README.md` is not modified by this documentation work. Its original text remains attributable to its author; embedded external images, badges, feeds, and linked services retain their providers' terms.
