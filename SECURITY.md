@@ -69,3 +69,7 @@ Review GitHub security alerts for Actions and any future dependencies. The repos
 ## Data classification
 
 Keep private account data, unpublished analytics, and personal contact information out of tracked assets and workflow artifacts unless there is a clear need and permission to publish them.
+
+## Asset integrity
+
+Use documented sources for profile images and badges. If an asset appears modified without authorization, compare it with its known source and review the commits or workflow run that wrote it.
