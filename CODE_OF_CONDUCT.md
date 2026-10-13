@@ -65,3 +65,7 @@ Do not publicly disclose an unpatched vulnerability or expose a secret to prove 
 ## Maintainer responsibilities
 
 The maintainer will make reasonable efforts to apply this policy consistently, explain significant enforcement decisions when safe, and protect the confidentiality of people who report concerns.
+
+## Enforcement options
+
+Depending on the context and severity, the maintainer may issue a warning, request edits, remove content, close a discussion, restrict participation, or block a participant from project spaces.
