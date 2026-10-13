@@ -68,3 +68,7 @@ Keep each workflow's `GITHUB_TOKEN` permissions limited to the required scope. A
 ## Workflow dependencies
 
 When changing an Action, use a maintained upstream and review its release and permission requirements. Pinning an Action to a reviewed immutable revision can reduce supply-chain risk; document the chosen version and update process.
+
+## Workflow triggers
+
+Document whether a workflow runs on a schedule or by manual dispatch, and consider how frequently it writes commits. Avoid introducing a push trigger that recursively causes the same workflow to commit again.
