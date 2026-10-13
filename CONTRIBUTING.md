@@ -44,3 +44,7 @@ Change only the files needed for the contribution. Do not reformat unrelated pro
 ## Commit messages
 
 Use a concise verb-led subject such as `docs: clarify workflow setup` or `fix: correct asset path`. A pull request may contain multiple logical commits; explain any generated refresh commit separately.
+
+## Markdown and accessibility
+
+Use descriptive headings, meaningful link text, and useful alternative text for informative images. Decorative images should not be presented as meaningful content. Check relative links from the file that contains them.
