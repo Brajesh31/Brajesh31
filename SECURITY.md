@@ -53,3 +53,7 @@ Actions execute code in the workflow context. Review their maintainers, releases
 ## Workflow output
 
 Workflow logs and artifacts may be visible to repository collaborators or the public. Do not print secrets, private feed data, or sensitive information to logs, and use GitHub's secret handling rather than shell literals.
+
+## Scheduled content updates
+
+The blog, contribution graph, snake, and productive-time workflows refresh profile files on schedules. If a generated change is unexpected, inspect the triggering workflow run and upstream action before editing its output manually.
