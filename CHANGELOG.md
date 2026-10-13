@@ -40,3 +40,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added a safe environment example that does not contain credential values.
 
 - Added architecture and installation documentation for a static GitHub profile repo.
+
+- Added development, deployment, API, database, troubleshooting, and FAQ documentation.
