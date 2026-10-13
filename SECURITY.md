@@ -37,3 +37,7 @@ A useful report identifies the affected workflow or file, the conditions needed 
 ## What not to include
 
 Do not send live token values, passwords, private keys, personal records, or a payload that can harm another system. Redact logs and screenshots before attaching them.
+
+## Token exposure
+
+For an exposed Actions secret, delete or rotate the secret in GitHub settings, revoke the credential at its issuer, and inspect workflow runs and audit activity. Removing a value from the latest file alone does not revoke it.
