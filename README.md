@@ -1,6 +1,6 @@
 # Hey, I'm Brajesh Kumar 👋
 
-> I build software at the intersection of **AI, full-stack engineering, and developer experience**.<br>
+> I build software at the intersection of **A.I, full-stack engineering, and developer experience**.<br>
 > I turn ideas into reliable products, intelligent systems, and digital experiences people actually use.
 
 <p align="center">
