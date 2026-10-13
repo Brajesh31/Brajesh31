@@ -73,3 +73,7 @@ Keep private account data, unpublished analytics, and personal contact informati
 ## Asset integrity
 
 Use documented sources for profile images and badges. If an asset appears modified without authorization, compare it with its known source and review the commits or workflow run that wrote it.
+
+## Incident coordination
+
+The maintainer may ask for clarification or a safer proof of concept. Please allow reasonable time to assess the report and coordinate a fix before public disclosure.
