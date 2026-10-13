@@ -319,7 +319,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <h2>🐾 Git Animals <img height="40" alt="Brajesh31" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-<img src="https://render.gitanimals.org/farms/Brajesh31?v=latest" width="500" alt="Brajesh31 Git Animals"/>
+<img src="https://render.gitanimals.org/farms/Brajesh31?v=autolatest" width="500" alt="Brajesh31 Git Animals"/>
 
 </td>
 
