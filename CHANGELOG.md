@@ -28,3 +28,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added a roadmap for maintainability, accessibility, licensing, and workflow hardening.
 
 - Added owner metadata for repository review routing.
+
+- Added citation metadata for the profile project.
