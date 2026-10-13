@@ -80,3 +80,7 @@ Use GitHub Actions repository or environment secrets for credentials. Never put 
 ## Review checks
 
 Review the final diff for accidental changes, whitespace errors, broken local links, missing image files, and accidentally staged credentials. For workflow edits, inspect the rendered YAML and permissions before proposing the change.
+
+## Changelog notes
+
+For user-visible or operational changes, update `CHANGELOG.md` with a concise description and reference the related pull request when available. Do not invent release versions or claim a deployment that did not happen.
