@@ -73,3 +73,7 @@ Depending on the context and severity, the maintainer may issue a warning, reque
 ## Correction and restoration
 
 When appropriate, the maintainer may invite a participant to acknowledge impact, correct harmful content, or demonstrate changed behavior before restoring participation.
+
+## Retaliation
+
+Do not threaten, punish, or target someone for making a good-faith report, supporting a report, or cooperating with a review.
