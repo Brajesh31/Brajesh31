@@ -48,3 +48,7 @@ Use a concise verb-led subject such as `docs: clarify workflow setup` or `fix: c
 ## Markdown and accessibility
 
 Use descriptive headings, meaningful link text, and useful alternative text for informative images. Decorative images should not be presented as meaningful content. Check relative links from the file that contains them.
+
+## Asset provenance
+
+Before adding an image, icon, badge, animation, or font, record its source and license in an appropriate notice. Obtain permission when terms do not allow the intended use. Do not assume an asset is MIT-licensed because it is checked into this repository.
