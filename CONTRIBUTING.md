@@ -72,3 +72,7 @@ When changing an Action, use a maintained upstream and review its release and pe
 ## Workflow triggers
 
 Document whether a workflow runs on a schedule or by manual dispatch, and consider how frequently it writes commits. Avoid introducing a push trigger that recursively causes the same workflow to commit again.
+
+## Secrets
+
+Use GitHub Actions repository or environment secrets for credentials. Never put a token in a committed file, workflow literal, example value, issue, or pull request log. Examples should use the secret name without exposing its value.
