@@ -56,3 +56,7 @@ Before adding an image, icon, badge, animation, or font, record its source and l
 ## Generated visual files
 
 The `profile-3d-contrib/` and `output/` directories contain files refreshed by scheduled Actions. Edit their producing workflow or source inputs when behavior needs to change; direct edits can be overwritten by the next scheduled run.
+
+## External embeds
+
+The profile references third-party image and statistics services. Consider availability, privacy, accessibility, and provider terms before adding another service. Prefer a local asset only when its rights and maintenance source are documented.
