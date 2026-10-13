@@ -324,7 +324,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Brajesh31&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/farms/Brajesh31?cache=3"
+    src="https://render.gitanimals.org/farms/Brajesh31?cache=2"
     width="600"
     height="300"
   />
