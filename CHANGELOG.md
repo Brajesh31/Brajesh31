@@ -8,3 +8,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Documented the existing scheduled profile workflows and their operational boundaries.
 
 - Added community conduct expectations and a private reporting route.
+
+- Added security guidance for Actions tokens, workflow permissions, and external services.
