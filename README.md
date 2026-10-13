@@ -140,7 +140,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;theme=neon&amp;hide_border=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;theme=github_dark&amp;hide_border=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -155,7 +155,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
 
 <p align="center">
   <a href="https://github.com/Brajesh31">
-    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=neon&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp" alt="GitHub Trophies for Brajesh31" width="100%" />
+    <img src="https://github-trophies.vercel.app/?username=Brajesh31&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=2&amp;column=6&amp" alt="GitHub Trophies for Brajesh31" width="100%" />
   </a>
 </p>
 
