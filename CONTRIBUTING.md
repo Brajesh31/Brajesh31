@@ -28,3 +28,7 @@ Changes should fit a profile repository: profile content, static media, reposito
 ## Profile page edits
 
 The root `README.md` is rendered as the profile page. The hourly blog-post workflow also updates its marked blog section. Coordinate manual changes to action-managed regions with the maintainer and review the workflow's expected behavior before proposing edits.
+
+## Issue first for broad changes
+
+For a redesign, new external integration, or a change to what is publicly displayed, describe the motivation and proposed scope in an issue before investing in implementation. Small typo fixes and clear asset corrections can be proposed directly.
