@@ -27,3 +27,5 @@ Any third-party badges, logos, icons, screenshots, or artwork under `assets/` re
 External image URLs, feeds, statistics services, and other linked resources referenced by the profile are not included in this license grant and may have separate terms, availability, or privacy practices.
 
 The GitHub, GitHub Actions, Medium, WakaTime, Holopin, and other service names and marks are used as references in profile configuration. No trademark or endorsement rights are granted by this license.
+
+A generated file is not automatically licensed under MIT solely because a workflow writes it into this repository. Review its generator's license and the rights in the data used to create it.
