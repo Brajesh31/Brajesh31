@@ -85,3 +85,7 @@ With the reporter's consent, the maintainer may credit them in a release note or
 ## Vulnerability severity
 
 Severity depends on realistic impact, required access, and affected users. A failing external badge or a broken profile image is generally an availability or presentation issue, not automatically a security vulnerability.
+
+## Unsupported systems
+
+This repository cannot fix vulnerabilities in GitHub, external image hosts, Medium, WakaTime, or other linked providers. Report provider issues through their own security channels and avoid sharing private data here.
