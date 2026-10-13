@@ -32,3 +32,7 @@ The root `README.md` is rendered as the profile page. The hourly blog-post workf
 ## Issue first for broad changes
 
 For a redesign, new external integration, or a change to what is publicly displayed, describe the motivation and proposed scope in an issue before investing in implementation. Small typo fixes and clear asset corrections can be proposed directly.
+
+## Branch and pull request
+
+Work on a short-lived branch based on the current `main`. Submit changes through a pull request when repository settings permit. Do not force-push to `main` or rewrite shared history.
