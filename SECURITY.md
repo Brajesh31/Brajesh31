@@ -45,3 +45,7 @@ For an exposed Actions secret, delete or rotate the secret in GitHub settings, r
 ## Least privilege
 
 A workflow that commits generated assets needs write access to repository contents. Keep that access scoped to the specific workflow and avoid granting broader administration, package, or deployment permissions without a documented need.
+
+## Third-party Actions
+
+Actions execute code in the workflow context. Review their maintainers, releases, requested permissions, and transitive dependencies before adoption. Immutable commit pinning can make the selected implementation auditable.
