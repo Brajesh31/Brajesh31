@@ -97,3 +97,7 @@ Project spaces include repository issues, pull requests, code reviews, discussio
 ## External spaces
 
 A person's conduct outside project spaces is in scope when it is directly tied to project participation or creates a credible safety concern for participants.
+
+## Relationship to platform rules
+
+GitHub's Terms of Service and Community Guidelines continue to apply. This repository policy may add expectations for participation but does not supersede platform rules.
