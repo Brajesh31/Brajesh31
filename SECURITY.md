@@ -25,3 +25,7 @@ This policy covers files and workflows maintained in this repository. It does no
 ## Private disclosure
 
 Use a private channel whenever a report could expose a weakness, token, personal data, or a way to modify repository content. Public issues are appropriate only after sensitive details have been removed and coordinated disclosure is complete.
+
+## GitHub reporting availability
+
+Private vulnerability reporting is a repository setting. The reporting button is available only if the owner has enabled the feature; follow GitHub's current private-reporting guidance if you need to find it.
