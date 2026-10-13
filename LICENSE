@@ -17,3 +17,5 @@ The existing profile `README.md` is not modified by this documentation work. Its
 Files under `assets/` include image, badge, logo, and animation material whose individual creators and licenses are not recorded consistently in this repository. They are excluded from the MIT grant unless a separate notice in the relevant file says otherwise.
 
 The `thoughtworks-gif_dribbble.gif` file is an image asset, not source code. Its inclusion here does not establish its creator, source, or redistribution permission; verify those rights before reusing it.
+
+The SVG files under `profile-3d-contrib/` are generated profile visuals. This repository does not claim ownership of the generator, upstream data, fonts, artwork, or other material incorporated by the generator.
