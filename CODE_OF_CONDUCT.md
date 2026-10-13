@@ -93,3 +93,7 @@ A participant may ask the maintainer to reconsider an enforcement decision by pr
 ## Project spaces
 
 Project spaces include repository issues, pull requests, code reviews, discussions, and project-related communication where contributors are acting on behalf of this repository.
+
+## External spaces
+
+A person's conduct outside project spaces is in scope when it is directly tied to project participation or creates a credible safety concern for participants.
