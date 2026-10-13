@@ -140,7 +140,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Brajesh31">
-        <img src="[https://github-readme-stats.vercel.app/api?username=Brajesh31&amp;show=reviews,prs_merged_percentage&amp;rank_icon=percentile&amp;theme=github_dark&amp;hide_border=true](https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&number_format=long&disable_animations=true)" alt="Brajesh Kumar GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Brajesh31&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&number_format=long&disable_animations=true" alt="Brajesh Kumar GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
