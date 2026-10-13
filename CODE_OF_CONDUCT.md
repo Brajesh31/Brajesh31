@@ -81,3 +81,7 @@ Do not threaten, punish, or target someone for making a good-faith report, suppo
 ## False or abusive reports
 
 A report made honestly will be treated seriously even if it cannot be substantiated. Knowingly fabricated reports or attempts to weaponize this process may themselves be addressed as misconduct.
+
+## Confidentiality limits
+
+Reports are handled privately where practical. The maintainer may need to share limited details to investigate, address an immediate safety issue, or comply with a legal obligation.
