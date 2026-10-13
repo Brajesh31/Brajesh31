@@ -21,3 +21,7 @@ Treat workflow logs and generated profile artifacts as public. Grant Actions onl
 ## Scope of this policy
 
 This policy covers files and workflows maintained in this repository. It does not promise security support for the external hosting, statistics, image, or feed services embedded by the profile.
+
+## Private disclosure
+
+Use a private channel whenever a report could expose a weakness, token, personal data, or a way to modify repository content. Public issues are appropriate only after sensitive details have been removed and coordinated disclosure is complete.
