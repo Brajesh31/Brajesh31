@@ -81,3 +81,7 @@ The maintainer may ask for clarification or a safer proof of concept. Please all
 ## Acknowledgment
 
 With the reporter's consent, the maintainer may credit them in a release note or security notice. Reports can remain anonymous if the reporting channel permits it.
+
+## Vulnerability severity
+
+Severity depends on realistic impact, required access, and affected users. A failing external badge or a broken profile image is generally an availability or presentation issue, not automatically a security vulnerability.
