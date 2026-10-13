@@ -36,3 +36,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added ignore rules for local secrets, editor files, caches, and build scratch output.
 
 - Added consistent editor settings for Markdown, YAML, and repository configuration.
+
+- Added a safe environment example that does not contain credential values.
