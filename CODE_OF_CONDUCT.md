@@ -57,3 +57,7 @@ Credit the creators of third-party art, badges, code, or other material when app
 ## Licensing conduct
 
 Do not knowingly submit material that violates another person's copyright, license, or other rights. Raise uncertainty about an asset's provenance before adding it.
+
+## Security reports
+
+Do not publicly disclose an unpatched vulnerability or expose a secret to prove a point. Follow `SECURITY.md` and share only the information needed for a responsible review.
