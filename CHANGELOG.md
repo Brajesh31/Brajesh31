@@ -10,3 +10,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added community conduct expectations and a private reporting route.
 
 - Added security guidance for Actions tokens, workflow permissions, and external services.
+
+- Recorded the current profile repository scope rather than describing it as an application.
