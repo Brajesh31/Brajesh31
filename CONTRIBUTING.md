@@ -40,3 +40,7 @@ Work on a short-lived branch based on the current `main`. Submit changes through
 ## Keep the diff focused
 
 Change only the files needed for the contribution. Do not reformat unrelated profile markup, replace generated media without checking its producing workflow, or bundle unrelated asset changes with documentation edits.
+
+## Commit messages
+
+Use a concise verb-led subject such as `docs: clarify workflow setup` or `fix: correct asset path`. A pull request may contain multiple logical commits; explain any generated refresh commit separately.
