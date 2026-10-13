@@ -60,3 +60,7 @@ The `profile-3d-contrib/` and `output/` directories contain files refreshed by s
 ## External embeds
 
 The profile references third-party image and statistics services. Consider availability, privacy, accessibility, and provider terms before adding another service. Prefer a local asset only when its rights and maintenance source are documented.
+
+## Workflow permissions
+
+Keep each workflow's `GITHUB_TOKEN` permissions limited to the required scope. A job that pushes generated files needs write permission for repository contents; read-only jobs should not receive write access.
