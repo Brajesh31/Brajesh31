@@ -33,3 +33,7 @@ Private vulnerability reporting is a repository setting. The reporting button is
 ## What to include
 
 A useful report identifies the affected workflow or file, the conditions needed to reproduce the issue, the likely impact, and a suggested mitigation when known. Keep the report factual and concise.
+
+## What not to include
+
+Do not send live token values, passwords, private keys, personal records, or a payload that can harm another system. Redact logs and screenshots before attaching them.
