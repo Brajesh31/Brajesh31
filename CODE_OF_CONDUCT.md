@@ -33,3 +33,7 @@ Disagreement about design, wording, or implementation is expected. Explain the i
 ## Inclusive participation
 
 Use welcoming language and make a reasonable effort to support people with different experience levels, backgrounds, identities, and communication styles.
+
+## Accessibility
+
+When sharing media or proposing profile changes, consider whether people using assistive technology can understand the content. Provide useful alternative text and avoid unnecessary flashing or motion.
