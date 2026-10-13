@@ -18,3 +18,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Documented the hourly Medium blog-post refresh and its managed content region.
 
 - Documented the daily 3D contribution visualization workflow.
+
+- Documented the six-hour contribution-snake asset refresh.
