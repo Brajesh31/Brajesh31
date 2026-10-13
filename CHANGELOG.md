@@ -44,3 +44,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Added development, deployment, API, database, troubleshooting, and FAQ documentation.
 
 - Kept the existing profile README content unchanged while adding the documentation set.
+
+- Recorded that the documentation set preserves the profile page while clarifying the repository's license and workflow behavior.
