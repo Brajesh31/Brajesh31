@@ -29,3 +29,5 @@ External image URLs, feeds, statistics services, and other linked resources refe
 The GitHub, GitHub Actions, Medium, WakaTime, Holopin, and other service names and marks are used as references in profile configuration. No trademark or endorsement rights are granted by this license.
 
 A generated file is not automatically licensed under MIT solely because a workflow writes it into this repository. Review its generator's license and the rights in the data used to create it.
+
+If an asset carries its own license, attribution, or source notice, that asset-specific notice controls for that material. Preserve required notices when permitted redistribution applies.
