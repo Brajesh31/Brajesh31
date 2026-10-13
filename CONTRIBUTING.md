@@ -84,3 +84,7 @@ Review the final diff for accidental changes, whitespace errors, broken local li
 ## Changelog notes
 
 For user-visible or operational changes, update `CHANGELOG.md` with a concise description and reference the related pull request when available. Do not invent release versions or claim a deployment that did not happen.
+
+## Documentation accuracy
+
+Describe what is present in the repository and distinguish it from planned work. In particular, do not claim that this repository hosts an API, database, build pipeline, or deployable application.
