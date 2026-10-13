@@ -14,3 +14,5 @@ This changelog records repository-level documentation and workflow changes. It d
 - Recorded the current profile repository scope rather than describing it as an application.
 
 - Documented that the root profile page is rendered by GitHub from this repository.
+
+- Documented the hourly Medium blog-post refresh and its managed content region.
