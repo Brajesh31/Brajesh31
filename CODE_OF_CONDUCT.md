@@ -41,3 +41,7 @@ When sharing media or proposing profile changes, consider whether people using a
 ## Privacy
 
 Do not post private contact details, credentials, non-public repository information, or personal data without the person's consent. Use the private security process for sensitive technical reports.
+
+## Good-faith questions
+
+Ask questions in good faith and answer them with patience. Do not treat a beginner question as evidence that someone does not belong in the project.
