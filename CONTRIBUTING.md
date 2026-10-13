@@ -76,3 +76,7 @@ Document whether a workflow runs on a schedule or by manual dispatch, and consid
 ## Secrets
 
 Use GitHub Actions repository or environment secrets for credentials. Never put a token in a committed file, workflow literal, example value, issue, or pull request log. Examples should use the secret name without exposing its value.
+
+## Review checks
+
+Review the final diff for accidental changes, whitespace errors, broken local links, missing image files, and accidentally staged credentials. For workflow edits, inspect the rendered YAML and permissions before proposing the change.
