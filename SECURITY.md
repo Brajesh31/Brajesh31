@@ -89,3 +89,7 @@ Severity depends on realistic impact, required access, and affected users. A fai
 ## Unsupported systems
 
 This repository cannot fix vulnerabilities in GitHub, external image hosts, Medium, WakaTime, or other linked providers. Report provider issues through their own security channels and avoid sharing private data here.
+
+## Policy maintenance
+
+The maintainer may revise this policy as repository workflows and GitHub reporting features change. Use the current version on the default branch when reporting an issue.
