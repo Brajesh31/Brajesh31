@@ -451,6 +451,34 @@ I contribute regularly to open-source projects and share my work with the GitHub
   </picture>
 </div>
 
+### Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/skyline/skyline.svg" alt="Brajesh31 GitHub contribution skyline" width="100%" />
+</p>
+
+### Pacman
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/pacman/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/pacman/pacman-contribution-graph.svg" alt="Brajesh31 Pacman contribution graph animation" width="100%" />
+  </picture>
+</p>
+
+### Space Shooter
+
+<p align="center">
+  <img src="./game.gif" alt="Brajesh31 GitHub contribution Space Shooter game" width="100%" />
+</p>
+
+### GitHub Breakout
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/github-breakout/images/custom.svg" alt="Brajesh31 GitHub Breakout contribution game" width="100%" />
+</p>
+
 Last updated: 2026-10-18 21:38 UTC
 
 <h2 id="profile-count-views" align="center">Profile Views</h2>
