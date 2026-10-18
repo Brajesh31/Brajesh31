@@ -57,14 +57,26 @@ def recolor_gif(path: Path) -> None:
     with Image.open(path) as source:
         loop = source.info.get("loop", 0)
         default_duration = source.info.get("duration", 100)
+        source_palette = source.getpalette()
         for frame in ImageSequence.Iterator(source):
             durations.append(frame.info.get("duration", default_duration))
-            rgb = frame.convert("RGB")
-            pixels = list(rgb.getdata())
-            recolored = [BLUE_RGB.get(pixel, pixel) for pixel in pixels]
-            changed += sum(before != after for before, after in zip(pixels, recolored))
-            rgb.putdata(recolored)
-            frames.append(rgb)
+            indexed = frame.copy()
+            if indexed.mode != "P":
+                indexed = indexed.convert("P", palette=Image.Palette.ADAPTIVE, colors=256)
+
+            palette = indexed.getpalette() or source_palette
+            if palette is None:
+                raise ValueError(f"No GIF palette found in {path}")
+
+            blue_palette = list(palette)
+            for index in range(0, len(palette) - 2, 3):
+                original = tuple(palette[index : index + 3])
+                replacement = BLUE_RGB.get(original)
+                if replacement:
+                    blue_palette[index : index + 3] = replacement
+                    changed += 1
+            indexed.putpalette(blue_palette)
+            frames.append(indexed)
 
     if not frames or changed == 0:
         raise ValueError(f"No expected contribution colors found in {path}")
@@ -78,10 +90,10 @@ def recolor_gif(path: Path) -> None:
         duration=durations,
         loop=loop,
         disposal=2,
-        optimize=True,
+        optimize=False,
     )
     os.replace(temporary_path, path)
-    print(f"Recolored {changed} GIF pixels in {path}")
+    print(f"Recolored {changed} GIF palette entries in {path}")
 
 
 def main() -> None:
