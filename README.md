@@ -1,11 +1,13 @@
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=brajesh31&amp;theme=github-dark&amp;role=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Products&amp;v=readme-reference-2" width="100%" alt="Brajesh Kumar profile banner" />
+
+</div>
+
 # Hey, I'm Brajesh Kumar 👋
 
 > I build software at the intersection of **A.I, full-stack engineering, and developer experience**.<br>
 > I turn ideas into reliable products, intelligent systems, and digital experiences people actually use.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=00C7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+products%2C+not+just+projects.;Shipping+full-stack+software.;Exploring+AI+%C3%97+software+engineering.;Building+systems+people+use.;Designing.+Building.+Shipping." alt="Typing introduction" />
-</p>
 
 <p align="center">
   <a href="https://brajesh31.com"><img src="https://img.shields.io/badge/Portfolio-brajesh31.com-00C7FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio: brajesh31.com" /></a>&nbsp;&nbsp;
@@ -19,6 +21,10 @@
   <a href="https://github.com/Brajesh31?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBrajesh31&amp;query=%24.public_repos&amp;label=Repositories&amp;color=00C7FF&amp;logo=github&amp;style=flat-square" alt="Public GitHub repositories" /></a>&nbsp;&nbsp;
   <a href="https://github.com/Brajesh31"><img src="https://komarev.com/ghpvc/?username=Brajesh31&amp;style=flat-square&amp;color=00C7FF&amp;label=Profile+Views" alt="GitHub profile views" /></a>&nbsp;&nbsp;
   <a href="https://wakatime.com/@d55f1647-8848-4cc5-accd-7347e1a3d7b8"><img src="https://wakatime.com/badge/user/d55f1647-8848-4cc5-accd-7347e1a3d7b8.svg" alt="Total time coded since Sep 9 2025" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=00C7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+practical+AI+systems.;Shipping+full-stack+products.;Improving+developer+workflows.;Turning+ideas+into+software+people+use.;Designing.+Building.+Shipping." alt="" /></a>
 </p>
 
 ### What I Build
@@ -68,6 +74,23 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/maintainer-system-scan-light.svg"
+  />
+
+  <img
+    src="./assets/maintainer-system-scan-dark.svg"
+    width="860"
+    alt="Brajesh Kumar animated maintainer system scan"
+  />
+</picture>
+
+</div>
 
 ## 🏗️ Flagship Projects
 
@@ -362,18 +385,7 @@ Keep stacking and clearing lines! 🚀<br/>
 
 <br/>
 
-## ❤️ Let's Get Connected
 
-<div align="center">
-  <a href="https://github.com/Brajesh31"><img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brajesh31/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_brajesh31/"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="45" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/lord_Brajesh"><img src="https://cdn.simpleicons.org/x/FFFFFF" height="45" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@lifebetweencommit"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="45" alt="YouTube" /></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@brajesh31"><img src="https://cdn.simpleicons.org/medium/FFFFFF" height="45" alt="Medium" /></a>&nbsp;&nbsp;
-  <a href="https://brajesh31.com"><img src="https://cdn.simpleicons.org/googlechrome/00C7FF" height="45" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://wa.me/919548797453"><img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp" /></a>
-</div>
 
 
 
@@ -408,30 +420,42 @@ Keep stacking and clearing lines! 🚀<br/>
 
 
 -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    
+## 📊 Contribution Graph
 
-### 💡 Contribution & Open Source:
-I contribute regularly to open-source projects and love collaborating with others on GitHub. Let's build something impactful!
+I contribute regularly to open-source projects and share my work with the GitHub community.
 
 <div align="center">
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
+Last updated: 2026-10-18 18:06 UTC
+
+## 🤝 Let’s connect
+
+<p align="center"><a href="https://github.com/Brajesh31"><img src="./assets/neon-social-card-handle.svg" width="336" height="106" alt="GitHub @brajesh31" /></a><a href="https://github.com/Brajesh31"><img src="./assets/neon-social-card-github.svg" width="63" height="106" alt="GitHub" /></a><a href="https://www.linkedin.com/in/brajesh31/"><img src="./assets/neon-social-card-linkedin.svg" width="63" height="106" alt="LinkedIn" /></a><a href="https://www.instagram.com/_brajesh31/"><img src="./assets/neon-social-card-instagram.svg" width="63" height="106" alt="Instagram" /></a><a href="https://x.com/lord_Brajesh"><img src="./assets/neon-social-card-x.svg" width="63" height="106" alt="X" /></a><a href="https://www.youtube.com/@lifebetweencommit"><img src="./assets/neon-social-card-youtube.svg" width="63" height="106" alt="YouTube" /></a><a href="https://medium.com/@brajesh31"><img src="./assets/neon-social-card-medium.svg" width="63" height="106" alt="Medium" /></a><a href="https://brajesh31.com"><img src="./assets/neon-social-card-portfolio.svg" width="63" height="106" alt="Portfolio" /></a><a href="https://wa.me/919548797453"><img src="./assets/neon-social-card-whatsapp.svg" width="63" height="106" alt="WhatsApp" /></a></p>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<br/>
 
 <div align="center">
-    © 2021 Brajesh Kumar
+  <sub>Build boldly · test thoughtfully · ship safely</sub>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" alt="git">
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  <sub>© 2021 Brajesh Kumar</sub>
 </div>
-
-
-
-
-Last updated: 2026-10-18 17:07 UTC

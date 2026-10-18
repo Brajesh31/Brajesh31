@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Brajesh Kumar system profile scan">
+  <defs>
+    <linearGradient id="scan-brajesh31-github-dark-dark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="scan-brajesh31-github-dark-dark-portrait-gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58a6ff"><animate attributeName="stop-color" values="#58a6ff;#a371f7;#58a6ff" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#39d353"/>
+    </linearGradient>
+    <linearGradient id="scan-brajesh31-github-dark-dark-scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#39d353" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#39d353" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#39d353" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan-brajesh31-github-dark-dark-grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#8b949e" stroke-opacity="0.06" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="1178" height="608" rx="18" fill="url(#scan-brajesh31-github-dark-dark-bg)" stroke="#58a6ff" stroke-width="2"/>
+  <rect x="1" y="1" width="1178" height="608" rx="18" fill="url(#scan-brajesh31-github-dark-dark-grid)"/>
+  <path d="M1 18A17 17 0 0 1 18 1h1144a17 17 0 0 1 17 17v25H1z" fill="#111722" fill-opacity="0.94"/>
+  <line x1="1" y1="43" x2="1179" y2="43" stroke="#58a6ff"/>
+  <circle cx="24" cy="22" r="5" fill="#ff5f56"/><circle cx="42" cy="22" r="5" fill="#ffbd2e"/><circle cx="60" cy="22" r="5" fill="#27c93f"/>
+  <text x="590" y="27" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">brajesh31@github ~ $ ./profile-scan --live</text>
+  <circle cx="1102" cy="22" r="4" fill="#58a6ff"><animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/></circle>
+  <text x="1114" y="26" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="800" letter-spacing="1.2" fill="#58a6ff">LIVE</text>
+
+  <rect x="22" y="65" width="488" height="515" rx="14" fill="rgba(8,8,12,0.5)" fill-opacity="0.54" stroke="#58a6ff"/>
+  <rect x="526" y="65" width="632" height="515" rx="14" fill="rgba(8,8,12,0.5)" fill-opacity="0.54" stroke="#58a6ff"/>
+  <text x="38" y="84" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="800" letter-spacing="2" fill="#8b949e">VISUAL.MAP</text>
+  <text x="544" y="84" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="800" letter-spacing="2" fill="#8b949e">SYSTEM.INFO</text>
+
+  <clipPath id="scan-brajesh31-github-dark-dark-portrait-0"><rect x="36" y="80.9" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.150s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="92.0" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-0)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">   `````.................```                    </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-1"><rect x="36" y="94.0" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.225s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="105.1" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-1)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">      `````...........`....```  `               </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-2"><rect x="36" y="107.1" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.300s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="118.2" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-2)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">      ````.....................```````          </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-3"><rect x="36" y="120.2" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.375s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="131.3" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-3)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">         `````...`......`*....`..`````          </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-4"><rect x="36" y="133.3" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.450s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="144.4" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-4)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">           ``````````..*%SSS`.....````          </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-5"><rect x="36" y="146.4" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.525s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="157.5" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-5)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">             ``````````cS#S%#````````           </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-6"><rect x="36" y="159.5" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.600s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="170.6" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-6)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">                       sS%#%#. ``               </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-7"><rect x="36" y="172.6" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.675s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="183.7" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-7)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">                      sS#%#%%`                  </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-8"><rect x="36" y="185.7" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.750s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="196.8" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-8)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">                       ##%%%%                   </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-9"><rect x="36" y="198.8" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.825s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="209.9" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-9)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">                      ScS@%%                    </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-10"><rect x="36" y="211.9" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.900s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="223.0" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-10)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">                   %S#ss%S####                  </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-11"><rect x="36" y="225.0" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="0.975s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="236.1" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-11)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">                  ss##%%%%##%##                 </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-12"><rect x="36" y="238.1" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.050s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="249.2" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-12)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SsSSSS           S%s#@SSSS%%%S##                </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-13"><rect x="36" y="251.2" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.125s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="262.3" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-13)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SSSSSSSs         S##SS#%%#%%%%##                </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-14"><rect x="36" y="264.3" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.200s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="275.4" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-14)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SSSSSSSSsS       s%SSSSS###%%%%#                </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-15"><rect x="36" y="277.4" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.275s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="288.5" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-15)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">#S##SSSSSs       S%#S%##%%%%%%%#                </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-16"><rect x="36" y="290.5" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.350s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="301.6" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-16)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">#######SSs      s%%%#%%%%%%%#%%##               </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-17"><rect x="36" y="303.6" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.425s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="314.7" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-17)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SS######SS      S#%%#%%%%%%%%-%%#             s </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-18"><rect x="36" y="316.7" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.500s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="327.8" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-18)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">########S       S%%%%%%%%%%%%-@%S*       sc cccc</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-19"><rect x="36" y="329.8" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.575s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="340.9" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-19)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">##S######S      sS%%%%%%%%%%%# %SsS  c cccsssssc</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-20"><rect x="36" y="342.9" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.650s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="354.0" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-20)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SSSS###SSsSS    s-%%%%%%%%%%%#  @sc    ccscssssc</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-21"><rect x="36" y="356.0" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.725s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="367.1" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-21)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SsSSS###SSS    %%-%%%%%%%%%%%#    s#    sccccscs</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-22"><rect x="36" y="369.1" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.800s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="380.2" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-22)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SSSSSSSSSSc    #S%#%%%%%%%%%%@    %s     cccsssc</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-23"><rect x="36" y="382.2" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.875s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="393.3" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-23)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">SSSSSSSSSS     S%SS%%%%%%%%%%%    @s%     csssss</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-24"><rect x="36" y="395.3" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="1.950s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="406.4" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-24)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">S##SSSSSSSc     S #%%%%%%%%%%%    S%%      c s s</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-25"><rect x="36" y="408.4" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.025s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="419.5" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-25)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">######SSSS        #%%%% %%%%%#     `            </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-26"><rect x="36" y="421.5" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.100s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="432.6" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-26)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">####SS` ..`.      #%%%%  %%%%%                  </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-27"><rect x="36" y="434.6" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.175s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="445.7" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-27)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">S#SSS`.       `.S %%%%   %%%%  `.``             </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-28"><rect x="36" y="447.7" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.250s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="458.8" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-28)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">##SS `       .    #%%%   #%%% `.`  `          cc</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-29"><rect x="36" y="460.8" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.325s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="471.9" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-29)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">             `.` s#%%    #%%%``  `        c c   </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-30"><rect x="36" y="473.9" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.400s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="485.0" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-30)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">   `        `    S#%%`  c=%%%        s   cscs cc</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-31"><rect x="36" y="487.0" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.475s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="498.1" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-31)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">           c    %+sSs  . #%%%%   cssc*ss  ssssss</text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-32"><rect x="36" y="500.1" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.550s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="511.2" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-32)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">        s       #+cS   `  %%%    cs  ssssssssss </text>
+<clipPath id="scan-brajesh31-github-dark-dark-portrait-33"><rect x="36" y="513.2" width="0" height="15.1"><animate attributeName="width" from="0" to="408" begin="2.625s" dur="0.16s" fill="freeze"/></rect></clipPath>
+    <text x="36" y="524.3" clip-path="url(#scan-brajesh31-github-dark-dark-portrait-33)" xml:space="preserve" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11.6" textLength="408" lengthAdjust="spacing" fill="url(#scan-brajesh31-github-dark-dark-portrait-gradient)">         ssscs  #+c       css . `... .... . s   </text>
+  <clipPath id="scan-brajesh31-github-dark-dark-info-0"><rect x="548" y="86" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="0.550s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-0)">
+      <text x="548" y="105" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Subject</text>
+      <line x1="660" y1="101" x2="824" y2="101" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="105" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">Brajesh Kumar</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-1"><rect x="548" y="125" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="0.655s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-1)">
+      <text x="548" y="144" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Handle</text>
+      <line x1="660" y1="140" x2="824" y2="140" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="144" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">@brajesh31</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-2"><rect x="548" y="164" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="0.760s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-2)">
+      <text x="548" y="183" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Role</text>
+      <line x1="660" y1="179" x2="824" y2="179" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="183" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#e6edf3">Software Engineer | AI &amp; Full-Stack Products</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-3"><rect x="548" y="203" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="0.865s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-3)">
+      <text x="548" y="222" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Status</text>
+      <line x1="660" y1="218" x2="824" y2="218" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="222" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">Building | Learning | Shipping</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-4"><rect x="548" y="242" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="0.970s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-4)">
+      <text x="548" y="261" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Languages</text>
+      <line x1="660" y1="257" x2="824" y2="257" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="261" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">Jupyter Notebook, CSS, JavaScript, HTML</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-5"><rect x="548" y="281" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="1.075s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-5)">
+      <text x="548" y="300" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Repositories</text>
+      <line x1="660" y1="296" x2="824" y2="296" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="300" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">367</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-6"><rect x="548" y="320" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="1.180s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-6)">
+      <text x="548" y="339" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Contributions</text>
+      <line x1="660" y1="335" x2="824" y2="335" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="339" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">757K</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-7"><rect x="548" y="359" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="1.285s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-7)">
+      <text x="548" y="378" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Stars</text>
+      <line x1="660" y1="374" x2="824" y2="374" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="378" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">160K</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-8"><rect x="548" y="398" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="1.390s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-8)">
+      <text x="548" y="417" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Followers</text>
+      <line x1="660" y1="413" x2="824" y2="413" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="417" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">25</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-9"><rect x="548" y="437" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="1.495s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-9)">
+      <text x="548" y="456" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Active Days</text>
+      <line x1="660" y1="452" x2="824" y2="452" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="456" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">365</text>
+    </g>
+<clipPath id="scan-brajesh31-github-dark-dark-info-10"><rect x="548" y="476" width="0" height="27"><animate attributeName="width" from="0" to="580" begin="1.600s" dur="0.32s" fill="freeze"/></rect></clipPath>
+    <g clip-path="url(#scan-brajesh31-github-dark-dark-info-10)">
+      <text x="548" y="495" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="750" fill="#58a6ff">Contact</text>
+      <line x1="660" y1="491" x2="824" y2="491" stroke="#8b949e" stroke-opacity="0.3" stroke-dasharray="2 5"/>
+      <text x="842" y="495" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">github.com/brajesh31</text>
+    </g>
+
+  <rect x="20" y="-90" width="1140" height="74" fill="url(#scan-brajesh31-github-dark-dark-scan)" opacity="0.75">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 735" dur="4.6s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="1" width="1178" height="608" rx="18" fill="none" stroke="#58a6ff" stroke-opacity="0.42">
+    <animate attributeName="stroke-opacity" values="0.25;0.65;0.25" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="1167" y="599" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="0.3" fill="#8b949e" fill-opacity="0.42">gitskins.com</text>
+</svg>
