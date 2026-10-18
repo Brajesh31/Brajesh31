@@ -24,6 +24,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: 'pacman'
 
+      - name: Apply the blue contribution palette
+        run: python3 scripts/recolor_blue.py --kind svg dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+
       - name: Publish Pacman SVGs to the pacman branch
         shell: bash
         run: |

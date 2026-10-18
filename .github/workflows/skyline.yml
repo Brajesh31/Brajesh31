@@ -25,7 +25,7 @@ jobs:
       - name: Generate Skyline
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: go run github.com/pinkpixel-dev/skyline@latest -theme neon -svg skyline.svg Brajesh31
+        run: go run github.com/pinkpixel-dev/skyline@latest -theme ice -svg skyline.svg Brajesh31
 
       - name: Publish only skyline.svg to the skyline branch
         shell: bash

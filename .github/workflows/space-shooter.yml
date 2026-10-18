@@ -27,3 +27,30 @@ jobs:
           username: Brajesh31
           output-path: game.gif
           strategy: random
+
+      - name: Recolor the contribution blocks blue
+        shell: bash
+        run: python scripts/recolor_blue.py --kind gif game.gif
+
+      - name: Commit the blue Space Shooter GIF
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- game.gif
+          if git diff --cached --quiet; then
+            echo "The blue GIF is already current."
+            exit 0
+          fi
+
+          last_message="$(git log -1 --pretty=%s)"
+          last_files="$(git diff-tree --no-commit-id --name-only -r HEAD)"
+          if [[ "$last_message" == "Update space shooter game GIF" && "$last_files" == "game.gif" ]]; then
+            previous_sha="$(git rev-parse HEAD)"
+            git commit --amend --no-edit
+            git push --force-with-lease="main:$previous_sha" origin HEAD:main
+          else
+            git commit -m "Update space shooter game GIF"
+            git push origin HEAD:main
+          fi

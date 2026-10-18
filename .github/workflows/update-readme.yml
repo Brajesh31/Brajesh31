@@ -1,16 +1,13 @@
-name: Update README Automation
+name: Remove README Timestamp
 
 on:
   workflow_dispatch:
-  push:
-  schedule:
-    - cron: "0 * * * *"
 
 permissions:
   contents: write
 
 jobs:
-  update-readme:
+  remove-timestamp:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,19 +16,10 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Update README timestamp
+      - name: Remove timestamp line
         run: |
-          DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
-          TIMESTAMP_LINE="Last updated: $DATE"
-
           if [ -f README.md ]; then
-            if grep -q "Last updated:" README.md; then
-              sed -i "s/Last updated:.*/$TIMESTAMP_LINE/" README.md
-            else
-              printf "\n%s\n" "$TIMESTAMP_LINE" >> README.md
-            fi
-          else
-            printf "# Repository\n\n%s\n" "$TIMESTAMP_LINE" > README.md
+            sed -i '/^Last updated:/d' README.md
           fi
 
           git config user.name "Brajesh31"
@@ -40,9 +28,9 @@ jobs:
           git add README.md
 
           if git diff --cached --quiet; then
-            echo "No README changes detected."
+            echo "No timestamp line found."
             exit 0
           fi
 
-          git commit -m "chore: update README timestamp"
+          git commit -m "chore: remove README timestamp"
           git push origin HEAD
