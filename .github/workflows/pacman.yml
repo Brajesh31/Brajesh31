@@ -1,0 +1,44 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '29 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate Pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Brajesh31
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: 'pacman'
+
+      - name: Publish Pacman SVGs to the pacman branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
+          mkdir -p "$RUNNER_TEMP/pacman-publish"
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg "$RUNNER_TEMP/pacman-publish/"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan pacman
+          git rm -rf .
+          git clean -fdx
+          cp "$RUNNER_TEMP/pacman-publish/"*.svg .
+          git add -- pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          git commit -m "chore: update Pacman contribution graph"
+          git push --force origin HEAD:pacman

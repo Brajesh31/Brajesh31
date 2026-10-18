@@ -1,0 +1,46 @@
+name: Skyline Contribution City
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Set up Go
+        uses: actions/setup-go@v7
+        with:
+          go-version: stable
+
+      - name: Generate Skyline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: go run github.com/pinkpixel-dev/skyline@latest -theme neon -svg skyline.svg Brajesh31
+
+      - name: Publish only skyline.svg to the skyline branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s skyline.svg
+          mkdir -p "$RUNNER_TEMP/skyline-publish"
+          cp skyline.svg "$RUNNER_TEMP/skyline-publish/skyline.svg"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan skyline
+          git rm -rf .
+          git clean -fdx
+          cp "$RUNNER_TEMP/skyline-publish/skyline.svg" skyline.svg
+          git add -- skyline.svg
+          git commit -m "chore: update Skyline contribution visualization"
+          git push --force origin HEAD:skyline

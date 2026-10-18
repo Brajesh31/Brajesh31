@@ -1,0 +1,47 @@
+name: GitHub Breakout Contribution Game
+
+on:
+  schedule:
+    - cron: '53 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate Breakout SVGs
+        uses: cyprieng/github-breakout@v1
+        with:
+          github_username: Brajesh31
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: output
+          paddle_color: '#00C7FF'
+          ball_color: '#00C7FF'
+          bricks_colors: '#0B1020,#123D72,#087FB8,#00A6D6,#00C7FF'
+
+      - name: Publish only custom.svg to the github-breakout branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s output/custom.svg
+          mkdir -p "$RUNNER_TEMP/github-breakout-publish/images"
+          cp output/custom.svg "$RUNNER_TEMP/github-breakout-publish/images/custom.svg"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan github-breakout
+          git rm -rf .
+          git clean -fdx
+          mkdir -p images
+          cp "$RUNNER_TEMP/github-breakout-publish/images/custom.svg" images/custom.svg
+          git add -- images/custom.svg
+          git commit -m "chore: update GitHub Breakout visualization"
+          git push --force origin HEAD:github-breakout
