@@ -228,6 +228,25 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   </tr>
 </table>
 
+<table width="95%" align="center">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+        alt="GitHub activity animation"
+        width="60%"
+      />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <img
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/brajesh31?cardType=level-alternate&theme=tokyonight&preferLogin=true"
+        alt="Brajesh31 GitHub statistics"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 ### 🔥 Contribution Activity
 
 <p align="center">
@@ -433,6 +452,18 @@ I contribute regularly to open-source projects and share my work with the GitHub
 </div>
 
 Last updated: 2026-10-18 20:14 UTC
+
+<h2 id="profile-count-views" align="center">Profile Views</h2>
+
+<p align="center">A small counter showing visits to my profile.</p>
+
+<p align="center">
+  <img
+    src="https://count.getloli.com/@Brajesh31?theme=love-and-deepspace&padding=8&offset=1&align=center&scale=1.1&pixelated=1&darkmode=auto"
+    alt="Brajesh31 profile view counter"
+    width="420"
+  />
+</p>
 
 ## 🤝 Let’s connect
 
