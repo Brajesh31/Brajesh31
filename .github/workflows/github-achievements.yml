@@ -11,7 +11,7 @@ permissions:
 jobs:
   achievements:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       - name: Generate GitHub Achievements card
@@ -34,3 +34,5 @@ jobs:
           config_octicon: yes
           config_twemoji: yes
           plugins_errors_fatal: yes
+          debug: yes
+          debug_flags: --puppeteer-wait-domcontentloaded
