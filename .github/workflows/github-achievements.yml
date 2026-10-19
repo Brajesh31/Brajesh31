@@ -22,11 +22,14 @@ jobs:
           path: .metrics-action
           persist-credentials: false
 
-      - name: Add xz utility required by Metrics image build
+      - name: Layer Projects V2 fix onto the prebuilt Metrics image
         shell: bash
         run: |
-          sed -i 's/pkg-config libssl-dev/pkg-config libssl-dev xz-utils/' .metrics-action/Dockerfile
-          grep -q 'pkg-config libssl-dev xz-utils' .metrics-action/Dockerfile
+          cat > .metrics-action/Dockerfile <<'EOF'
+          FROM ghcr.io/lowlighter/metrics:v3.35-beta
+          COPY source/plugins/achievements/queries/achievements.graphql /metrics/source/plugins/achievements/queries/achievements.graphql
+          COPY source/plugins/achievements/list/users.mjs /metrics/source/plugins/achievements/list/users.mjs
+          EOF
 
       - name: Generate GitHub Achievements card
         uses: ./.metrics-action
