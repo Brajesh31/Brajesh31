@@ -18,7 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics-core.svg
-          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: 'chore: update GitHub Metrics [Skip GitHub Action]'
