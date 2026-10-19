@@ -292,11 +292,18 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
       <p align="center">
         <img src="assets/Adventurer%20Badge.png" alt="Adventurer badge" width="100" />&nbsp;<img src="assets/Champion%20Badge.png" alt="Champion badge" width="100" />&nbsp;<img src="assets/Conqurer%20Badge.png" alt="Conqurer badge" width="100" />&nbsp;<img src="assets/Explorer%20Badge.png" alt="Explorer badge" width="100" />&nbsp;<img src="assets/Innovator%20Bage.png" alt="Innovator badge" width="100" />
         <br />
-        <img src="assets/Postman%20Badge.png" alt="Postman badge" width="100" />&nbsp;<img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="100" />&nbsp;<img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" />&nbsp;<img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="100" />&nbsp;<img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="100" />
+        <img src="assets/Postman%20Badge.png" alt="Postman badge" width="100" />&nbsp;<img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="100" />&nbsp;<img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" />&nbsp;<img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="100" />
         <br />
         <img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="100" />&nbsp;<img src="assets/8.png" alt="Dragon badge" width="100" />&nbsp;<img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Assertion badge" width="100" />&nbsp;<img src="assets/Git%20Explorer.png" alt="Git Explorer badge" width="100" />&nbsp;<img src="assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf 2024 badge" width="100" />
       </p>
       <div align="center">
+        <a href="https://www.credly.com/badges/146b9c62-6920-41ee-ad7d-21aa426fd3cb"><img alt="AWS Certified Cloud Practitioner — view credential on Credly" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="108" /></a>
+        <a href="https://www.credly.com/badges/ffafd6d0-02de-4501-8df4-6e271b5cfd3d"><img alt="AWS Certified Solutions Architect - Associate — view credential on Credly" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="108" /></a>
+        <a href="https://www.credly.com/badges/01856b6d-0910-4b71-b2ea-775070f9ea07"><img alt="AWS Certified Developer - Associate — view credential on Credly" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="108" /></a>
+        <a href="https://www.credly.com/badges/5e79d3bc-2b02-4a46-a05b-a2c625dd8b64"><img alt="AWS Certified SysOps Administrator - Associate — view credential on Credly" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="108" /></a>
+        <a href="https://www.credly.com/badges/ea6013fe-eddb-492c-a1eb-6ff0d62ab76e"><img alt="AWS Certified Solutions Architect - Professional — view credential on Credly" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="108" /></a>
+        <a href="https://github.com/Brajesh31"><img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="100" /></a>
+        <br /><br />
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/187cf391-9424-4383-997b-2acfc108ec8b" width="120" alt="GSSoC badge 1" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/2a31b2c3-7ca9-4df7-bc65-50770cf31890" width="120" alt="GSSoC badge 2" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/b5b72892-9ca1-4cee-b07b-ef34b5db205b" width="120" alt="GSSoC badge 3" /></a>
@@ -305,16 +312,11 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/879bfb83-d3c5-40da-a4e2-234197cd2697" width="120" alt="GSSoC badge 6" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/6d57b5bf-41ac-4ee7-b69a-7f3d8a45e5d6" width="120" alt="GSSoC badge 7" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/19ce29d9-547c-4d3d-a2ef-3260b74ac55b" width="120" alt="GSSoC badge 8" /></a>
+        <br />
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/fe182042-9a8d-4fef-9a66-6978a2377503" width="120" alt="GSSoC badge 9" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/ac9c0633-b751-4c3e-80d6-b205427d6146" width="120" alt="GSSoC badge 10" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/c017ee12-3947-4ff9-9234-7628ba95d960" width="120" alt="GSSoC badge 11" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/d40b4d04-017e-4f39-881e-bbef16f5a097" width="120" alt="GSSoC badge 12" /></a>
-        <br /><br />
-        <a href="https://www.credly.com/badges/146b9c62-6920-41ee-ad7d-21aa426fd3cb"><img alt="AWS Certified Cloud Practitioner — view credential on Credly" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="108" /></a>
-        <a href="https://www.credly.com/badges/ffafd6d0-02de-4501-8df4-6e271b5cfd3d"><img alt="AWS Certified Solutions Architect - Associate — view credential on Credly" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="108" /></a>
-        <a href="https://www.credly.com/badges/01856b6d-0910-4b71-b2ea-775070f9ea07"><img alt="AWS Certified Developer - Associate — view credential on Credly" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="108" /></a>
-        <a href="https://www.credly.com/badges/5e79d3bc-2b02-4a46-a05b-a2c625dd8b64"><img alt="AWS Certified SysOps Administrator - Associate — view credential on Credly" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="108" /></a>
-        <a href="https://www.credly.com/badges/ea6013fe-eddb-492c-a1eb-6ff0d62ab76e"><img alt="AWS Certified Solutions Architect - Professional — view credential on Credly" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="108" /></a>
       </div>
       <p align="center">
         <a href="https://holopin.io/@brajesh31">
