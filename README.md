@@ -154,6 +154,19 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   </tr>
 </table>
 
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🏙️ Contribution City</h3>
+      <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/contribution-city.svg" alt="Brajesh31 Contribution City" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📊 GitHub Metrics</h3>
+      <p>The metrics card will appear here after a supported token is configured and the workflow generates its SVG.</p>
+    </td>
+  </tr>
+</table>
+
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
