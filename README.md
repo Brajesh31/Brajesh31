@@ -137,6 +137,23 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <i>Tracking the hours behind the code.</i>
 </p>
 
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">Git Ranker</th>
+    <th width="50%" align="center">WakaTime</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.git-ranker.com/ko/users/Brajesh31">
+        <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjkwNDkxMTA2" alt="Git Ranker badge for Brajesh31" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brajesh31&amp;theme=dracula&amp;layout=compact" alt="WakaTime coding statistics for Brajesh31" width="100%" />
+    </td>
+  </tr>
+</table>
+
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -477,6 +494,16 @@ I contribute regularly to open-source projects and share my work with the GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/github-breakout/images/custom.svg" alt="Brajesh31 GitHub Breakout contribution game" width="100%" />
+</p>
+
+### Minesweeper
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/output/minesweeper-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brajesh31/Brajesh31/output/minesweeper-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/output/minesweeper-contribution-graph.svg" alt="Brajesh31 Minesweeper contribution graph" width="100%" />
+  </picture>
 </p>
 
 <h2 id="profile-count-views" align="center">Profile Views</h2>
