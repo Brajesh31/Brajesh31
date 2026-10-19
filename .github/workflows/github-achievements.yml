@@ -1,0 +1,33 @@
+name: GitHub Achievements
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  achievements:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate GitHub Achievements card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: 'chore: update GitHub achievements card [Skip GitHub Action]'
+          user: Brajesh31
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          config_timezone: Asia/Kolkata
+          config_octicon: yes
+          config_twemoji: yes
+          plugins_errors_fatal: yes
