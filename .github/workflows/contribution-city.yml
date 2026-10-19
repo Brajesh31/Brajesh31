@@ -35,7 +35,7 @@ jobs:
       - name: Generate Contribution City
         shell: bash
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Brajesh31
         run: |
           set -euo pipefail
