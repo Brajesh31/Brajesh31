@@ -1,0 +1,34 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-core.svg
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: 'chore: update GitHub Metrics [Skip GitHub Action]'
+          user: Brajesh31
+          template: classic
+          base: header, activity, community, repositories
+          repositories_forks: yes
+          config_timezone: Asia/Kolkata
+          config_octicon: yes
+          config_twemoji: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
