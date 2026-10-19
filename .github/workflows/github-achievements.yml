@@ -11,9 +11,10 @@ permissions:
 jobs:
   achievements:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
 
     steps:
+      # Pin the upstream Projects V2 fix until it is included in a release.
       - name: Checkout fixed Metrics source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
@@ -51,4 +52,3 @@ jobs:
           config_octicon: yes
           config_twemoji: yes
           plugins_errors_fatal: yes
-          debug: yes
