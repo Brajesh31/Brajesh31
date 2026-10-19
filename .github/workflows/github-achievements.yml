@@ -18,6 +18,8 @@ jobs:
         # Pin the upstream fix for the retired Projects Classic GraphQL field.
         uses: lowlighter/metrics@1e49d0b8b932624dd7762147e35ccc137eda09f1
         with:
+          # Use this pinned source instead of the stale prebuilt beta image.
+          use_prebuilt_image: no
           filename: metrics/metrics-achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -35,4 +37,3 @@ jobs:
           config_twemoji: yes
           plugins_errors_fatal: yes
           debug: yes
-          debug_flags: --puppeteer-wait-domcontentloaded
