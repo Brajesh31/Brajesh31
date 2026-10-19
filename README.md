@@ -162,7 +162,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
     </td>
     <td width="50%" align="center" valign="top">
       <h3>📊 GitHub Metrics</h3>
-      <p>The metrics card will appear here after a supported token is configured and the workflow generates its SVG.</p>
+      <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/metrics/metrics-core.svg" alt="Brajesh31 GitHub Metrics" width="100%" />
     </td>
   </tr>
 </table>
