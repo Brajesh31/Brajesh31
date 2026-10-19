@@ -1,0 +1,67 @@
+name: Contribution City
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Check out Contribution City generator
+        uses: actions/checkout@v7
+        with:
+          repository: mna11/contribution-city
+          ref: 247d6078f79defe8f880346cce6079b61034aa44
+          path: .contribution-city-generator
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: '20'
+
+      - name: Generate Contribution City
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Brajesh31
+        run: |
+          set -euo pipefail
+          log_file="$RUNNER_TEMP/contribution-city.log"
+          node .contribution-city-generator/generate-city.js 2>&1 | tee "$log_file"
+
+          if grep -Fq 'Using test data (API unavailable)' "$log_file"; then
+            echo '::error::Contribution City returned demo data; refusing to publish it.'
+            exit 1
+          fi
+
+          generated_file='.contribution-city-generator/contribution-city.svg'
+          test -s "$generated_file"
+          cp "$generated_file" contribution-city.svg
+
+      - name: Commit generated city to main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- contribution-city.svg
+          if git diff --cached --quiet; then
+            echo 'Contribution City is already current.'
+            exit 0
+          fi
+
+          git commit -m 'chore: update Contribution City'
+          git push origin HEAD:main
