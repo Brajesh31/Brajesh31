@@ -300,7 +300,6 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
         <a href="https://github.com/Brajesh31"><img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" /></a>
         <br />
         <a href="https://github.com/Brajesh31"><img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="100" /></a>
-        <a href="https://github.com/Brajesh31"><img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/8.png" alt="Dragon badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Assertion badge" width="100" /></a>
@@ -313,6 +312,7 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
         <a href="https://github.com/Brajesh31"><img alt="AWS Certified Developer - Associate — GitHub profile" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="108" /></a>
         <a href="https://github.com/Brajesh31"><img alt="AWS Certified SysOps Administrator - Associate — GitHub profile" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="108" /></a>
         <a href="https://github.com/Brajesh31"><img alt="AWS Certified Solutions Architect - Professional — GitHub profile" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="108" /></a>
+        <a href="https://github.com/Brajesh31"><img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="100" /></a>
         <br /><br />
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/187cf391-9424-4383-997b-2acfc108ec8b" width="120" alt="GSSoC badge 1" /></a>
         <a href="https://github.com/Brajesh31"><img src="https://github.com/user-attachments/assets/2a31b2c3-7ca9-4df7-bc65-50770cf31890" width="120" alt="GSSoC badge 2" /></a>
