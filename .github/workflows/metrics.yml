@@ -1,6 +1,9 @@
 name: GitHub Metrics
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
@@ -18,7 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics-core.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: 'chore: update GitHub Metrics [Skip GitHub Action]'
