@@ -297,8 +297,8 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
         <a href="https://github.com/Brajesh31"><img src="assets/Innovator%20Bage.png" alt="Innovator badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/Postman%20Badge.png" alt="Postman badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="100" /></a>
-        <a href="https://github.com/Brajesh31"><img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" /></a>
         <br />
+        <a href="https://github.com/Brajesh31"><img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="100" /></a>
         <a href="https://github.com/Brajesh31"><img src="assets/8.png" alt="Dragon badge" width="100" /></a>
