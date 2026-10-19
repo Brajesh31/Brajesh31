@@ -88,9 +88,9 @@
 
 <!-- YEAR / WEEK 텍스트 -->
 <text x="50" y="1180" class="stats-label">YEAR:</text>
-<text x="220" y="1180" class="stats-text">758560</text>
+<text x="220" y="1180" class="stats-text">759707</text>
 <text x="50" y="1230" class="stats-label">WEEK:</text>
-<text x="220" y="1230" class="stats-text">756126</text>
+<text x="220" y="1230" class="stats-text">757273</text>
 
 
 <rect width="10" height="20" transform="matrix(0.866025 -0.5 0 1 2109.66 743)" fill="#1A2E15"/>
@@ -2095,7 +2095,7 @@
 </g>
 </g>
 
-<!-- Day 7 (MON) Building (Big) - 378 commits -->
+<!-- Day 7 (MON) Building (Big) - 1525 commits -->
 <g transform="translate(1770.43, 514.209)">
 
 <mask id="mask0_2_3553" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="216" width="260" height="150">
@@ -2262,64 +2262,69 @@
 <rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 71.7002 67.7999)" fill="#ECEFF1"/>
 <rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 76.0303 70.2999)" fill="#B0BEC5"/>
 <g transform="translate(21, 95)">
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 23.8015)" fill="#FFD54F"/>
-<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 0 27.3015)" fill="#FFB300"/>
-<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 4.33008 29.8015)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.3618 27.8)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.2998 31.3)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.5581 37.8)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.3618 12.9)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.2998 16.4)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.5581 22.9)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 21.562 24.3002)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 15.5 27.8002)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 19.8301 30.3002)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 7.16162 3)" fill="#FFD54F"/>
-<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 1.09961 6.5)" fill="#FFB300"/>
-<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 5.42969 9)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.4243 0)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.3623 3.5)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.6206 10)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.4243 0)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.3623 3.5)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.6206 10)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 21.562 9.40015)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 15.5 12.9001)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 19.8301 15.4001)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 21.562 9.40015)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 15.5 12.9001)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 19.8301 15.4001)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 7.06201 3)" fill="#FFD54F"/>
+<rect width="5" height="5" transform="matrix(0.866025 0.5 0 1 1 6.5)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 5.33008 9)" fill="#FF6F00"/>
+<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 26.9998)" fill="#FFD54F"/>
+<rect width="15" height="5" transform="matrix(0.866025 0.5 0 1 0 30.4998)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 12.9902 37.9998)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 11.062 0)" fill="#FFD54F"/>
+<rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 5 3.5)" fill="#FFB300"/>
+<rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 9.33008 6)" fill="#FF6F00"/>
 </g>
 <g transform="translate(39, 105)">
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 16.415 10.1237)" fill="#FFD54F"/>
-<rect width="5" height="30" transform="matrix(0.866025 0.5 0 1 10.353 13.6237)" fill="#FFB300"/>
-<rect width="7" height="30" transform="matrix(0.866025 -0.5 0 1 14.6831 16.1237)" fill="#FF6F00"/>
-<rect width="15" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 7.71143 0.289795)" fill="#FFD54F"/>
-<rect width="15" height="5" transform="matrix(0.866025 0.5 -9.77041e-09 1 1.64893 3.78979)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 -9.77041e-09 1 14.6392 11.2897)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.16211 26.0983)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 0.100098 29.5983)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 11.3584 36.0983)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 0)" fill="#FFD54F"/>
+<rect width="5" height="18" transform="matrix(0.866025 0.5 0 1 0 3.5)" fill="#FFB300"/>
+<rect width="7" height="18" transform="matrix(0.866025 -0.5 0 1 4.33008 6)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.062 15.3992)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4 18.8992)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.2583 25.3992)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 9.92432 2)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 3.8623 5.5)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.1206 12)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 17.062 19.3997)" fill="#FFD54F"/>
+<rect width="5" height="18" transform="matrix(0.866025 0.5 0 1 11 22.8997)" fill="#FFB300"/>
+<rect width="7" height="18" transform="matrix(0.866025 -0.5 0 1 15.3301 25.3997)" fill="#FF6F00"/>
 </g>
 <g transform="translate(57, 115)">
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 16.4991)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 0 19.9991)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 4.33008 22.4991)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.3945 14.6995)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.33252 18.1995)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.5908 24.6995)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 21.4619 11.0992)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 15.3999 14.5992)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 19.73 17.0992)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.3618 28.4988)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.2998 31.9988)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.5581 38.4988)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 21.6621 25.8984)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 15.6001 29.3984)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 19.9302 31.8984)" fill="#FF6F00"/>
-<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 2.49854)" fill="#FFD54F"/>
-<rect width="5" height="10" transform="matrix(0.866025 0.5 0 1 0 5.99854)" fill="#FFB300"/>
-<rect width="7" height="10" transform="matrix(0.866025 -0.5 0 1 4.33008 8.49854)" fill="#FF6F00"/>
-<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.2246 0)" fill="#FFD54F"/>
-<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.1626 3.5)" fill="#FFB300"/>
-<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.4209 10)" fill="#FF6F00"/>
+<rect width="20" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 25.4001)" fill="#FFD54F"/>
+<rect width="20" height="5" transform="matrix(0.866025 0.5 0 1 0 28.9001)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 17.3203 38.9001)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 17.4001)" fill="#FFD54F"/>
+<rect width="5" height="8" transform="matrix(0.866025 0.5 0 1 0 20.9001)" fill="#FFB300"/>
+<rect width="7" height="8" transform="matrix(0.866025 -0.5 0 1 4.33008 23.4001)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.66162 3)" fill="#FFD54F"/>
+<rect width="5" height="3" transform="matrix(0.866025 0.5 0 1 0.599609 6.5)" fill="#FFB300"/>
+<rect width="7" height="3" transform="matrix(0.866025 -0.5 0 1 4.92969 9)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.2944 16.4)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4.23242 19.9)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.4907 26.4)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 9.92432 0)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 3.8623 3.5)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.1206 10)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 21.062 9.40015)" fill="#FFD54F"/>
+<rect width="5" height="15" transform="matrix(0.866025 0.5 0 1 15 12.9001)" fill="#FFB300"/>
+<rect width="7" height="15" transform="matrix(0.866025 -0.5 0 1 19.3301 15.4001)" fill="#FF6F00"/>
+</g>
+<g transform="translate(75, 125)">
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.16211 26.0983)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 0.100098 29.5983)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 11.3584 36.0983)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 6.06201 0)" fill="#FFD54F"/>
+<rect width="5" height="18" transform="matrix(0.866025 0.5 0 1 0 3.5)" fill="#FFB300"/>
+<rect width="7" height="18" transform="matrix(0.866025 -0.5 0 1 4.33008 6)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 10.062 15.3992)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 4 18.8992)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.2583 25.3992)" fill="#FF6F00"/>
+<rect width="13" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 9.92432 2)" fill="#FFD54F"/>
+<rect width="13" height="5" transform="matrix(0.866025 0.5 0 1 3.8623 5.5)" fill="#FFB300"/>
+<rect width="7" height="5" transform="matrix(0.866025 -0.5 0 1 15.1206 12)" fill="#FF6F00"/>
+<rect width="5" height="7" transform="matrix(0.866025 0.5 -0.866025 0.5 17.062 19.3997)" fill="#FFD54F"/>
+<rect width="5" height="18" transform="matrix(0.866025 0.5 0 1 11 22.8997)" fill="#FFB300"/>
+<rect width="7" height="18" transform="matrix(0.866025 -0.5 0 1 15.3301 25.3997)" fill="#FF6F00"/>
 </g>
 </g>
 
