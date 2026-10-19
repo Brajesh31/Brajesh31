@@ -24,14 +24,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: 'pacman,minesweeper'
 
-      - name: Inspect generated Minesweeper colors
-        shell: bash
-        run: |
-          for svg in dist/minesweeper-contribution-graph.svg dist/minesweeper-contribution-graph-dark.svg; do
-            echo "Colors in $svg:"
-            grep -oE '#[[:xdigit:]]{3,8}|rgb\([^)]*\)' "$svg" | sort | uniq -c
-          done
-
       - name: Apply the blue contribution palette
         run: >-
           python3 scripts/recolor_blue.py --kind svg
