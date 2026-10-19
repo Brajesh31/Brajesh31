@@ -39,7 +39,9 @@ jobs:
           test -s dist/pacman-contribution-graph.svg
           test -s dist/pacman-contribution-graph-dark.svg
           mkdir -p "$RUNNER_TEMP/pacman-publish"
+          mkdir -p "$RUNNER_TEMP/minesweeper-publish"
           cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg "$RUNNER_TEMP/pacman-publish/"
+          cp dist/minesweeper-contribution-graph.svg dist/minesweeper-contribution-graph-dark.svg "$RUNNER_TEMP/minesweeper-publish/"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -55,10 +57,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          test -s dist/minesweeper-contribution-graph.svg
-          test -s dist/minesweeper-contribution-graph-dark.svg
-          mkdir -p "$RUNNER_TEMP/minesweeper-publish"
-          cp dist/minesweeper-contribution-graph.svg dist/minesweeper-contribution-graph-dark.svg "$RUNNER_TEMP/minesweeper-publish/"
+          test -s "$RUNNER_TEMP/minesweeper-publish/minesweeper-contribution-graph.svg"
+          test -s "$RUNNER_TEMP/minesweeper-publish/minesweeper-contribution-graph-dark.svg"
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
