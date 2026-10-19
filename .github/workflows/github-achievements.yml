@@ -27,6 +27,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: detailed
+          plugin_fortune: yes
           config_timezone: Asia/Kolkata
           config_octicon: yes
           config_twemoji: yes
