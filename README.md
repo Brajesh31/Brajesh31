@@ -40,6 +40,23 @@
 
 I work across **software engineering, AI/ML, DevOps, platform engineering, and automation**, building and improving systems from development to deployment. My work ranges from designing and shipping **full-stack applications and developer tools** to working with **AI/ML models, model training, LLM applications, and intelligent automation**. Beyond individual projects, I’m involved in **developer communities, technical initiatives, and product development**, where I work across engineering, infrastructure, and community building. I enjoy moving between different layers of technology, understanding how systems fit together, and turning ideas into practical solutions that can be built, deployed, and used in the real world.
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/maintainer-system-scan-light.svg"
+  />
+
+  <img
+    src="./assets/maintainer-system-scan-dark.svg"
+    width="860"
+    alt="Brajesh Kumar animated maintainer system scan"
+  />
+</picture>
+
+</div>
+
 <table width="100%">
   <tr>
     <td width="64%" valign="top">
@@ -74,23 +91,6 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
     </td>
   </tr>
 </table>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/maintainer-system-scan-light.svg"
-  />
-
-  <img
-    src="./assets/maintainer-system-scan-dark.svg"
-    width="860"
-    alt="Brajesh Kumar animated maintainer system scan"
-  />
-</picture>
-
-</div>
 
 ## 🏗️ Flagship Projects
 
