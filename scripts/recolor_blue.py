@@ -20,6 +20,12 @@ BLUE_HEX = {
     "#39D353": "#58A6FF",
     "#57F287": "#79C0FF",
     "#1B7F37": "#0969DA",
+    "#00838F": "#58A6FF",
+    "#5B2CA3": "#8B8CFF",
+    "#7D1A1A": "#0B2E59",
+    "#B01E1E": "#0B4AA2",
+    "#D94841": "#2F81F7",
+    "#F28B82": "#79C0FF",
 }
 BLUE_RGB = {
     tuple(bytes.fromhex(source[1:])): tuple(bytes.fromhex(target[1:]))
