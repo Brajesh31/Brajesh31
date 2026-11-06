@@ -500,6 +500,18 @@ Keep stacking and clearing lines! 🚀<br/>
 
 
 -->
+## 🐠 The Koi Pond | My Coding Journey
+
+Every contribution leaves a mark. Watch my coding journey take shape through this little koi, growing and swimming with my GitHub activity.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brajesh31/Brajesh31/main/koi/koi.gif" width="256" alt="Brajesh31's Git Koi contribution animation" />
+</p>
+
+<p align="center">
+  <i>A little fish. A long coding journey.</i>
+</p>
+
 ## 📊 Contribution Graph
 
 I contribute regularly to open-source projects and share my work with the GitHub community.
