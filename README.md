@@ -122,29 +122,23 @@ My developer identity is a connected system: full-stack engineering, AI/ML, deve
 
 ### Pixel World & Developer Space Station
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art developer world with AI lab, development headquarters and cloud deck" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="./assets/developer-space-station.svg" width="100%" alt="Developer space station dashboard for projects, AI systems and community" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art developer world with AI lab, development headquarters and cloud deck" />
+</p>
+
+<p align="center">
+  <img src="./assets/developer-space-station.svg" width="100%" alt="Developer space station dashboard for projects, AI systems and community" />
+</p>
 
 ## 🗺️ Developer Journey Map & Coding Mountain
 
-<table width="100%">
-  <tr>
-    <td width="58%" align="center" valign="top">
-      <img src="./assets/developer-journey-map.svg" width="100%" alt="Developer journey map from learning through community building" />
-    </td>
-    <td width="42%" align="center" valign="top">
-      <img src="./assets/coding-mountain.svg" width="100%" alt="Coding mountain with thematic developer checkpoints" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/developer-journey-map.svg" width="100%" alt="Developer journey map from learning through community building" />
+</p>
+
+<p align="center">
+  <img src="./assets/coding-mountain.svg" width="100%" alt="Coding mountain with thematic developer checkpoints" />
+</p>
 
 <p><em>The map uses verified themes from this profile and repositories. It intentionally avoids invented dates, years of experience, or performance scores.</em></p>
 
@@ -376,12 +370,13 @@ My developer identity is a connected system: full-stack engineering, AI/ML, deve
 
 ## 🕸️ GitHub Network Graph & Developer Activity Timeline
 
-<table width="100%">
-  <tr>
-    <td width="55%" align="center"><img src="./assets/github-network.svg" width="100%" alt="GitHub network graph connecting projects, technologies and development areas" /></td>
-    <td width="45%" align="center"><img src="./assets/developer-activity-timeline.svg" width="100%" alt="Developer activity timeline distinct from the contribution calendar" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/github-network.svg" width="100%" alt="GitHub network graph connecting projects, technologies and development areas" />
+</p>
+
+<p align="center">
+  <img src="./assets/developer-activity-timeline.svg" width="100%" alt="Developer activity timeline distinct from the contribution calendar" />
+</p>
 
 ## 🖥️ Developer Terminal
 
