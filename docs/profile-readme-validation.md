@@ -33,7 +33,7 @@ The new visuals explicitly label qualitative or decorative modules so they are n
 
 ## Workflow review
 
-Existing workflows were reused; no new workflow was necessary:
+Existing workflows were reused and two focused workflows were added:
 
 - `3d-profile.yml`
 - `blog-post-workflow.yml`
@@ -48,8 +48,17 @@ Existing workflows were reused; no new workflow was necessary:
 - `space-shooter.yml`
 - `update-productive-time.yml`
 - `update-readme.yml`
+- `deploy-developer-universe.yml` — npm/Vite GitHub Pages deployment.
+- `update-developer-universe.yml` — public GitHub profile/repository/language data refresh with fallback preservation.
 
 No secrets, tokens, or private data were added. Existing external services still require their own availability and may be subject to upstream rate limits.
+
+## Interactive companion
+
+- Added `world/`, a responsive React/Vite application with hash navigation, world-location panels, project search/category filters, technology explorer, expandable journey milestones, safe terminal commands, theme switching, RPG skill nodes, achievement filters, knowledge links, contribution navigation, mobile navigation, keyboard shortcuts, focus states, and reduced-motion support.
+- Added `deploy-developer-universe.yml` for GitHub Pages. It uses npm, builds `world/dist`, and requires the repository Pages source to be set to GitHub Actions once.
+- Added `update-developer-universe.yml` and `scripts/developer-universe/generate-public-data.mjs`; it paginates public repository and language endpoints, writes only public fields, and retains an existing JSON file on API failure.
+- No live client-side token or fabricated metric was added. Existing README cards and generated workflow assets remain the source of live public activity.
 
 ## Checks run
 
@@ -58,3 +67,4 @@ No secrets, tokens, or private data were added. Existing external services still
 - Existing project and integration identifiers remain present.
 - Basic `<table>`, `<p>`, and `<div>` tag counts are balanced.
 - `git diff --check` completed without whitespace errors.
+- `world/npm run build` completed successfully with TypeScript and Vite.

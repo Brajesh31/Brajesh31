@@ -12,6 +12,9 @@ This repository is the public profile project for the GitHub account Brajesh31. 
 | assets/ | Local image, badge, icon, and card files referenced by the profile. Individual sources and terms are not fully inventoried. |
 | profile-3d-contrib/ | Generated contribution visualization variants. |
 | output/ | Light and dark contribution-snake SVG files. |
+| world/ | Responsive React/Vite companion application for the interactive developer universe. |
+| world/public/data/ | Public, generated GitHub profile data used as an optional analytics source. |
+| scripts/developer-universe/ | Safe data-refresh scripts that never write secrets into generated files. |
 | .github/workflows/ | Scheduled and manually dispatched automations that refresh selected profile files. |
 | Documentation and policy files | Explain scope, contribution, security, support, and repository conventions. |
 
@@ -24,6 +27,8 @@ This repository is the public profile project for the GitHub account Brajesh31. 
 | snake.yml | Every six hours and manual dispatch; generates the two SVGs under output/ and commits changed output. |
 | update-productive-time.yml | Daily schedule and manual dispatch; refreshes assets/productive-time.svg only when SUMMARY_GITHUB_TOKEN is configured and output changes. |
 | update-readme.yml | Every fifteen minutes, on manual dispatch, and on push; updates a timestamp in the root README and pushes a commit when the file changes. |
+| deploy-developer-universe.yml | Pushes under world/ and manual dispatch; builds world/ with npm and deploys world/dist through GitHub Pages. |
+| update-developer-universe.yml | Daily schedule and manual dispatch; paginates public profile, repository, and language data and updates world/public/data/github-profile.json only when changed. |
 
 GitHub suppresses new workflow runs for most events caused by a workflow's GITHUB_TOKEN push, which helps prevent a recursive push-trigger loop. See [GitHub's GITHUB_TOKEN documentation](https://docs.github.com/en/actions/concepts/security/github_token).
 
@@ -31,7 +36,7 @@ GitHub suppresses new workflow runs for most events caused by a workflow's GITHU
 
 The profile embeds remote images, statistics cards, and links to external platforms. Those services provide their own data and rendering. This repository does not operate those services or control their availability, data processing, or terms.
 
-The local files are static content. There is no server-side component, application database, API implementation, package manifest, or release artifact.
+The profile files are static content. The companion app has no server-side component or database; it can use the generated public JSON fallback. No client-side token is used.
 
 ## Ownership and licensing boundaries
 

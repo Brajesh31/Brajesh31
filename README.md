@@ -27,6 +27,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=00C7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+practical+AI+systems.;Shipping+full-stack+products.;Improving+developer+workflows.;Turning+ideas+into+software+people+use.;Designing.+Building.+Shipping." alt="" /></a>
 </p>
 
+<p align="center">
+  <a href="https://brajesh31.github.io/Brajesh31/world/"><img src="https://img.shields.io/badge/Enter%20the%20Developer%20Universe-0D1117?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB&amp;color=00C7FF" alt="Enter Brajesh Kumar's interactive Developer Universe" /></a>
+</p>
+
+<details>
+  <summary><strong>Developer Universe navigation</strong></summary>
+
+  [World](https://brajesh31.github.io/Brajesh31/world/#world) · [Journey](https://brajesh31.github.io/Brajesh31/world/#journey) · [Projects](https://brajesh31.github.io/Brajesh31/world/#projects) · [Analytics](https://brajesh31.github.io/Brajesh31/world/#analytics) · [Control Center](https://brajesh31.github.io/Brajesh31/world/#control) · [RPG Zone](https://brajesh31.github.io/Brajesh31/world/#rpg) · [Museum](https://brajesh31.github.io/Brajesh31/world/#museum) · [Contributions](https://brajesh31.github.io/Brajesh31/world/#contributions) · [Knowledge](https://brajesh31.github.io/Brajesh31/world/#knowledge)
+</details>
+
 ### What I Build
 
 `AI Systems` · `Full-Stack Products` · `Developer Tools` · `Automation` · `Web Experiences`
@@ -100,7 +110,17 @@ My developer identity is a connected system: full-stack engineering, AI/ML, deve
   <img src="./assets/developer-dna.svg" width="100%" alt="Animated Developer DNA map for Brajesh Kumar" />
 </p>
 
-## 🌌 Pixel World & Developer Space Station
+## 🌌 My Developer World
+
+<p align="center">
+  <a href="https://brajesh31.github.io/Brajesh31/world/#world">
+    <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art Developer World with AI Lab, Full-Stack HQ and Cloud Deck" />
+  </a>
+</p>
+
+<p align="center"><a href="https://brajesh31.github.io/Brajesh31/world/#world"><strong>Open the interactive world map →</strong></a></p>
+
+### Pixel World & Developer Space Station
 
 <table width="100%">
   <tr>
