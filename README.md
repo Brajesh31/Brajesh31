@@ -231,10 +231,10 @@ My developer identity is a connected system: full-stack engineering, AI/ML, deve
 
 <table width="100%">
   <tr>
-    <td width="58%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img src="./assets/language-timeline.svg" width="100%" alt="Programming language timeline grounded in repository technologies" />
     </td>
-    <td width="42%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <img src="./assets/activity-radar.svg" width="100%" alt="Qualitative developer focus radar for frontend, backend, AI, cloud, DevOps and automation" />
     </td>
   </tr>
