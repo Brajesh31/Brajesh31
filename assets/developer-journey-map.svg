@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">Developer Journey Map</title><desc id="desc">A verified milestone map without invented dates.</desc>
+  <rect width="900" height="280" rx="22" fill="#0b1020" stroke="#27345f"/><path d="M90 190C190 55 275 230 390 120S610 55 810 180" fill="none" stroke="#00d9ff" stroke-width="4" stroke-dasharray="10 8"/>
+  <g fill="#111a35" stroke="#9b6cff" stroke-width="3"><circle cx="90" cy="190" r="16"/><circle cx="235" cy="145" r="16"/><circle cx="390" cy="120" r="16"/><circle cx="570" cy="90" r="16"/><circle cx="810" cy="180" r="16"/></g>
+  <g fill="#e7f7ff" font-family="monospace"><text x="36" y="225">LEARN</text><text x="175" y="115">BUILD</text><text x="340" y="90">AI / ML</text><text x="515" y="60">OPEN SOURCE</text><text x="745" y="225">COMMUNITY</text><text x="34" y="42" font-size="22" fill="#00d9ff">DEVELOPER JOURNEY MAP</text><text x="34" y="66" font-size="12" fill="#8aa7c7">Milestones are thematic; no unverified dates are implied.</text></g>
+</svg>

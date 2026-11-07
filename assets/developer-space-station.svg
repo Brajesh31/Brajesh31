@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Developer Space Station</title><desc id="desc">A dark space-station dashboard for projects, AI, activity, tools and community.</desc>
+  <defs><radialGradient id="space"><stop stop-color="#1b2450"/><stop offset="1" stop-color="#070b18"/></radialGradient></defs><rect width="900" height="330" rx="22" fill="url(#space)"/>
+  <g fill="#d9f7ff"><circle cx="70" cy="50" r="2"/><circle cx="170" cy="90" r="2"/><circle cx="760" cy="42" r="2"/><circle cx="820" cy="220" r="2"/><circle cx="610" cy="65" r="2"/></g>
+  <g stroke="#00d9ff" fill="#101a39" stroke-width="2"><circle cx="450" cy="165" r="78"/><circle cx="450" cy="165" r="42"/><path d="M372 165H250M528 165h122M450 87V35M450 243v52"/><rect x="70" y="125" width="180" height="80" rx="14"/><rect x="650" y="125" width="180" height="80" rx="14"/></g>
+  <g fill="#e7f7ff" font-family="monospace" text-anchor="middle"><text x="450" y="160" font-size="18">DEV STATION</text><text x="450" y="182" font-size="12" fill="#9bdcff">BRAJESH31 / ONLINE</text><text x="160" y="155" font-size="15">PROJECTS</text><text x="160" y="178" font-size="12" fill="#9bdcff">10 flagship systems</text><text x="740" y="155" font-size="15">AI SYSTEMS</text><text x="740" y="178" font-size="12" fill="#9bdcff">agents · vision · ML</text><text x="450" y="322" font-size="12" fill="#8aa7c7">ACTIVITY • TOOLS • COMMUNITY • GITHUB SIGNALS</text></g>
+</svg>

@@ -92,6 +92,42 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   </tr>
 </table>
 
+## 🧬 Developer DNA
+
+My developer identity is a connected system: full-stack engineering, AI/ML, developer tools, automation, cloud/DevOps, and open-source development reinforce one another.
+
+<p align="center">
+  <img src="./assets/developer-dna.svg" width="100%" alt="Animated Developer DNA map for Brajesh Kumar" />
+</p>
+
+## 🌌 Pixel World & Developer Space Station
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art developer world with AI lab, development headquarters and cloud deck" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/developer-space-station.svg" width="100%" alt="Developer space station dashboard for projects, AI systems and community" />
+    </td>
+  </tr>
+</table>
+
+## 🗺️ Developer Journey Map & Coding Mountain
+
+<table width="100%">
+  <tr>
+    <td width="58%" align="center" valign="top">
+      <img src="./assets/developer-journey-map.svg" width="100%" alt="Developer journey map from learning through community building" />
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="./assets/coding-mountain.svg" width="100%" alt="Coding mountain with thematic developer checkpoints" />
+    </td>
+  </tr>
+</table>
+
+<p><em>The map uses verified themes from this profile and repositories. It intentionally avoids invented dates, years of experience, or performance scores.</em></p>
+
 ## 🏗️ Flagship Projects
 
 *A selection of projects that represent the systems I build across AI, full-stack engineering, automation, and product development.*
@@ -137,6 +173,17 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   <i>Tracking the hours behind the code.</i>
 </p>
 
+### ⏰ Commit Clock & Commit Weather
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><img src="./assets/commit-clock.svg" width="100%" alt="Commit Clock based on WakaTime and GitHub activity signals" /></td>
+    <td width="50%" align="center"><img src="./assets/commit-weather.svg" width="100%" alt="Commit Weather creative coding activity forecast" /></td>
+  </tr>
+</table>
+
+<p><em>These are visual metaphors for the WakaTime and GitHub activity integrations below, not literal weather or fabricated live readings.</em></p>
+
 <table width="100%">
   <tr>
     <th width="50%" align="center">Git Ranker</th>
@@ -165,6 +212,21 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
     </td>
   </tr>
 </table>
+
+### 🧭 Programming Language Analytics & Activity Radar
+
+<table width="100%">
+  <tr>
+    <td width="58%" align="center" valign="top">
+      <img src="./assets/language-timeline.svg" width="100%" alt="Programming language timeline grounded in repository technologies" />
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="./assets/activity-radar.svg" width="100%" alt="Qualitative developer focus radar for frontend, backend, AI, cloud, DevOps and automation" />
+    </td>
+  </tr>
+</table>
+
+<p><em>Repository language distribution and existing technology sections are the source of truth; the radar is a focus map, not a proficiency assessment.</em></p>
 
 ## ✍️ Latest Blog Posts
 
@@ -284,7 +346,36 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
   </a>
 </p>
 
-### 🛡️ Security & Achievements
+## 📡 Developer Impact Dashboard
+
+<p align="center">
+  <img src="./assets/impact-dashboard.svg" width="100%" alt="Developer impact dashboard linking to live GitHub statistics" />
+</p>
+
+<p align="center"><em>Live repository, contribution, pull request, issue, star, follower and language signals remain in the GitHub cards above and below. No static numbers are invented here.</em></p>
+
+## 🕸️ GitHub Network Graph & Developer Activity Timeline
+
+<table width="100%">
+  <tr>
+    <td width="55%" align="center"><img src="./assets/github-network.svg" width="100%" alt="GitHub network graph connecting projects, technologies and development areas" /></td>
+    <td width="45%" align="center"><img src="./assets/developer-activity-timeline.svg" width="100%" alt="Developer activity timeline distinct from the contribution calendar" /></td>
+  </tr>
+</table>
+
+## 🖥️ Developer Terminal
+
+<p align="center">
+  <img src="./assets/developer-terminal.svg" width="100%" alt="Brajesh Kumar developer terminal profile" />
+</p>
+
+## 🏛️ Achievement Museum
+
+<p><em>Curated galleries below reuse the existing custom badges, AWS certifications, GitHub Copilot badge, GSSoC badges, Holopin wall, security graphics and GitHub achievement cards. Nothing is duplicated or replaced.</em></p>
+
+<p><strong>Certification wing</strong> · AWS and GitHub Copilot &nbsp;|&nbsp; <strong>Open-source wing</strong> · GSSoC and Holopin &nbsp;|&nbsp; <strong>Technical wing</strong> · custom badges and GitHub achievements &nbsp;|&nbsp; <strong>Events &amp; leadership</strong> · Hack-Web3Conf, collaboration and community badges</p>
+
+### 🛡️ Certifications, Open Source & Technical Achievements
 
 <table width="100%">
   <tr>
@@ -333,6 +424,20 @@ I work across **software engineering, AI/ML, DevOps, platform engineering, and a
           <img src="https://holopin.me/brajesh31" alt="Brajesh31 Holopin achievement badges" width="100%" />
         </a>
       </p>
+    </td>
+  </tr>
+</table>
+
+## 🧙 RPG Developer Character & Git Animals
+
+<table width="100%">
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <img src="./assets/rpg-developer-character.svg" width="100%" alt="Decorative RPG developer character and inventory" />
+    </td>
+    <td width="58%" align="center" valign="top">
+      <p><em>The existing contribution-grown Git Animals world remains in its original gallery below. This character is intentionally decorative: it does not assign fake skill levels or years of experience.</em></p>
+      <p><code>inventory: terminal · AI systems · APIs · containers · open source</code></p>
     </td>
   </tr>
 </table>
