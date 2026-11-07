@@ -41,10 +41,22 @@ jobs:
           source="profile-summary-card-output/github_dark/4-productive-time.svg"
           target="assets/productive-time.svg"
 
-          test -s "$source"
-          if grep -Eqi 'ERROR!!!|temporarily rate limited|rate limit' "$source"; then
-            echo "Generated card contains an error; keeping the previous image."
-            exit 1
+          # The upstream action can encounter transient GitHub API 5xx errors.
+          # Keep the last known-good card and report a warning instead of
+          # failing the entire scheduled workflow when no new card was produced.
+          if [[ ! -s "$source" ]]; then
+            echo "::warning::The summary-card generator did not produce the productive-time SVG. Keeping the existing $target."
+            exit 0
+          fi
+
+          if grep -Eqi 'ERROR!!!|temporarily rate limited|rate limit|cannot read properties of undefined' "$source"; then
+            echo "::warning::The generated productive-time SVG contains an upstream error. Keeping the existing $target."
+            exit 0
+          fi
+
+          if ! grep -q '<svg' "$source"; then
+            echo "::warning::The generated productive-time file is not a valid SVG. Keeping the existing $target."
+            exit 0
           fi
 
           install -D "$source" "$target"
