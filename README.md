@@ -634,7 +634,7 @@ Every contribution leaves a mark. Watch my coding journey take shape through thi
 
 ## 🌍 GitHub Activity Globe
 
-A spherical view of my GitHub contribution activity over the last 12 months. Each illuminated point represents a day with contributions, with brighter points indicating higher activity.
+A calendar-style view of my GitHub contributions over the last 12 months, wrapped around a 3D globe. Each glowing dot represents one day with contributions. Larger, brighter dots mean more contributions that day. The colors indicate relative activity: green for low, cyan for medium, and violet for high. This is a visual calendar, not a map of commit locations. The globe rotates slowly so the activity pattern is easier to inspect.
 
 <!-- GITHUB-ACTIVITY-GLOBE:START -->
 
