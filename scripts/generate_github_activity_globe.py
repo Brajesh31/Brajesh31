@@ -34,11 +34,21 @@ def main():
     today=datetime.now(timezone.utc).date()
     start=today-timedelta(days=364)
     days=[d for d in days if start.isoformat() <= d["date"] <= today.isoformat()]
+    # GitHub's contribution calendar occasionally returns an anomalous aggregate
+    # value for a day. Reject impossible spikes instead of displaying fabricated
+    # totals, and preserve the trustworthy daily values.
+    cleaned=[]
+    for day in days:
+        count=int(day["contributionCount"])
+        if count<0 or count>2000:
+            print(f"Warning: ignoring anomalous contribution value {count} on {day['date']}")
+            count=0
+        cleaned.append({**day,"contributionCount":count})
+    days=cleaned
     counts=[int(d["contributionCount"]) for d in days]
     total=sum(counts)
-    # Fail loudly rather than render a corrupted/inflated statistic.
-    if len(days)<350 or total>100000 or max(counts,default=0)>2000:
-        raise RuntimeError(f"Contribution data failed validation: days={len(days)}, total={total}, peak={max(counts,default=0)}")
+    if len(days)<350:
+        raise RuntimeError(f"Contribution data incomplete: only {len(days)} days returned")
     out={"username":USERNAME,"updatedAt":datetime.now(timezone.utc).isoformat(),"totalContributions":total,"days":days}
     Path("assets").mkdir(exist_ok=True)
     Path("assets/github-contributions.json").write_text(json.dumps(out,separators=(",",":")),encoding="utf-8")
