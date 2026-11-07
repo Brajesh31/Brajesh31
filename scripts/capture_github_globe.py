@@ -15,7 +15,7 @@ async def main():
             uri=await page.evaluate("(i)=>window.renderFrame(i,48)",i)
             frames.append(Image.open(BytesIO(base64.b64decode(uri.split(",",1)[1]))).convert("RGB"))
         Path("assets").mkdir(exist_ok=True)
-        frames[0].save("assets/github-activity-globe.gif",save_all=True,append_images=frames[1:],duration=85,loop=0,optimize=True,disposal=2)
+        frames[0].save("assets/github-activity-globe.gif",save_all=True,append_images=frames[1:],duration=160,loop=0,optimize=True,disposal=2)
         print(f"Captured {len(frames)} true WebGL frames into animated GIF")
         await browser.close()
 asyncio.run(main())
