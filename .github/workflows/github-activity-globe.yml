@@ -7,6 +7,8 @@ on:
       - .github/workflows/github-activity-globe.yml
       - scripts/generate_github_activity_globe.py
       - scripts/render_github_globe.js
+      - scripts/globe-template.html
+      - scripts/capture_github_globe.py
   schedule:
     - cron: "20 3 * * *"
   workflow_dispatch:
@@ -32,7 +34,7 @@ jobs:
           python-version: "3.12"
       - name: Install renderer dependencies
         run: |
-          npm install --no-save three@0.128.0 three-globe@2.18.8 esbuild@0.24.2 playwright@1.49.1
+          npm install --no-save three@0.128.0 three-globe@2.18.8 esbuild@0.24.2
           python -m pip install --disable-pip-version-check Pillow playwright==1.49.1
           python -m playwright install --with-deps chromium
       - name: Fetch and validate contribution data
