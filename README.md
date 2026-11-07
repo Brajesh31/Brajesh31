@@ -637,9 +637,11 @@ Every contribution leaves a mark. Watch my coding journey take shape through thi
 A spherical view of my GitHub contribution activity over the last 12 months. Each illuminated point represents a day with contributions, with brighter points indicating higher activity.
 
 <!-- GITHUB-ACTIVITY-GLOBE:START -->
+
 <p align="center">
-  <img src="./assets/github-activity-globe.gif" width="100%" alt="Animated rotating GitHub Activity Globe showing Brajesh31's contribution activity" />
+  <img src="./assets/github-activity-globe.gif" width="100%" alt="Animated 3D GitGlobe visualization of Brajesh31's GitHub contributions" />
 </p>
+
 <!-- GITHUB-ACTIVITY-GLOBE:END -->
 
 ## 📊 Contribution Graph
