@@ -1,6 +1,12 @@
 name: GitHub Activity Globe
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/github-activity-globe.yml
+      - scripts/generate_github_activity_globe.py
   schedule:
     - cron: "20 3 * * *"
   workflow_dispatch:
@@ -35,18 +41,20 @@ jobs:
           content = readme.read_text(encoding="utf-8")
           marker = "<!-- GITHUB-ACTIVITY-GLOBE:START -->"
           if marker not in content:
-              section = """## 🌍 GitHub Activity Globe
-
-          A spherical view of my GitHub contribution activity over the last 12 months. Each illuminated point represents a day with contributions, with brighter points indicating higher activity.
-
-          <p align="center">
-            <img src="./assets/github-activity-globe.svg" width="100%" alt="GitHub Activity Globe showing Brajesh31's contribution activity over the last 12 months" />
-          </p>
-
-          <!-- GITHUB-ACTIVITY-GLOBE:START -->
-          <!-- GITHUB-ACTIVITY-GLOBE:END -->
-
-          """
+              section = "\n".join([
+                  "## 🌍 GitHub Activity Globe",
+                  "",
+                  "A spherical view of my GitHub contribution activity over the last 12 months. Each illuminated point represents a day with contributions, with brighter points indicating higher activity.",
+                  "",
+                  '<p align="center">',
+                  '  <img src="./assets/github-activity-globe.svg" width="100%" alt="GitHub Activity Globe showing Brajesh31 contribution activity over the last 12 months" />',
+                  '</p>',
+                  "",
+                  "<!-- GITHUB-ACTIVITY-GLOBE:START -->",
+                  "<!-- GITHUB-ACTIVITY-GLOBE:END -->",
+                  "",
+                  ""
+              ])
               anchor = "## 📊 Contribution Graph"
               if anchor not in content:
                   raise SystemExit("Could not find the Contribution Graph heading in README.md")
