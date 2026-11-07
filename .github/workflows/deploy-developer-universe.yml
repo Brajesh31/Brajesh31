@@ -27,22 +27,39 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
           cache-dependency-path: world/package-lock.json
+
       - name: Install dependencies
         working-directory: world
         run: npm ci
+
       - name: Build
         working-directory: world
         run: npm run build
+
+      # Keep the /world/ URL expected by Vite's base path and the README.
+      - name: Prepare Pages directory
+        run: |
+          set -euo pipefail
+          mkdir -p _site/world
+          cp -R world/dist/. _site/world/
+
+      - name: Verify Pages artifact
+        run: |
+          test -s _site/world/index.html
+          test -d _site/world/assets
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: world/dist
+          path: _site
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
