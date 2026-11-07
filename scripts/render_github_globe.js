@@ -43,7 +43,7 @@ for(let i=0;i<dots.length;i+=Math.max(1,Math.floor(dots.length/24))){
 }
 globe.arcsData(arcs).arcStartLat("startLat").arcStartLng("startLng").arcEndLat("endLat").arcEndLng("endLng")
  .arcColor(d=>d.count/maximum>.5?"#9b7bff":"#32caff").arcAltitude(0.24).arcStroke(0.45)
- .arcDashLength(0.48).arcDashGap(0.55).arcDashAnimateTime(2300).arcsTransitionDuration(0);
+ .arcDashLength(0.48).arcDashGap(0.55).arcDashAnimateTime(4200).arcsTransitionDuration(0);
 globe.rotateY(-Math.PI/2.8);globe.rotation.x=0.12;
 const controls={angle:0};
 window.renderFrame=(frame,total)=>{globe.rotation.y=-Math.PI/2.8+(frame/total)*Math.PI*2;globe.rotation.x=0.12+Math.sin(frame/total*Math.PI*2)*0.025;stars.rotation.y=frame/total*0.12;renderer.render(scene,camera);return renderer.domElement.toDataURL("image/png");};
