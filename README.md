@@ -632,6 +632,17 @@ Every contribution leaves a mark. Watch my coding journey take shape through thi
   <i>A little fish. A long coding journey.</i>
 </p>
 
+## 🌍 GitHub Activity Globe
+
+A spherical view of my GitHub contribution activity over the last 12 months. Each illuminated point represents a day with contributions, with brighter points indicating higher activity.
+
+<p align="center">
+  <img src="./assets/github-activity-globe.svg" width="100%" alt="GitHub Activity Globe showing Brajesh31 contribution activity over the last 12 months" />
+</p>
+
+<!-- GITHUB-ACTIVITY-GLOBE:START -->
+<!-- GITHUB-ACTIVITY-GLOBE:END -->
+
 ## 📊 Contribution Graph
 
 I contribute regularly to open-source projects and share my work with the GitHub community.
