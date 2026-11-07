@@ -2,11 +2,11 @@ name: GitHub Activity Globe
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - .github/workflows/github-activity-globe.yml
       - scripts/generate_github_activity_globe.py
+      - scripts/render_github_globe.js
   schedule:
     - cron: "20 3 * * *"
   workflow_dispatch:
@@ -21,64 +21,75 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Install image dependency
-        run: python3 -m pip install --disable-pip-version-check Pillow
-
-      - name: Generate animated contribution globe
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install renderer dependencies
+        run: |
+          npm install --no-save three@0.128.0 three-globe@2.18.8 esbuild@0.24.2 playwright@1.49.1
+          python -m pip install --disable-pip-version-check Pillow
+          npx playwright install --with-deps chromium
+      - name: Fetch and validate contribution data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Brajesh31
-        run: python3 scripts/generate_github_activity_globe.py
-
-      - name: Update profile README embed
+        run: python scripts/generate_github_activity_globe.py
+      - name: Bundle Three.js globe
         run: |
-          python3 - <<'PY'
+          cp scripts/globe-template.html globe-template.html
+          cp scripts/render_github_globe.js src.js
+          npx esbuild src.js --bundle --format=esm --outfile=public.js
+          sed -i 's#src="/src.js"#src="/public.js"#' globe-template.html
+          mkdir -p site
+          mv globe-template.html site/index.html
+          mv public.js site/public.js
+          cp assets/github-contributions.json site/github-contributions.json
+      - name: Render true 3D globe frames as GIF
+        run: |
+          python -m http.server 4173 --directory site > /tmp/globe-server.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID || true' EXIT
+          npm exec --yes --package=playwright -- playwright --version
+          python scripts/capture_github_globe.py
+      - name: Update README embed
+        run: |
+          python - <<'PY'
           from pathlib import Path
+          path=Path("README.md")
+          text=path.read_text(encoding="utf-8")
+          start="<!-- GITHUB-ACTIVITY-GLOBE:START -->"
+          end="<!-- GITHUB-ACTIVITY-GLOBE:END -->"
+          if start not in text or end not in text:
+              raise SystemExit("GitGlobe README markers are missing")
+          before, rest=text.split(start,1)
+          _, after=rest.split(end,1)
+          embed='''
 
-          readme = Path("README.md")
-          content = readme.read_text(encoding="utf-8")
-          start = "<!-- GITHUB-ACTIVITY-GLOBE:START -->"
-          end = "<!-- GITHUB-ACTIVITY-GLOBE:END -->"
-          if start not in content or end not in content:
-              raise SystemExit("Globe markers are missing from README.md")
-          before, remainder = content.split(start, 1)
-          _, after = remainder.split(end, 1)
-          section = """
           <p align="center">
-            <img src="./assets/github-activity-globe.gif" width="100%" alt="Animated rotating GitHub Activity Globe showing Brajesh31's contribution activity" />
+            <img src="./assets/github-activity-globe.gif" width="100%" alt="Animated 3D GitGlobe visualization of Brajesh31's GitHub contributions" />
           </p>
-          """
-          content = before + start + section + end + after
-          readme.write_text(content, encoding="utf-8")
-          PY
 
-      - name: Commit updated animated globe and README
+          '''
+          path.write_text(before+start+embed+end+after,encoding="utf-8")
+          PY
+      - name: Commit and push generated assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-activity-globe.gif README.md
-          if git diff --cached --quiet; then
-            echo "The animated globe and README are already up to date."
-            exit 0
-          fi
-          git commit -m "chore: update animated GitHub activity globe [skip ci]"
-
-          # Another workflow run or a manual commit may update main while this
-          # job is rendering the GIF. Rebase and retry instead of losing the push.
+          git add assets/github-activity-globe.gif assets/github-contributions.json README.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "chore: refresh 3D GitGlobe animation [skip ci]"
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git rebase origin/main
-            if git push origin HEAD:main; then
-              exit 0
-            fi
-            echo "Push attempt ${attempt} failed because main moved. Retrying..."
+            if git push origin HEAD:main; then exit 0; fi
             sleep $((attempt * 2))
           done
-
-          echo "Could not push the generated globe after 5 attempts."
+          echo "Unable to push generated GitGlobe assets after five attempts"
           exit 1
