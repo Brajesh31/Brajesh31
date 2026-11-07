@@ -67,4 +67,18 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update animated GitHub activity globe [skip ci]"
-          git push
+
+          # Another workflow run or a manual commit may update main while this
+          # job is rendering the GIF. Rebase and retry instead of losing the push.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed because main moved. Retrying..."
+            sleep $((attempt * 2))
+          done
+
+          echo "Could not push the generated globe after 5 attempts."
+          exit 1
