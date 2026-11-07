@@ -21,55 +21,50 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution globe
+      - name: Install image dependency
+        run: python3 -m pip install --disable-pip-version-check Pillow
+
+      - name: Generate animated contribution globe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Brajesh31
         run: python3 scripts/generate_github_activity_globe.py
 
-      - name: Add globe to profile README
+      - name: Update profile README embed
         run: |
           python3 - <<'PY'
           from pathlib import Path
 
           readme = Path("README.md")
           content = readme.read_text(encoding="utf-8")
-          marker = "<!-- GITHUB-ACTIVITY-GLOBE:START -->"
-          if marker not in content:
-              section = "\n".join([
-                  "## 🌍 GitHub Activity Globe",
-                  "",
-                  "A spherical view of my GitHub contribution activity over the last 12 months. Each illuminated point represents a day with contributions, with brighter points indicating higher activity.",
-                  "",
-                  '<p align="center">',
-                  '  <img src="./assets/github-activity-globe.svg" width="100%" alt="GitHub Activity Globe showing Brajesh31 contribution activity over the last 12 months" />',
-                  '</p>',
-                  "",
-                  "<!-- GITHUB-ACTIVITY-GLOBE:START -->",
-                  "<!-- GITHUB-ACTIVITY-GLOBE:END -->",
-                  "",
-                  ""
-              ])
-              anchor = "## 📊 Contribution Graph"
-              if anchor not in content:
-                  raise SystemExit("Could not find the Contribution Graph heading in README.md")
-              content = content.replace(anchor, section + anchor, 1)
-              readme.write_text(content, encoding="utf-8")
+          start = "<!-- GITHUB-ACTIVITY-GLOBE:START -->"
+          end = "<!-- GITHUB-ACTIVITY-GLOBE:END -->"
+          if start not in content or end not in content:
+              raise SystemExit("Globe markers are missing from README.md")
+          before, remainder = content.split(start, 1)
+          _, after = remainder.split(end, 1)
+          section = """
+          <p align="center">
+            <img src="./assets/github-activity-globe.gif" width="100%" alt="Animated rotating GitHub Activity Globe showing Brajesh31's contribution activity" />
+          </p>
+          """
+          content = before + start + section + end + after
+          readme.write_text(content, encoding="utf-8")
           PY
 
-      - name: Commit updated globe and README
+      - name: Commit updated animated globe and README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-activity-globe.svg README.md
+          git add assets/github-activity-globe.gif README.md
           if git diff --cached --quiet; then
-            echo "The activity globe and README are already up to date."
+            echo "The animated globe and README are already up to date."
             exit 0
           fi
-          git commit -m "chore: update GitHub activity globe [skip ci]"
+          git commit -m "chore: update animated GitHub activity globe [skip ci]"
           git push
