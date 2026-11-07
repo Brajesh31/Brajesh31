@@ -6,8 +6,8 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#030813;col
 canvas{display:block}
 #title{position:absolute;top:26px;width:100%;text-align:center;font-size:26px;font-weight:700;letter-spacing:3px;color:#e7f4ff}
 #subtitle{position:absolute;top:62px;width:100%;text-align:center;font-size:13px;color:#91abc8;letter-spacing:.5px}
-#stats{position:absolute;bottom:39px;width:100%;text-align:center;font-size:22px;font-weight:700;color:#e8f5ff}
+#legend{position:absolute;left:50%;bottom:78px;transform:translateX(-50%);display:flex;gap:18px;align-items:center;white-space:nowrap;font-size:12px;color:#c5d8ee;background:rgba(3,12,26,.72);padding:9px 14px;border:1px solid rgba(125,170,220,.22);border-radius:20px}\n.legend-item{display:flex;gap:6px;align-items:center}.dot{width:9px;height:9px;border-radius:50%;display:inline-block}.low{background:#55f0b0}.mid{background:#48d8ff}.high{background:#e2b8ff}\n#stats{position:absolute;bottom:39px;width:100%;text-align:center;font-size:22px;font-weight:700;color:#e8f5ff}
 #foot{position:absolute;bottom:16px;width:100%;text-align:center;font-size:11px;color:#829ab8}
 </style></head><body>
-<div id="stage"><div id="title">GITHUB ACTIVITY GLOBE</div><div id="subtitle">A living map of open-source activity</div><div id="stats"></div><div id="foot"></div></div>
+<div id="stage"><div id="title">GITHUB ACTIVITY GLOBE</div><div id="subtitle">A living map of open-source activity</div><div id="legend"><span class="legend-item"><i class="dot low"></i>Low</span><span class="legend-item"><i class="dot mid"></i>Medium</span><span class="legend-item"><i class="dot high"></i>High</span></div><div id="stats"></div><div id="foot"></div></div>
 <script type="module" src="/src.js"></script></body></html>
