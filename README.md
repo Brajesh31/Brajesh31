@@ -641,6 +641,11 @@ A spherical view of my GitHub contribution activity over the last 12 months. Eac
 </p>
 
 <!-- GITHUB-ACTIVITY-GLOBE:START -->
+
+<p align="center">
+  <img src="./assets/github-activity-globe.gif" width="100%" alt="Animated rotating GitHub Activity Globe showing Brajesh31's contribution activity" />
+</p>
+
 <!-- GITHUB-ACTIVITY-GLOBE:END -->
 
 ## 📊 Contribution Graph
