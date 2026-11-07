@@ -32,20 +32,13 @@ document.querySelector("#foot").textContent="@"+data.username+"  •  Last 365 d
 const positive=data.days.filter(d=>d.contributionCount>0);
 const maximum=Math.max(1,...positive.map(d=>d.contributionCount));
 const dots=positive.map((d,i)=>{const dt=new Date(d.date+"T00:00:00Z");const doy=Math.floor((dt-new Date(dt.getUTCFullYear(),0,0))/86400000);const lon=(doy/365)*360-180;const lat=58-dt.getUTCDay()*(116/6);return {lat,lng:lon,count:d.contributionCount};});
-globe.pointsData(dots).pointLat("lat").pointLng("lng").pointAltitude(d=>0.012+(d.count/maximum)*0.035)
- .pointRadius(d=>0.12+(d.count/maximum)*0.28)
- .pointColor(d=>d.count/maximum>.68?"#c29aff":d.count/maximum>.34?"#31c8ff":"#38e6a4")
+globe.pointsData(dots).pointLat("lat").pointLng("lng").pointAltitude(d=>0.025+(d.count/maximum)*0.065)
+ .pointRadius(d=>0.32+(d.count/maximum)*0.72)
+ .pointColor(d=>d.count/maximum>.68?"#e2b8ff":d.count/maximum>.34?"#48d8ff":"#55f0b0")
  .pointsMerge(false);
-const arcs=[];
-for(let i=0;i<dots.length;i+=Math.max(1,Math.floor(dots.length/24))){
- const a=dots[i],b=dots[(i+Math.floor(dots.length/3))%dots.length];
- arcs.push({startLat:a.lat,startLng:a.lng,endLat:b.lat,endLng:b.lng,count:a.count});
-}
-globe.arcsData(arcs).arcStartLat("startLat").arcStartLng("startLng").arcEndLat("endLat").arcEndLng("endLng")
- .arcColor(d=>d.count/maximum>.5?"#9b7bff":"#32caff").arcAltitude(0.24).arcStroke(0.45)
- .arcDashLength(0.48).arcDashGap(0.55).arcDashAnimateTime(4200).arcsTransitionDuration(0);
+// Contribution markers carry the activity signal. Decorative arcs are omitted so they do not imply geographic commit locations.
 globe.rotateY(-Math.PI/2.8);globe.rotation.x=0.12;
 const controls={angle:0};
-window.renderFrame=(frame,total)=>{globe.rotation.y=-Math.PI/2.8+(frame/total)*Math.PI*2;globe.rotation.x=0.12+Math.sin(frame/total*Math.PI*2)*0.025;stars.rotation.y=frame/total*0.12;renderer.render(scene,camera);return renderer.domElement.toDataURL("image/png");};
+window.renderFrame=(frame,total)=>{globe.rotation.y=-Math.PI/2.8+(frame/total)*Math.PI*2;globe.rotation.x=0.12;stars.rotation.y=frame/total*0.035;renderer.render(scene,camera);return renderer.domElement.toDataURL("image/png");};
 for(let i=0;i<36;i++){window.renderFrame(i,36);await new Promise(r=>setTimeout(r,25));}
 window.__GLOBE_READY__=true;
