@@ -33,8 +33,8 @@ jobs:
       - name: Install renderer dependencies
         run: |
           npm install --no-save three@0.128.0 three-globe@2.18.8 esbuild@0.24.2 playwright@1.49.1
-          python -m pip install --disable-pip-version-check Pillow
-          npx playwright install --with-deps chromium
+          python -m pip install --disable-pip-version-check Pillow playwright==1.49.1
+          python -m playwright install --with-deps chromium
       - name: Fetch and validate contribution data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -55,7 +55,6 @@ jobs:
           python -m http.server 4173 --directory site > /tmp/globe-server.log 2>&1 &
           SERVER_PID=$!
           trap 'kill $SERVER_PID || true' EXIT
-          npm exec --yes --package=playwright -- playwright --version
           python scripts/capture_github_globe.py
       - name: Update README embed
         run: |
