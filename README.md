@@ -110,38 +110,6 @@ My developer identity is a connected system: full-stack engineering, AI/ML, deve
   <img src="./assets/developer-dna.svg" width="100%" alt="Animated Developer DNA map for Brajesh Kumar" />
 </p>
 
-## 🌌 My Developer World
-
-<p align="center">
-  <a href="https://brajesh31.github.io/Brajesh31/world/#world">
-    <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art Developer World with AI Lab, Full-Stack HQ and Cloud Deck" />
-  </a>
-</p>
-
-<p align="center"><a href="https://brajesh31.github.io/Brajesh31/world/#world"><strong>Open the interactive world map →</strong></a></p>
-
-### Pixel World & Developer Space Station
-
-<p align="center">
-  <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art developer world with AI lab, development headquarters and cloud deck" />
-</p>
-
-<p align="center">
-  <img src="./assets/developer-space-station.svg" width="100%" alt="Developer space station dashboard for projects, AI systems and community" />
-</p>
-
-## 🗺️ Developer Journey Map & Coding Mountain
-
-<p align="center">
-  <img src="./assets/developer-journey-map.svg" width="100%" alt="Developer journey map from learning through community building" />
-</p>
-
-<p align="center">
-  <img src="./assets/coding-mountain.svg" width="100%" alt="Coding mountain with thematic developer checkpoints" />
-</p>
-
-<p><em>The map uses verified themes from this profile and repositories. It intentionally avoids invented dates, years of experience, or performance scores.</em></p>
-
 ## 🏗️ Flagship Projects
 
 *A selection of projects that represent the systems I build across AI, full-stack engineering, automation, and product development.*
