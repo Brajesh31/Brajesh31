@@ -1,85 +1,13 @@
 {
-  "generatedAt": "2026-11-09T13:54:32.366Z",
+  "generatedAt": "2026-11-10T13:29:31.730Z",
   "source": "GitHub REST API public profile and repositories",
   "profile": {
     "login": "Brajesh31",
     "publicRepos": 484,
-    "followers": 29,
-    "following": 94
+    "followers": 30,
+    "following": 120
   },
   "repositories": [
-    {
-      "name": "Brajesh31",
-      "url": "https://github.com/Brajesh31/Brajesh31",
-      "description": "Config files for my GitHub profile.",
-      "stars": 11,
-      "forks": 4,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T13:50:57Z"
-    },
-    {
-      "name": "yurijserrano",
-      "url": "https://github.com/Brajesh31/yurijserrano",
-      "description": "My Github Profile README :sunglasses:",
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T13:32:07Z"
-    },
-    {
-      "name": "MultiThreadedProxyServer",
-      "url": "https://github.com/Brajesh31/MultiThreadedProxyServer",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T13:31:48Z"
-    },
-    {
-      "name": "File-Explorer-C-",
-      "url": "https://github.com/Brajesh31/File-Explorer-C-",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T12:41:54Z"
-    },
-    {
-      "name": "Hemu21",
-      "url": "https://github.com/Brajesh31/Hemu21",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T12:41:51Z"
-    },
-    {
-      "name": "Image_detecting_telegram_bot",
-      "url": "https://github.com/Brajesh31/Image_detecting_telegram_bot",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T12:41:12Z"
-    },
-    {
-      "name": "AATM",
-      "url": "https://github.com/Brajesh31/AATM",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T12:41:05Z"
-    },
-    {
-      "name": "quick-image-tool",
-      "url": "https://github.com/Brajesh31/quick-image-tool",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T12:41:00Z"
-    },
     {
       "name": "Generative-AI-Document-Intelligence-System",
       "url": "https://github.com/Brajesh31/Generative-AI-Document-Intelligence-System",
@@ -87,7 +15,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T12:40:29Z"
+      "updatedAt": "2026-11-10T13:10:54Z"
     },
     {
       "name": "NETFLIX-CLONE",
@@ -96,16 +24,52 @@
       "stars": 11,
       "forks": 0,
       "language": "CSS",
-      "updatedAt": "2026-11-09T12:40:28Z"
+      "updatedAt": "2026-11-10T13:10:54Z"
     },
     {
-      "name": "HelpPulse",
-      "url": "https://github.com/Brajesh31/HelpPulse",
+      "name": "quick-image-tool",
+      "url": "https://github.com/Brajesh31/quick-image-tool",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T12:39:32Z"
+      "language": "CSS",
+      "updatedAt": "2026-11-10T13:10:51Z"
+    },
+    {
+      "name": "File-Explorer-C-",
+      "url": "https://github.com/Brajesh31/File-Explorer-C-",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T13:10:50Z"
+    },
+    {
+      "name": "AATM",
+      "url": "https://github.com/Brajesh31/AATM",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T13:10:50Z"
+    },
+    {
+      "name": "Hemu21",
+      "url": "https://github.com/Brajesh31/Hemu21",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T13:10:48Z"
+    },
+    {
+      "name": "Image_detecting_telegram_bot",
+      "url": "https://github.com/Brajesh31/Image_detecting_telegram_bot",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T13:10:43Z"
     },
     {
       "name": "React-Typescript-Pro",
@@ -114,16 +78,16 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T12:39:25Z"
+      "updatedAt": "2026-11-10T13:10:37Z"
     },
     {
-      "name": "weather_apk-master",
-      "url": "https://github.com/Brajesh31/weather_apk-master",
+      "name": "HelpPulse",
+      "url": "https://github.com/Brajesh31/HelpPulse",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T12:37:55Z"
+      "language": "Java",
+      "updatedAt": "2026-11-10T13:10:35Z"
     },
     {
       "name": "InsightFace_Pytorch",
@@ -132,205 +96,25 @@
       "stars": 10,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T12:37:52Z"
+      "updatedAt": "2026-11-10T13:10:29Z"
     },
     {
-      "name": "chatbot-C-",
-      "url": "https://github.com/Brajesh31/chatbot-C-",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T10:45:05Z"
-    },
-    {
-      "name": "Condition-and-Loops-in-JS-Assignment",
-      "url": "https://github.com/Brajesh31/Condition-and-Loops-in-JS-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T10:45:03Z"
-    },
-    {
-      "name": "Branding-Website",
-      "url": "https://github.com/Brajesh31/Branding-Website",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T10:44:45Z"
-    },
-    {
-      "name": "MathPuzzle",
-      "url": "https://github.com/Brajesh31/MathPuzzle",
+      "name": "weather_apk-master",
+      "url": "https://github.com/Brajesh31/weather_apk-master",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:44:33Z"
+      "updatedAt": "2026-11-10T13:10:28Z"
     },
     {
-      "name": "React-Components-Library",
-      "url": "https://github.com/Brajesh31/React-Components-Library",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:44:20Z"
-    },
-    {
-      "name": "car-rental-vue-laravel-app",
-      "url": "https://github.com/Brajesh31/car-rental-vue-laravel-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "PHP",
-      "updatedAt": "2026-11-09T10:44:15Z"
-    },
-    {
-      "name": "invoice-flow-nextjs-app",
-      "url": "https://github.com/Brajesh31/invoice-flow-nextjs-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
+      "name": "Brajesh31",
+      "url": "https://github.com/Brajesh31/Brajesh31",
+      "description": "Config files for my GitHub profile.",
+      "stars": 11,
+      "forks": 4,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T10:44:13Z"
-    },
-    {
-      "name": "snake_game",
-      "url": "https://github.com/Brajesh31/snake_game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:43:26Z"
-    },
-    {
-      "name": "ticket-booking-system",
-      "url": "https://github.com/Brajesh31/ticket-booking-system",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T10:43:20Z"
-    },
-    {
-      "name": "Agro_tech_AI",
-      "url": "https://github.com/Brajesh31/Agro_tech_AI",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:43:13Z"
-    },
-    {
-      "name": "currency_converter",
-      "url": "https://github.com/Brajesh31/currency_converter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T10:43:10Z"
-    },
-    {
-      "name": "Data-Analysis-Dashboard",
-      "url": "https://github.com/Brajesh31/Data-Analysis-Dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T10:43:10Z"
-    },
-    {
-      "name": "notion-mail-automation",
-      "url": "https://github.com/Brajesh31/notion-mail-automation",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:42:54Z"
-    },
-    {
-      "name": "codersh_task",
-      "url": "https://github.com/Brajesh31/codersh_task",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:42:44Z"
-    },
-    {
-      "name": "OpenLLM-Monitor",
-      "url": "https://github.com/Brajesh31/OpenLLM-Monitor",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:42:40Z"
-    },
-    {
-      "name": "Noble_Plate",
-      "url": "https://github.com/Brajesh31/Noble_Plate",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T10:42:36Z"
-    },
-    {
-      "name": "video_to_sequence",
-      "url": "https://github.com/Brajesh31/video_to_sequence",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T10:42:30Z"
-    },
-    {
-      "name": "mern-stack",
-      "url": "https://github.com/Brajesh31/mern-stack",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T10:42:14Z"
-    },
-    {
-      "name": "Zentry-game",
-      "url": "https://github.com/Brajesh31/Zentry-game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:42:05Z"
-    },
-    {
-      "name": "QuizAppProject",
-      "url": "https://github.com/Brajesh31/QuizAppProject",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:41:41Z"
-    },
-    {
-      "name": "Movie-Cards-UsingReact",
-      "url": "https://github.com/Brajesh31/Movie-Cards-UsingReact",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T10:28:31Z"
-    },
-    {
-      "name": "Police-Matcher-AI",
-      "url": "https://github.com/Brajesh31/Police-Matcher-AI",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T10:28:28Z"
+      "updatedAt": "2026-11-10T13:00:27Z"
     },
     {
       "name": "AiTripPlanner",
@@ -339,16 +123,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:31:53Z"
-    },
-    {
-      "name": "Introduction-to-JavaScript-Assignment",
-      "url": "https://github.com/Brajesh31/Introduction-to-JavaScript-Assignment",
-      "description": null,
-      "stars": 9,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T09:31:24Z"
+      "updatedAt": "2026-11-10T12:23:39Z"
     },
     {
       "name": "music-app",
@@ -357,7 +132,16 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:31:00Z"
+      "updatedAt": "2026-11-10T12:23:20Z"
+    },
+    {
+      "name": "Introduction-to-JavaScript-Assignment",
+      "url": "https://github.com/Brajesh31/Introduction-to-JavaScript-Assignment",
+      "description": null,
+      "stars": 9,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T12:23:06Z"
     },
     {
       "name": "Login_Page_Design",
@@ -366,34 +150,7 @@
       "stars": 10,
       "forks": 0,
       "language": "CSS",
-      "updatedAt": "2026-11-09T09:30:43Z"
-    },
-    {
-      "name": "digital-image-processing-home-exam",
-      "url": "https://github.com/Brajesh31/digital-image-processing-home-exam",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T09:30:03Z"
-    },
-    {
-      "name": "MovieFinderReact",
-      "url": "https://github.com/Brajesh31/MovieFinderReact",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:30:02Z"
-    },
-    {
-      "name": "Chota-Bheem-Adventure-game",
-      "url": "https://github.com/Brajesh31/Chota-Bheem-Adventure-game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:29:59Z"
+      "updatedAt": "2026-11-10T12:22:49Z"
     },
     {
       "name": "wandria-server",
@@ -402,25 +159,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:29:53Z"
-    },
-    {
-      "name": "sales-dashboard",
-      "url": "https://github.com/Brajesh31/sales-dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Less",
-      "updatedAt": "2026-11-09T09:29:51Z"
-    },
-    {
-      "name": "Snapnote",
-      "url": "https://github.com/Brajesh31/Snapnote",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:29:50Z"
+      "updatedAt": "2026-11-10T12:22:32Z"
     },
     {
       "name": "Elevator-C",
@@ -429,7 +168,7 @@
       "stars": 10,
       "forks": 0,
       "language": "C",
-      "updatedAt": "2026-11-09T09:29:46Z"
+      "updatedAt": "2026-11-10T12:22:21Z"
     },
     {
       "name": "Study-Notion-App",
@@ -438,7 +177,52 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:29:37Z"
+      "updatedAt": "2026-11-10T12:22:18Z"
+    },
+    {
+      "name": "Snapnote",
+      "url": "https://github.com/Brajesh31/Snapnote",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:22:16Z"
+    },
+    {
+      "name": "digital-image-processing-home-exam",
+      "url": "https://github.com/Brajesh31/digital-image-processing-home-exam",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T12:22:13Z"
+    },
+    {
+      "name": "MovieFinderReact",
+      "url": "https://github.com/Brajesh31/MovieFinderReact",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:22:12Z"
+    },
+    {
+      "name": "Chota-Bheem-Adventure-game",
+      "url": "https://github.com/Brajesh31/Chota-Bheem-Adventure-game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:22:12Z"
+    },
+    {
+      "name": "sales-dashboard",
+      "url": "https://github.com/Brajesh31/sales-dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Less",
+      "updatedAt": "2026-11-10T12:22:11Z"
     },
     {
       "name": "insurence-website",
@@ -447,7 +231,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:29:10Z"
+      "updatedAt": "2026-11-10T12:21:59Z"
     },
     {
       "name": "Simple_Calculator",
@@ -456,7 +240,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:28:43Z"
+      "updatedAt": "2026-11-10T12:21:51Z"
     },
     {
       "name": "fraud_qsvm",
@@ -465,34 +249,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T09:28:04Z"
-    },
-    {
-      "name": "Pokemon-API-Cards",
-      "url": "https://github.com/Brajesh31/Pokemon-API-Cards",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:27:58Z"
-    },
-    {
-      "name": "Guess_the_NUMBER",
-      "url": "https://github.com/Brajesh31/Guess_the_NUMBER",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T09:27:57Z"
-    },
-    {
-      "name": "Cake-Shop",
-      "url": "https://github.com/Brajesh31/Cake-Shop",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:27:57Z"
+      "updatedAt": "2026-11-10T12:21:16Z"
     },
     {
       "name": "Expense-Tracker",
@@ -501,34 +258,34 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:27:56Z"
+      "updatedAt": "2026-11-10T12:21:08Z"
     },
     {
-      "name": "Brajesh-GitHub-Community",
-      "url": "https://github.com/Brajesh31/Brajesh-GitHub-Community",
-      "description": "A Python-based GitHub community automation project for follower analytics, profile insights, and automated README reporting using GitHub REST API and GitHub Actions.",
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T09:27:47Z"
-    },
-    {
-      "name": "Movie-Recommendation",
-      "url": "https://github.com/Brajesh31/Movie-Recommendation",
+      "name": "Cake-Shop",
+      "url": "https://github.com/Brajesh31/Cake-Shop",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T09:27:47Z"
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:20:57Z"
     },
     {
-      "name": "tracker",
-      "url": "https://github.com/Brajesh31/tracker",
+      "name": "Guess_the_NUMBER",
+      "url": "https://github.com/Brajesh31/Guess_the_NUMBER",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:27:44Z"
+      "updatedAt": "2026-11-10T12:20:57Z"
+    },
+    {
+      "name": "Pokemon-API-Cards",
+      "url": "https://github.com/Brajesh31/Pokemon-API-Cards",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:20:52Z"
     },
     {
       "name": "Chain-Reaction-Game",
@@ -537,7 +294,25 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:27:37Z"
+      "updatedAt": "2026-11-10T12:20:35Z"
+    },
+    {
+      "name": "Movie-Recommendation",
+      "url": "https://github.com/Brajesh31/Movie-Recommendation",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T12:20:34Z"
+    },
+    {
+      "name": "tracker",
+      "url": "https://github.com/Brajesh31/tracker",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T12:20:33Z"
     },
     {
       "name": "AmazonML-Hackathon",
@@ -546,7 +321,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T09:27:35Z"
+      "updatedAt": "2026-11-10T12:20:29Z"
     },
     {
       "name": "QUIZ_WEB",
@@ -555,16 +330,7 @@
       "stars": 9,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:26:49Z"
-    },
-    {
-      "name": "Photography-Website",
-      "url": "https://github.com/Brajesh31/Photography-Website",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T09:20:35Z"
+      "updatedAt": "2026-11-10T12:20:12Z"
     },
     {
       "name": "issue-tracker-next.js-app",
@@ -573,16 +339,16 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T09:20:26Z"
+      "updatedAt": "2026-11-10T12:16:40Z"
     },
     {
-      "name": "More-on-CSS-Selector-Assignment",
-      "url": "https://github.com/Brajesh31/More-on-CSS-Selector-Assignment",
+      "name": "Photography-Website",
+      "url": "https://github.com/Brajesh31/Photography-Website",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T09:20:00Z"
+      "language": "CSS",
+      "updatedAt": "2026-11-10T12:16:29Z"
     },
     {
       "name": "Timepass",
@@ -591,16 +357,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:19:58Z"
-    },
-    {
-      "name": "GameZone",
-      "url": "https://github.com/Brajesh31/GameZone",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T09:19:26Z"
+      "updatedAt": "2026-11-10T12:16:27Z"
     },
     {
       "name": "Main_Project",
@@ -609,16 +366,25 @@
       "stars": 10,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T09:19:18Z"
+      "updatedAt": "2026-11-10T12:16:25Z"
     },
     {
-      "name": "TripIt",
-      "url": "https://github.com/Brajesh31/TripIt",
+      "name": "More-on-CSS-Selector-Assignment",
+      "url": "https://github.com/Brajesh31/More-on-CSS-Selector-Assignment",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:19:16Z"
+      "language": "HTML",
+      "updatedAt": "2026-11-10T12:16:24Z"
+    },
+    {
+      "name": "GameZone",
+      "url": "https://github.com/Brajesh31/GameZone",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T12:16:21Z"
     },
     {
       "name": "Amazon_Clone",
@@ -627,16 +393,7 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:19:12Z"
-    },
-    {
-      "name": "Shopping_NOSTRA",
-      "url": "https://github.com/Brajesh31/Shopping_NOSTRA",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T09:19:08Z"
+      "updatedAt": "2026-11-10T12:15:11Z"
     },
     {
       "name": "ecommerce",
@@ -645,7 +402,25 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:19:06Z"
+      "updatedAt": "2026-11-10T12:15:00Z"
+    },
+    {
+      "name": "Shopping_NOSTRA",
+      "url": "https://github.com/Brajesh31/Shopping_NOSTRA",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T12:14:59Z"
+    },
+    {
+      "name": "TripIt",
+      "url": "https://github.com/Brajesh31/TripIt",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:14:57Z"
     },
     {
       "name": "Anime_website",
@@ -654,7 +429,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:18:47Z"
+      "updatedAt": "2026-11-10T12:14:48Z"
     },
     {
       "name": "USER_MANAGEMENt",
@@ -663,7 +438,7 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:18:21Z"
+      "updatedAt": "2026-11-10T12:14:39Z"
     },
     {
       "name": "Amazon-Sales-Analysis-Dashboard",
@@ -672,7 +447,7 @@
       "stars": 10,
       "forks": 0,
       "language": null,
-      "updatedAt": "2026-11-09T09:18:05Z"
+      "updatedAt": "2026-11-10T12:14:33Z"
     },
     {
       "name": "Helpmate-AI",
@@ -681,7 +456,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:18:01Z"
+      "updatedAt": "2026-11-10T12:14:33Z"
     },
     {
       "name": "Instagram-react",
@@ -690,7 +465,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:17:39Z"
+      "updatedAt": "2026-11-10T12:14:18Z"
     },
     {
       "name": "lms",
@@ -699,7 +474,7 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T09:17:16Z"
+      "updatedAt": "2026-11-10T12:12:57Z"
     },
     {
       "name": "Region-Growing",
@@ -708,16 +483,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:17:15Z"
-    },
-    {
-      "name": "WellnessStudio",
-      "url": "https://github.com/Brajesh31/WellnessStudio",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T09:15:25Z"
+      "updatedAt": "2026-11-10T12:12:49Z"
     },
     {
       "name": "chat-bot",
@@ -726,7 +492,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:15:18Z"
+      "updatedAt": "2026-11-10T12:12:15Z"
     },
     {
       "name": "rahulbanerjee26",
@@ -735,7 +501,16 @@
       "stars": 0,
       "forks": 0,
       "language": null,
-      "updatedAt": "2026-11-09T09:15:08Z"
+      "updatedAt": "2026-11-10T12:12:14Z"
+    },
+    {
+      "name": "WellnessStudio",
+      "url": "https://github.com/Brajesh31/WellnessStudio",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T12:12:14Z"
     },
     {
       "name": "Restaurant-management-system",
@@ -744,16 +519,7 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:15:03Z"
-    },
-    {
-      "name": "Email-Spam-Detection-system",
-      "url": "https://github.com/Brajesh31/Email-Spam-Detection-system",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T09:15:01Z"
+      "updatedAt": "2026-11-10T12:11:58Z"
     },
     {
       "name": "AT_LearnHub",
@@ -762,7 +528,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:14:40Z"
+      "updatedAt": "2026-11-10T12:10:57Z"
     },
     {
       "name": "Book-Recommender",
@@ -771,7 +537,16 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:13:34Z"
+      "updatedAt": "2026-11-10T12:10:52Z"
+    },
+    {
+      "name": "Email-Spam-Detection-system",
+      "url": "https://github.com/Brajesh31/Email-Spam-Detection-system",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T12:10:51Z"
     },
     {
       "name": "Tailwind-CSS-Assignment",
@@ -780,52 +555,7 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T09:13:22Z"
-    },
-    {
-      "name": "Adventure-Game",
-      "url": "https://github.com/Brajesh31/Adventure-Game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:13:22Z"
-    },
-    {
-      "name": "bank-management-system-c-",
-      "url": "https://github.com/Brajesh31/bank-management-system-c-",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T09:13:18Z"
-    },
-    {
-      "name": "luckyporter",
-      "url": "https://github.com/Brajesh31/luckyporter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T09:13:18Z"
-    },
-    {
-      "name": "portal-web-landing-page",
-      "url": "https://github.com/Brajesh31/portal-web-landing-page",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T09:13:17Z"
-    },
-    {
-      "name": "Hacktober-Fest-2023",
-      "url": "https://github.com/Brajesh31/Hacktober-Fest-2023",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T09:13:17Z"
+      "updatedAt": "2026-11-10T12:10:34Z"
     },
     {
       "name": "File-Management-App",
@@ -834,25 +564,52 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:13:13Z"
+      "updatedAt": "2026-11-10T12:10:28Z"
     },
     {
-      "name": "Chai_backend",
-      "url": "https://github.com/Brajesh31/Chai_backend",
+      "name": "portal-web-landing-page",
+      "url": "https://github.com/Brajesh31/portal-web-landing-page",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T12:10:24Z"
+    },
+    {
+      "name": "Adventure-Game",
+      "url": "https://github.com/Brajesh31/Adventure-Game",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:13:11Z"
+      "updatedAt": "2026-11-10T12:10:24Z"
     },
     {
-      "name": "CODSOFT",
-      "url": "https://github.com/Brajesh31/CODSOFT",
+      "name": "bank-management-system-c-",
+      "url": "https://github.com/Brajesh31/bank-management-system-c-",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T09:13:06Z"
+      "language": "C",
+      "updatedAt": "2026-11-10T12:10:21Z"
+    },
+    {
+      "name": "Hacktober-Fest-2023",
+      "url": "https://github.com/Brajesh31/Hacktober-Fest-2023",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T12:10:20Z"
+    },
+    {
+      "name": "luckyporter",
+      "url": "https://github.com/Brajesh31/luckyporter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T12:10:20Z"
     },
     {
       "name": "todo",
@@ -861,7 +618,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:13:05Z"
+      "updatedAt": "2026-11-10T12:10:09Z"
     },
     {
       "name": "short-url",
@@ -870,7 +627,25 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:13:03Z"
+      "updatedAt": "2026-11-10T12:10:09Z"
+    },
+    {
+      "name": "Chai_backend",
+      "url": "https://github.com/Brajesh31/Chai_backend",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T12:10:09Z"
+    },
+    {
+      "name": "CODSOFT",
+      "url": "https://github.com/Brajesh31/CODSOFT",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T12:10:08Z"
     },
     {
       "name": "django-chat",
@@ -879,7 +654,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:12:50Z"
+      "updatedAt": "2026-11-10T12:09:57Z"
     },
     {
       "name": "Stock_Alert_Notifier",
@@ -888,7 +663,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:12:35Z"
+      "updatedAt": "2026-11-10T12:09:30Z"
     },
     {
       "name": "StarGame",
@@ -897,7 +672,7 @@
       "stars": 10,
       "forks": 0,
       "language": "C++",
-      "updatedAt": "2026-11-09T09:12:33Z"
+      "updatedAt": "2026-11-10T12:09:30Z"
     },
     {
       "name": "Gradient-Image",
@@ -906,7 +681,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:11:26Z"
+      "updatedAt": "2026-11-10T12:09:14Z"
     },
     {
       "name": "Veloxa-LOGIN",
@@ -915,7 +690,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:11:23Z"
+      "updatedAt": "2026-11-10T12:08:58Z"
     },
     {
       "name": "Kennedyconcrete",
@@ -924,7 +699,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:10:27Z"
+      "updatedAt": "2026-11-10T12:08:14Z"
     },
     {
       "name": "ChessAcademySystem_Java",
@@ -933,7 +708,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Java",
-      "updatedAt": "2026-11-09T09:10:22Z"
+      "updatedAt": "2026-11-10T12:08:12Z"
     },
     {
       "name": "Emoji-Mood-Tracker-app",
@@ -942,25 +717,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:10:22Z"
-    },
-    {
-      "name": "LibraryManagement",
-      "url": "https://github.com/Brajesh31/LibraryManagement",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T09:09:03Z"
-    },
-    {
-      "name": "Storyit",
-      "url": "https://github.com/Brajesh31/Storyit",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T09:08:58Z"
+      "updatedAt": "2026-11-10T12:08:12Z"
     },
     {
       "name": "Election-of-Student-Council-President",
@@ -969,7 +726,25 @@
       "stars": 10,
       "forks": 0,
       "language": "CSS",
-      "updatedAt": "2026-11-09T09:08:55Z"
+      "updatedAt": "2026-11-10T12:07:50Z"
+    },
+    {
+      "name": "LibraryManagement",
+      "url": "https://github.com/Brajesh31/LibraryManagement",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T12:07:39Z"
+    },
+    {
+      "name": "Storyit",
+      "url": "https://github.com/Brajesh31/Storyit",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T12:07:36Z"
     },
     {
       "name": "emotion-classification-nlp",
@@ -978,7 +753,7 @@
       "stars": 0,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T09:08:51Z"
+      "updatedAt": "2026-11-10T12:07:26Z"
     },
     {
       "name": "financial-tracker-server-side",
@@ -987,7 +762,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:08:46Z"
+      "updatedAt": "2026-11-10T12:07:12Z"
     },
     {
       "name": "Amazon-Automation",
@@ -996,7 +771,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:08:34Z"
+      "updatedAt": "2026-11-10T12:07:02Z"
     },
     {
       "name": "CodeTracker-Frontend",
@@ -1005,7 +780,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:08:34Z"
+      "updatedAt": "2026-11-10T12:06:58Z"
     },
     {
       "name": "QuoteGenerator-main",
@@ -1014,7 +789,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:08:28Z"
+      "updatedAt": "2026-11-10T12:06:50Z"
     },
     {
       "name": "SkillSphere",
@@ -1023,7 +798,7 @@
       "stars": 11,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:07:47Z"
+      "updatedAt": "2026-11-10T12:06:37Z"
     },
     {
       "name": "Recognition-and-Detection-of-Modulated-Waveforms",
@@ -1032,7 +807,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T09:07:38Z"
+      "updatedAt": "2026-11-10T12:06:27Z"
     },
     {
       "name": "financial-analysis-rag",
@@ -1041,7 +816,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T09:07:24Z"
+      "updatedAt": "2026-11-10T12:06:11Z"
     },
     {
       "name": "Trendify",
@@ -1050,7 +825,7 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T09:06:40Z"
+      "updatedAt": "2026-11-10T12:06:06Z"
     },
     {
       "name": "live-weather-app-main",
@@ -1059,7 +834,7 @@
       "stars": 12,
       "forks": 0,
       "language": "Dart",
-      "updatedAt": "2026-11-09T09:06:36Z"
+      "updatedAt": "2026-11-10T12:06:03Z"
     },
     {
       "name": "Webpage-Clone-Project",
@@ -1068,16 +843,7 @@
       "stars": 10,
       "forks": 0,
       "language": "CSS",
-      "updatedAt": "2026-11-09T09:06:33Z"
-    },
-    {
-      "name": "cap-and-share",
-      "url": "https://github.com/Brajesh31/cap-and-share",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T09:00:23Z"
+      "updatedAt": "2026-11-10T12:05:57Z"
     },
     {
       "name": "stonepaperscissor",
@@ -1086,43 +852,214 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T09:00:18Z"
+      "updatedAt": "2026-11-10T12:02:18Z"
     },
     {
-      "name": "CulturalManagementSystem",
-      "url": "https://github.com/Brajesh31/CulturalManagementSystem",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T09:00:02Z"
-    },
-    {
-      "name": "ecommerce-seller",
-      "url": "https://github.com/Brajesh31/ecommerce-seller",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T08:59:46Z"
-    },
-    {
-      "name": "FiatConverter",
-      "url": "https://github.com/Brajesh31/FiatConverter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Kotlin",
-      "updatedAt": "2026-11-09T08:59:45Z"
-    },
-    {
-      "name": "semac",
-      "url": "https://github.com/Brajesh31/semac",
+      "name": "cap-and-share",
+      "url": "https://github.com/Brajesh31/cap-and-share",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T08:59:29Z"
+      "updatedAt": "2026-11-10T12:01:53Z"
+    },
+    {
+      "name": "chatbot-C-",
+      "url": "https://github.com/Brajesh31/chatbot-C-",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T12:00:05Z"
+    },
+    {
+      "name": "Branding-Website",
+      "url": "https://github.com/Brajesh31/Branding-Website",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T11:59:55Z"
+    },
+    {
+      "name": "Condition-and-Loops-in-JS-Assignment",
+      "url": "https://github.com/Brajesh31/Condition-and-Loops-in-JS-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T11:59:49Z"
+    },
+    {
+      "name": "React-Components-Library",
+      "url": "https://github.com/Brajesh31/React-Components-Library",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:59:23Z"
+    },
+    {
+      "name": "invoice-flow-nextjs-app",
+      "url": "https://github.com/Brajesh31/invoice-flow-nextjs-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T11:59:22Z"
+    },
+    {
+      "name": "Agro_tech_AI",
+      "url": "https://github.com/Brajesh31/Agro_tech_AI",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:59:07Z"
+    },
+    {
+      "name": "MathPuzzle",
+      "url": "https://github.com/Brajesh31/MathPuzzle",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:59:06Z"
+    },
+    {
+      "name": "car-rental-vue-laravel-app",
+      "url": "https://github.com/Brajesh31/car-rental-vue-laravel-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "PHP",
+      "updatedAt": "2026-11-10T11:59:03Z"
+    },
+    {
+      "name": "snake_game",
+      "url": "https://github.com/Brajesh31/snake_game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:58:53Z"
+    },
+    {
+      "name": "ticket-booking-system",
+      "url": "https://github.com/Brajesh31/ticket-booking-system",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T11:58:49Z"
+    },
+    {
+      "name": "currency_converter",
+      "url": "https://github.com/Brajesh31/currency_converter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T11:58:45Z"
+    },
+    {
+      "name": "Data-Analysis-Dashboard",
+      "url": "https://github.com/Brajesh31/Data-Analysis-Dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T11:58:38Z"
+    },
+    {
+      "name": "codersh_task",
+      "url": "https://github.com/Brajesh31/codersh_task",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:58:37Z"
+    },
+    {
+      "name": "Noble_Plate",
+      "url": "https://github.com/Brajesh31/Noble_Plate",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T11:58:34Z"
+    },
+    {
+      "name": "mern-stack",
+      "url": "https://github.com/Brajesh31/mern-stack",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T11:58:24Z"
+    },
+    {
+      "name": "notion-mail-automation",
+      "url": "https://github.com/Brajesh31/notion-mail-automation",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:58:20Z"
+    },
+    {
+      "name": "video_to_sequence",
+      "url": "https://github.com/Brajesh31/video_to_sequence",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T11:58:17Z"
+    },
+    {
+      "name": "OpenLLM-Monitor",
+      "url": "https://github.com/Brajesh31/OpenLLM-Monitor",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:58:16Z"
+    },
+    {
+      "name": "Zentry-game",
+      "url": "https://github.com/Brajesh31/Zentry-game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:58:15Z"
+    },
+    {
+      "name": "QuizAppProject",
+      "url": "https://github.com/Brajesh31/QuizAppProject",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:57:57Z"
+    },
+    {
+      "name": "Movie-Cards-UsingReact",
+      "url": "https://github.com/Brajesh31/Movie-Cards-UsingReact",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T11:53:40Z"
+    },
+    {
+      "name": "Police-Matcher-AI",
+      "url": "https://github.com/Brajesh31/Police-Matcher-AI",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T11:53:15Z"
     },
     {
       "name": "passman",
@@ -1131,7 +1068,25 @@
       "stars": 10,
       "forks": 0,
       "language": null,
-      "updatedAt": "2026-11-09T08:59:15Z"
+      "updatedAt": "2026-11-10T10:43:29Z"
+    },
+    {
+      "name": "semac",
+      "url": "https://github.com/Brajesh31/semac",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T10:43:25Z"
+    },
+    {
+      "name": "CulturalManagementSystem",
+      "url": "https://github.com/Brajesh31/CulturalManagementSystem",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T10:43:18Z"
     },
     {
       "name": "Atlas",
@@ -1140,16 +1095,25 @@
       "stars": 10,
       "forks": 0,
       "language": "EJS",
-      "updatedAt": "2026-11-09T08:59:10Z"
+      "updatedAt": "2026-11-10T10:43:07Z"
     },
     {
-      "name": "Google_search_automation",
-      "url": "https://github.com/Brajesh31/Google_search_automation",
+      "name": "ecommerce-seller",
+      "url": "https://github.com/Brajesh31/ecommerce-seller",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T08:58:58Z"
+      "language": "Java",
+      "updatedAt": "2026-11-10T10:43:02Z"
+    },
+    {
+      "name": "FiatConverter",
+      "url": "https://github.com/Brajesh31/FiatConverter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Kotlin",
+      "updatedAt": "2026-11-10T10:42:59Z"
     },
     {
       "name": "ShoppyCart",
@@ -1158,16 +1122,16 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T08:58:51Z"
+      "updatedAt": "2026-11-10T10:42:12Z"
     },
     {
-      "name": "Face-Mask-Detection",
-      "url": "https://github.com/Brajesh31/Face-Mask-Detection",
+      "name": "Google_search_automation",
+      "url": "https://github.com/Brajesh31/Google_search_automation",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T08:58:40Z"
+      "updatedAt": "2026-11-10T10:42:05Z"
     },
     {
       "name": "Not-To-Do-List",
@@ -1176,7 +1140,7 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T08:58:38Z"
+      "updatedAt": "2026-11-10T10:41:55Z"
     },
     {
       "name": "secure-file-manager",
@@ -1185,7 +1149,7 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T08:58:35Z"
+      "updatedAt": "2026-11-10T10:41:53Z"
     },
     {
       "name": "Grocery-react-main",
@@ -1194,7 +1158,16 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T08:58:10Z"
+      "updatedAt": "2026-11-10T10:41:50Z"
+    },
+    {
+      "name": "Face-Mask-Detection",
+      "url": "https://github.com/Brajesh31/Face-Mask-Detection",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T10:41:44Z"
     },
     {
       "name": "todoCLI",
@@ -1203,7 +1176,7 @@
       "stars": 11,
       "forks": 1,
       "language": "Python",
-      "updatedAt": "2026-11-09T08:58:05Z"
+      "updatedAt": "2026-11-10T10:41:26Z"
     },
     {
       "name": "CodeShare",
@@ -1212,7 +1185,7 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T08:57:42Z"
+      "updatedAt": "2026-11-10T10:40:59Z"
     },
     {
       "name": "sdn-ddos-threat-detection",
@@ -1221,16 +1194,7 @@
       "stars": 0,
       "forks": 0,
       "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T08:57:31Z"
-    },
-    {
-      "name": "Live_Emotion_Detector",
-      "url": "https://github.com/Brajesh31/Live_Emotion_Detector",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:46:31Z"
+      "updatedAt": "2026-11-10T10:40:58Z"
     },
     {
       "name": "Contact-Card-App",
@@ -1239,7 +1203,16 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:46:15Z"
+      "updatedAt": "2026-11-10T09:35:56Z"
+    },
+    {
+      "name": "Live_Emotion_Detector",
+      "url": "https://github.com/Brajesh31/Live_Emotion_Detector",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:33:58Z"
     },
     {
       "name": "Smart-Room-Cleaner-AI",
@@ -1248,16 +1221,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T07:46:07Z"
-    },
-    {
-      "name": "todo-app",
-      "url": "https://github.com/Brajesh31/todo-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:45:54Z"
+      "updatedAt": "2026-11-10T09:31:58Z"
     },
     {
       "name": "Oxford-Medical",
@@ -1266,7 +1230,25 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:45:54Z"
+      "updatedAt": "2026-11-10T09:31:22Z"
+    },
+    {
+      "name": "Brajesh-GitHub-Community",
+      "url": "https://github.com/Brajesh31/Brajesh-GitHub-Community",
+      "description": "A Python-based GitHub community automation project for follower analytics, profile insights, and automated README reporting using GitHub REST API and GitHub Actions.",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:30:13Z"
+    },
+    {
+      "name": "todo-app",
+      "url": "https://github.com/Brajesh31/todo-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:29:55Z"
     },
     {
       "name": "Influencer-Sponsor-Coordination-Platform",
@@ -1275,7 +1257,7 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T07:45:32Z"
+      "updatedAt": "2026-11-10T09:29:31Z"
     },
     {
       "name": "cea",
@@ -1284,7 +1266,7 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
-      "updatedAt": "2026-11-09T07:45:20Z"
+      "updatedAt": "2026-11-10T09:28:53Z"
     },
     {
       "name": "SimpleRegisterForm",
@@ -1293,70 +1275,7 @@
       "stars": 10,
       "forks": 0,
       "language": "HTML",
-      "updatedAt": "2026-11-09T07:45:15Z"
-    },
-    {
-      "name": "CAFE-WEBSITE",
-      "url": "https://github.com/Brajesh31/CAFE-WEBSITE",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:45:13Z"
-    },
-    {
-      "name": "live-chatbot-js",
-      "url": "https://github.com/Brajesh31/live-chatbot-js",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:45:13Z"
-    },
-    {
-      "name": "food-waste-management-system",
-      "url": "https://github.com/Brajesh31/food-waste-management-system",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "PHP",
-      "updatedAt": "2026-11-09T07:45:02Z"
-    },
-    {
-      "name": "memory-game-js",
-      "url": "https://github.com/Brajesh31/memory-game-js",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:44:56Z"
-    },
-    {
-      "name": "Bulk-Mail-Project",
-      "url": "https://github.com/Brajesh31/Bulk-Mail-Project",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:44:56Z"
-    },
-    {
-      "name": "My_Bank",
-      "url": "https://github.com/Brajesh31/My_Bank",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:44:48Z"
-    },
-    {
-      "name": "forkify-app",
-      "url": "https://github.com/Brajesh31/forkify-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:44:46Z"
+      "updatedAt": "2026-11-10T09:28:40Z"
     },
     {
       "name": "expense-tracker-app",
@@ -1365,7 +1284,70 @@
       "stars": 10,
       "forks": 0,
       "language": "Vue",
-      "updatedAt": "2026-11-09T07:44:45Z"
+      "updatedAt": "2026-11-10T09:28:33Z"
+    },
+    {
+      "name": "forkify-app",
+      "url": "https://github.com/Brajesh31/forkify-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:28:33Z"
+    },
+    {
+      "name": "Bulk-Mail-Project",
+      "url": "https://github.com/Brajesh31/Bulk-Mail-Project",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:28:17Z"
+    },
+    {
+      "name": "My_Bank",
+      "url": "https://github.com/Brajesh31/My_Bank",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:28:15Z"
+    },
+    {
+      "name": "memory-game-js",
+      "url": "https://github.com/Brajesh31/memory-game-js",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:28:09Z"
+    },
+    {
+      "name": "CAFE-WEBSITE",
+      "url": "https://github.com/Brajesh31/CAFE-WEBSITE",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:28:07Z"
+    },
+    {
+      "name": "live-chatbot-js",
+      "url": "https://github.com/Brajesh31/live-chatbot-js",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:28:04Z"
+    },
+    {
+      "name": "food-waste-management-system",
+      "url": "https://github.com/Brajesh31/food-waste-management-system",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "PHP",
+      "updatedAt": "2026-11-10T09:27:59Z"
     },
     {
       "name": "EcoNirvana",
@@ -1374,16 +1356,7 @@
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:44:32Z"
-    },
-    {
-      "name": "VybeC",
-      "url": "https://github.com/Brajesh31/VybeC",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:44:32Z"
+      "updatedAt": "2026-11-10T09:27:57Z"
     },
     {
       "name": "Tic-tak-toe",
@@ -1392,7 +1365,2005 @@
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:44:12Z"
+      "updatedAt": "2026-11-10T09:27:50Z"
+    },
+    {
+      "name": "VybeC",
+      "url": "https://github.com/Brajesh31/VybeC",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:26:53Z"
+    },
+    {
+      "name": "PingPanda_AI_SaaS_Monitoring_Platform",
+      "url": "https://github.com/Brajesh31/PingPanda_AI_SaaS_Monitoring_Platform",
+      "description": null,
+      "stars": 11,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:16:39Z"
+    },
+    {
+      "name": "Flight_Booking_Web_App_Client",
+      "url": "https://github.com/Brajesh31/Flight_Booking_Web_App_Client",
+      "description": null,
+      "stars": 11,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:16:12Z"
+    },
+    {
+      "name": "Sampark-AI",
+      "url": "https://github.com/Brajesh31/Sampark-AI",
+      "description": null,
+      "stars": 11,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:15:33Z"
+    },
+    {
+      "name": "alien-invasion-game",
+      "url": "https://github.com/Brajesh31/alien-invasion-game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:15:01Z"
+    },
+    {
+      "name": "Anime-Book-Store",
+      "url": "https://github.com/Brajesh31/Anime-Book-Store",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:14:57Z"
+    },
+    {
+      "name": "Real-Estate-business",
+      "url": "https://github.com/Brajesh31/Real-Estate-business",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:14:37Z"
+    },
+    {
+      "name": "MATLAB_FingerPrint",
+      "url": "https://github.com/Brajesh31/MATLAB_FingerPrint",
+      "description": null,
+      "stars": 9,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T09:14:16Z"
+    },
+    {
+      "name": "fastapi-py",
+      "url": "https://github.com/Brajesh31/fastapi-py",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:13:16Z"
+    },
+    {
+      "name": "OllamaDiscordBot",
+      "url": "https://github.com/Brajesh31/OllamaDiscordBot",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:13:15Z"
+    },
+    {
+      "name": "NextGenSquadX",
+      "url": "https://github.com/Brajesh31/NextGenSquadX",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:13:13Z"
+    },
+    {
+      "name": "DIGIBHEM",
+      "url": "https://github.com/Brajesh31/DIGIBHEM",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T09:13:03Z"
+    },
+    {
+      "name": "traffic_analyzer",
+      "url": "https://github.com/Brajesh31/traffic_analyzer",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:13:01Z"
+    },
+    {
+      "name": "DailyDo",
+      "url": "https://github.com/Brajesh31/DailyDo",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:13:01Z"
+    },
+    {
+      "name": "LangSQL",
+      "url": "https://github.com/Brajesh31/LangSQL",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:12:59Z"
+    },
+    {
+      "name": "Positions-in-CSS-Assignment",
+      "url": "https://github.com/Brajesh31/Positions-in-CSS-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:12:58Z"
+    },
+    {
+      "name": "Digital-Clock",
+      "url": "https://github.com/Brajesh31/Digital-Clock",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:12:29Z"
+    },
+    {
+      "name": "Scratch-detection-project",
+      "url": "https://github.com/Brajesh31/Scratch-detection-project",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T09:12:28Z"
+    },
+    {
+      "name": "gupt",
+      "url": "https://github.com/Brajesh31/gupt",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T09:12:23Z"
+    },
+    {
+      "name": "emotion-detector",
+      "url": "https://github.com/Brajesh31/emotion-detector",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:11:19Z"
+    },
+    {
+      "name": "school-laravel-project",
+      "url": "https://github.com/Brajesh31/school-laravel-project",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "PHP",
+      "updatedAt": "2026-11-10T09:11:17Z"
+    },
+    {
+      "name": "fast-react-pizza-typescript-app",
+      "url": "https://github.com/Brajesh31/fast-react-pizza-typescript-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:10:57Z"
+    },
+    {
+      "name": "Video-quality-conversion-SD-to-HD--main",
+      "url": "https://github.com/Brajesh31/Video-quality-conversion-SD-to-HD--main",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:10:57Z"
+    },
+    {
+      "name": "Modern-HTML-Assignment",
+      "url": "https://github.com/Brajesh31/Modern-HTML-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:10:55Z"
+    },
+    {
+      "name": "Heart_Disease_Prediction-master",
+      "url": "https://github.com/Brajesh31/Heart_Disease_Prediction-master",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T09:10:54Z"
+    },
+    {
+      "name": "memory-game",
+      "url": "https://github.com/Brajesh31/memory-game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:10:52Z"
+    },
+    {
+      "name": "student_management_system",
+      "url": "https://github.com/Brajesh31/student_management_system",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:10:46Z"
+    },
+    {
+      "name": "More-on-CSS-Assignment",
+      "url": "https://github.com/Brajesh31/More-on-CSS-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:10:46Z"
+    },
+    {
+      "name": "trigger",
+      "url": "https://github.com/Brajesh31/trigger",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:10:35Z"
+    },
+    {
+      "name": "React-Pagination",
+      "url": "https://github.com/Brajesh31/React-Pagination",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:10:30Z"
+    },
+    {
+      "name": "Disaster-Management--Inohax-1.0",
+      "url": "https://github.com/Brajesh31/Disaster-Management--Inohax-1.0",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T09:09:51Z"
+    },
+    {
+      "name": "Admission-Prediction",
+      "url": "https://github.com/Brajesh31/Admission-Prediction",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T09:09:47Z"
+    },
+    {
+      "name": "Sliding-Window",
+      "url": "https://github.com/Brajesh31/Sliding-Window",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T09:09:23Z"
+    },
+    {
+      "name": "Robotic-Process-Automation-UiPath",
+      "url": "https://github.com/Brajesh31/Robotic-Process-Automation-UiPath",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T09:09:16Z"
+    },
+    {
+      "name": "AI-Powered-Task-Optimizer",
+      "url": "https://github.com/Brajesh31/AI-Powered-Task-Optimizer",
+      "description": "This project focuses on leveraging data science and machine learning techniques to analyze employee emotions and moods using data such as text inputs, facial expressions, or speech.",
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:09:06Z"
+    },
+    {
+      "name": "music-player",
+      "url": "https://github.com/Brajesh31/music-player",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:08:37Z"
+    },
+    {
+      "name": "REUNITE",
+      "url": "https://github.com/Brajesh31/REUNITE",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:08:36Z"
+    },
+    {
+      "name": "Spotify-Clonee",
+      "url": "https://github.com/Brajesh31/Spotify-Clonee",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:08:28Z"
+    },
+    {
+      "name": "education-dashboard",
+      "url": "https://github.com/Brajesh31/education-dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:08:24Z"
+    },
+    {
+      "name": "Art-Gallery",
+      "url": "https://github.com/Brajesh31/Art-Gallery",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:06:15Z"
+    },
+    {
+      "name": "MULTITHREADED-CHAT-APPLICATION",
+      "url": "https://github.com/Brajesh31/MULTITHREADED-CHAT-APPLICATION",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T09:05:41Z"
+    },
+    {
+      "name": "Hangman-Web",
+      "url": "https://github.com/Brajesh31/Hangman-Web",
+      "description": null,
+      "stars": 9,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:05:32Z"
+    },
+    {
+      "name": "Text_to_Speech",
+      "url": "https://github.com/Brajesh31/Text_to_Speech",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:05:31Z"
+    },
+    {
+      "name": "SEO-Assignment",
+      "url": "https://github.com/Brajesh31/SEO-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T09:05:22Z"
+    },
+    {
+      "name": "blog-management-system-laravel-vue-app",
+      "url": "https://github.com/Brajesh31/blog-management-system-laravel-vue-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Vue",
+      "updatedAt": "2026-11-10T09:05:22Z"
+    },
+    {
+      "name": "food-ordering-app-mern-stack-frontend",
+      "url": "https://github.com/Brajesh31/food-ordering-app-mern-stack-frontend",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:05:20Z"
+    },
+    {
+      "name": "CRM-Laravel",
+      "url": "https://github.com/Brajesh31/CRM-Laravel",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "PHP",
+      "updatedAt": "2026-11-10T09:04:26Z"
+    },
+    {
+      "name": "API-Gateway-Tripzy",
+      "url": "https://github.com/Brajesh31/API-Gateway-Tripzy",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T09:04:26Z"
+    },
+    {
+      "name": "food-ordering",
+      "url": "https://github.com/Brajesh31/food-ordering",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T09:04:24Z"
+    },
+    {
+      "name": "Aahar-AI",
+      "url": "https://github.com/Brajesh31/Aahar-AI",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:04:24Z"
+    },
+    {
+      "name": "QuizTube",
+      "url": "https://github.com/Brajesh31/QuizTube",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:04:22Z"
+    },
+    {
+      "name": "flexlayout-vite-example",
+      "url": "https://github.com/Brajesh31/flexlayout-vite-example",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T09:04:05Z"
+    },
+    {
+      "name": "Flights-Booking-Service",
+      "url": "https://github.com/Brajesh31/Flights-Booking-Service",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:03:57Z"
+    },
+    {
+      "name": "RadarScope",
+      "url": "https://github.com/Brajesh31/RadarScope",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T09:03:55Z"
+    },
+    {
+      "name": "NewsTraker",
+      "url": "https://github.com/Brajesh31/NewsTraker",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:00:19Z"
+    },
+    {
+      "name": "Theme-color-switcher",
+      "url": "https://github.com/Brajesh31/Theme-color-switcher",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:00:12Z"
+    },
+    {
+      "name": "Voting_Application",
+      "url": "https://github.com/Brajesh31/Voting_Application",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T09:00:10Z"
+    },
+    {
+      "name": "Image-Search-Website",
+      "url": "https://github.com/Brajesh31/Image-Search-Website",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:59:57Z"
+    },
+    {
+      "name": "kfc",
+      "url": "https://github.com/Brajesh31/kfc",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:59:57Z"
+    },
+    {
+      "name": "Merchant_Dashboard",
+      "url": "https://github.com/Brajesh31/Merchant_Dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:59:55Z"
+    },
+    {
+      "name": "Asim-Library",
+      "url": "https://github.com/Brajesh31/Asim-Library",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T08:59:40Z"
+    },
+    {
+      "name": "Number_guessing_game",
+      "url": "https://github.com/Brajesh31/Number_guessing_game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:59:29Z"
+    },
+    {
+      "name": "Laravel-E-Commerce-Project",
+      "url": "https://github.com/Brajesh31/Laravel-E-Commerce-Project",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:59:27Z"
+    },
+    {
+      "name": "LearnReactGDSC",
+      "url": "https://github.com/Brajesh31/LearnReactGDSC",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:59:26Z"
+    },
+    {
+      "name": "Federated-Learning-Healthcare-Diabetes",
+      "url": "https://github.com/Brajesh31/Federated-Learning-Healthcare-Diabetes",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:59:15Z"
+    },
+    {
+      "name": "Notification-Service-Tripzy",
+      "url": "https://github.com/Brajesh31/Notification-Service-Tripzy",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:59:05Z"
+    },
+    {
+      "name": "Media-Query-Assignment",
+      "url": "https://github.com/Brajesh31/Media-Query-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:59:04Z"
+    },
+    {
+      "name": "Whether-web",
+      "url": "https://github.com/Brajesh31/Whether-web",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:58:58Z"
+    },
+    {
+      "name": "ArcherE-Bank",
+      "url": "https://github.com/Brajesh31/ArcherE-Bank",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:58:40Z"
+    },
+    {
+      "name": "Covid-Detection",
+      "url": "https://github.com/Brajesh31/Covid-Detection",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:58:25Z"
+    },
+    {
+      "name": "Not-to-do-list-backend",
+      "url": "https://github.com/Brajesh31/Not-to-do-list-backend",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:58:24Z"
+    },
+    {
+      "name": "Native-Music-App",
+      "url": "https://github.com/Brajesh31/Native-Music-App",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:58:23Z"
+    },
+    {
+      "name": "AI-and-Machine-Learning",
+      "url": "https://github.com/Brajesh31/AI-and-Machine-Learning",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:58:21Z"
+    },
+    {
+      "name": "Random-Quote-Generator",
+      "url": "https://github.com/Brajesh31/Random-Quote-Generator",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:58:19Z"
+    },
+    {
+      "name": "Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
+      "url": "https://github.com/Brajesh31/Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:58:12Z"
+    },
+    {
+      "name": "Todo_App",
+      "url": "https://github.com/Brajesh31/Todo_App",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:58:09Z"
+    },
+    {
+      "name": "WeatherApp-Horizon",
+      "url": "https://github.com/Brajesh31/WeatherApp-Horizon",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T08:58:07Z"
+    },
+    {
+      "name": "Breast_Cancer_Detection",
+      "url": "https://github.com/Brajesh31/Breast_Cancer_Detection",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:58:04Z"
+    },
+    {
+      "name": "Analysis-of-products-using-NLP",
+      "url": "https://github.com/Brajesh31/Analysis-of-products-using-NLP",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:58:02Z"
+    },
+    {
+      "name": "Text-Converter",
+      "url": "https://github.com/Brajesh31/Text-Converter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:57:55Z"
+    },
+    {
+      "name": "Payment-gateway",
+      "url": "https://github.com/Brajesh31/Payment-gateway",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:57:32Z"
+    },
+    {
+      "name": "CSS-Grid-Assignment",
+      "url": "https://github.com/Brajesh31/CSS-Grid-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:57:32Z"
+    },
+    {
+      "name": "lock-screen",
+      "url": "https://github.com/Brajesh31/lock-screen",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T08:57:28Z"
+    },
+    {
+      "name": "React_MOVIEAPP",
+      "url": "https://github.com/Brajesh31/React_MOVIEAPP",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:57:23Z"
+    },
+    {
+      "name": "Student_Mentoring_System",
+      "url": "https://github.com/Brajesh31/Student_Mentoring_System",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:57:19Z"
+    },
+    {
+      "name": "Operators-in-JavaScript-Part_2",
+      "url": "https://github.com/Brajesh31/Operators-in-JavaScript-Part_2",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:57:17Z"
+    },
+    {
+      "name": "FIREWALL",
+      "url": "https://github.com/Brajesh31/FIREWALL",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:57:16Z"
+    },
+    {
+      "name": "Image-Generator",
+      "url": "https://github.com/Brajesh31/Image-Generator",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:57:12Z"
+    },
+    {
+      "name": "Air-Passengers-Time-series-forecasting",
+      "url": "https://github.com/Brajesh31/Air-Passengers-Time-series-forecasting",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:57:11Z"
+    },
+    {
+      "name": "React-Movie-Search-App",
+      "url": "https://github.com/Brajesh31/React-Movie-Search-App",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:57:10Z"
+    },
+    {
+      "name": "CV-builder",
+      "url": "https://github.com/Brajesh31/CV-builder",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:57:10Z"
+    },
+    {
+      "name": "Bootstrap-Assignment",
+      "url": "https://github.com/Brajesh31/Bootstrap-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:57:07Z"
+    },
+    {
+      "name": "Face-Recognition",
+      "url": "https://github.com/Brajesh31/Face-Recognition",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:57:06Z"
+    },
+    {
+      "name": "Bifoga",
+      "url": "https://github.com/Brajesh31/Bifoga",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:57:03Z"
+    },
+    {
+      "name": "MetroManagementSystem",
+      "url": "https://github.com/Brajesh31/MetroManagementSystem",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T08:56:39Z"
+    },
+    {
+      "name": "profile-management",
+      "url": "https://github.com/Brajesh31/profile-management",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:56:38Z"
+    },
+    {
+      "name": "FoodStorePopUp",
+      "url": "https://github.com/Brajesh31/FoodStorePopUp",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:56:33Z"
+    },
+    {
+      "name": "Grocery-Store",
+      "url": "https://github.com/Brajesh31/Grocery-Store",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:56:16Z"
+    },
+    {
+      "name": "MazeCrafter",
+      "url": "https://github.com/Brajesh31/MazeCrafter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:56:14Z"
+    },
+    {
+      "name": "Blockchain-Healthcare",
+      "url": "https://github.com/Brajesh31/Blockchain-Healthcare",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:55:58Z"
+    },
+    {
+      "name": "Advanced-CSS",
+      "url": "https://github.com/Brajesh31/Advanced-CSS",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:55:56Z"
+    },
+    {
+      "name": "basil_assignment",
+      "url": "https://github.com/Brajesh31/basil_assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:55:47Z"
+    },
+    {
+      "name": "css-project-one",
+      "url": "https://github.com/Brajesh31/css-project-one",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:55:33Z"
+    },
+    {
+      "name": "CareerCompass",
+      "url": "https://github.com/Brajesh31/CareerCompass",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:55:18Z"
+    },
+    {
+      "name": "Contact-Display",
+      "url": "https://github.com/Brajesh31/Contact-Display",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:54:53Z"
+    },
+    {
+      "name": "Skill-Sharing-Growing",
+      "url": "https://github.com/Brajesh31/Skill-Sharing-Growing",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "SCSS",
+      "updatedAt": "2026-11-10T08:14:15Z"
+    },
+    {
+      "name": "SimpleCalcultor",
+      "url": "https://github.com/Brajesh31/SimpleCalcultor",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:13:48Z"
+    },
+    {
+      "name": "Inventory_Management_System",
+      "url": "https://github.com/Brajesh31/Inventory_Management_System",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:13:48Z"
+    },
+    {
+      "name": "Student-management-shubhcoding",
+      "url": "https://github.com/Brajesh31/Student-management-shubhcoding",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:13:39Z"
+    },
+    {
+      "name": "AI_-Competitor_Analysis",
+      "url": "https://github.com/Brajesh31/AI_-Competitor_Analysis",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:13:35Z"
+    },
+    {
+      "name": "Guess-Number-Game",
+      "url": "https://github.com/Brajesh31/Guess-Number-Game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:13:35Z"
+    },
+    {
+      "name": "Text-Editor-C-",
+      "url": "https://github.com/Brajesh31/Text-Editor-C-",
+      "description": null,
+      "stars": 11,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T08:13:31Z"
+    },
+    {
+      "name": "dr-strange",
+      "url": "https://github.com/Brajesh31/dr-strange",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:13:29Z"
+    },
+    {
+      "name": "wordpress-theme-udemy",
+      "url": "https://github.com/Brajesh31/wordpress-theme-udemy",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:13:27Z"
+    },
+    {
+      "name": "ESV",
+      "url": "https://github.com/Brajesh31/ESV",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:13:21Z"
+    },
+    {
+      "name": "bondforge-studio",
+      "url": "https://github.com/Brajesh31/bondforge-studio",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:13:21Z"
+    },
+    {
+      "name": "Kilimani",
+      "url": "https://github.com/Brajesh31/Kilimani",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:13:16Z"
+    },
+    {
+      "name": "FormValidation",
+      "url": "https://github.com/Brajesh31/FormValidation",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:13:15Z"
+    },
+    {
+      "name": "Starting-with-CSS-Assignment",
+      "url": "https://github.com/Brajesh31/Starting-with-CSS-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:13:14Z"
+    },
+    {
+      "name": "AI-POWERED-PERSCRIPTION-VALIDATOR",
+      "url": "https://github.com/Brajesh31/AI-POWERED-PERSCRIPTION-VALIDATOR",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:13:06Z"
+    },
+    {
+      "name": "compressor",
+      "url": "https://github.com/Brajesh31/compressor",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Rust",
+      "updatedAt": "2026-11-10T08:13:05Z"
+    },
+    {
+      "name": "Lern_Node_CRUD",
+      "url": "https://github.com/Brajesh31/Lern_Node_CRUD",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:12:11Z"
+    },
+    {
+      "name": "getting-started-with-html-assignment1",
+      "url": "https://github.com/Brajesh31/getting-started-with-html-assignment1",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:11:38Z"
+    },
+    {
+      "name": "hotel-listing-website",
+      "url": "https://github.com/Brajesh31/hotel-listing-website",
+      "description": null,
+      "stars": 10,
+      "forks": 1,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:11:37Z"
+    },
+    {
+      "name": "Bank-Management-System",
+      "url": "https://github.com/Brajesh31/Bank-Management-System",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T08:11:30Z"
+    },
+    {
+      "name": "GIFT_U",
+      "url": "https://github.com/Brajesh31/GIFT_U",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:11:23Z"
+    },
+    {
+      "name": "FakeNewsDetection-Flask",
+      "url": "https://github.com/Brajesh31/FakeNewsDetection-Flask",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:11:17Z"
+    },
+    {
+      "name": "ExpenseTrack",
+      "url": "https://github.com/Brajesh31/ExpenseTrack",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:11:15Z"
+    },
+    {
+      "name": "EchoPress",
+      "url": "https://github.com/Brajesh31/EchoPress",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:11:14Z"
+    },
+    {
+      "name": "Country_Location",
+      "url": "https://github.com/Brajesh31/Country_Location",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:10:54Z"
+    },
+    {
+      "name": "Flight-Search-Service",
+      "url": "https://github.com/Brajesh31/Flight-Search-Service",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:10:21Z"
+    },
+    {
+      "name": "phantom_team",
+      "url": "https://github.com/Brajesh31/phantom_team",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:10:15Z"
+    },
+    {
+      "name": "Cryptocurrency-Dashboard",
+      "url": "https://github.com/Brajesh31/Cryptocurrency-Dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:10:04Z"
+    },
+    {
+      "name": "Glaucoma-Detection-NSGA",
+      "url": "https://github.com/Brajesh31/Glaucoma-Detection-NSGA",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:09:52Z"
+    },
+    {
+      "name": "proshop-mern",
+      "url": "https://github.com/Brajesh31/proshop-mern",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:09:43Z"
+    },
+    {
+      "name": "ATOM-Hospital",
+      "url": "https://github.com/Brajesh31/ATOM-Hospital",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:09:43Z"
+    },
+    {
+      "name": "Tic-tac-toe",
+      "url": "https://github.com/Brajesh31/Tic-tac-toe",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:09:42Z"
+    },
+    {
+      "name": "dotsters",
+      "url": "https://github.com/Brajesh31/dotsters",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:09:40Z"
+    },
+    {
+      "name": "Media-and-form-Assignment",
+      "url": "https://github.com/Brajesh31/Media-and-form-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:09:34Z"
+    },
+    {
+      "name": "Airbnb-resources",
+      "url": "https://github.com/Brajesh31/Airbnb-resources",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:09:33Z"
+    },
+    {
+      "name": "saas-landing-page-template",
+      "url": "https://github.com/Brajesh31/saas-landing-page-template",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T08:09:23Z"
+    },
+    {
+      "name": "ecommerce-frontend",
+      "url": "https://github.com/Brajesh31/ecommerce-frontend",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:09:19Z"
+    },
+    {
+      "name": "Simple_Interest_Project_Coursera",
+      "url": "https://github.com/Brajesh31/Simple_Interest_Project_Coursera",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Shell",
+      "updatedAt": "2026-11-10T08:05:56Z"
+    },
+    {
+      "name": "weather-app-wd",
+      "url": "https://github.com/Brajesh31/weather-app-wd",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:05:52Z"
+    },
+    {
+      "name": "carbon-calculator",
+      "url": "https://github.com/Brajesh31/carbon-calculator",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:05:49Z"
+    },
+    {
+      "name": "lbp-face-recognition-svm",
+      "url": "https://github.com/Brajesh31/lbp-face-recognition-svm",
+      "description": "Classical face recognition using Local Binary Pattern features and a Support Vector Machine classifier.",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T08:05:34Z"
+    },
+    {
+      "name": "react-movies",
+      "url": "https://github.com/Brajesh31/react-movies",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:05:34Z"
+    },
+    {
+      "name": "attendance-system-app",
+      "url": "https://github.com/Brajesh31/attendance-system-app",
+      "description": null,
+      "stars": 10,
+      "forks": 1,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:05:20Z"
+    },
+    {
+      "name": "Cervical-Cancer-Prediction",
+      "url": "https://github.com/Brajesh31/Cervical-Cancer-Prediction",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T08:05:19Z"
+    },
+    {
+      "name": "spotify-clone",
+      "url": "https://github.com/Brajesh31/spotify-clone",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:05:18Z"
+    },
+    {
+      "name": "qrcode-gen-master",
+      "url": "https://github.com/Brajesh31/qrcode-gen-master",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T08:05:13Z"
+    },
+    {
+      "name": "r_guessing_game",
+      "url": "https://github.com/Brajesh31/r_guessing_game",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Rust",
+      "updatedAt": "2026-11-10T08:05:08Z"
+    },
+    {
+      "name": "NIC-detailExtracter",
+      "url": "https://github.com/Brajesh31/NIC-detailExtracter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:04:10Z"
+    },
+    {
+      "name": "Eye-Blink-Detection",
+      "url": "https://github.com/Brajesh31/Eye-Blink-Detection",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T08:04:09Z"
+    },
+    {
+      "name": "mini-operation-system-scheduler",
+      "url": "https://github.com/Brajesh31/mini-operation-system-scheduler",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T08:01:49Z"
+    },
+    {
+      "name": "Core-HTML-Assignment",
+      "url": "https://github.com/Brajesh31/Core-HTML-Assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T08:01:49Z"
+    },
+    {
+      "name": "Red-Pill-Coders-Hackathon-Submission",
+      "url": "https://github.com/Brajesh31/Red-Pill-Coders-Hackathon-Submission",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T08:00:41Z"
+    },
+    {
+      "name": "Url-shortening-",
+      "url": "https://github.com/Brajesh31/Url-shortening-",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T07:59:16Z"
+    },
+    {
+      "name": "Delight-Food-Delivery-Frontend",
+      "url": "https://github.com/Brajesh31/Delight-Food-Delivery-Frontend",
+      "description": null,
+      "stars": 11,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:59:09Z"
+    },
+    {
+      "name": "PASSWORD-MANAGER-USING-HTML-CSS-AND-JS",
+      "url": "https://github.com/Brajesh31/PASSWORD-MANAGER-USING-HTML-CSS-AND-JS",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:57:42Z"
+    },
+    {
+      "name": "Git_GitHub",
+      "url": "https://github.com/Brajesh31/Git_GitHub",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T07:57:29Z"
+    },
+    {
+      "name": "AlexEmpire",
+      "url": "https://github.com/Brajesh31/AlexEmpire",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:56:14Z"
+    },
+    {
+      "name": "student-dashboard",
+      "url": "https://github.com/Brajesh31/student-dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
+      "updatedAt": "2026-11-10T07:55:35Z"
+    },
+    {
+      "name": "Stem-AI",
+      "url": "https://github.com/Brajesh31/Stem-AI",
+      "description": "Created with StackBlitz ⚡️",
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:55:05Z"
+    },
+    {
+      "name": "3-DPortfolio",
+      "url": "https://github.com/Brajesh31/3-DPortfolio",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:54:30Z"
+    },
+    {
+      "name": "SimpleNotes",
+      "url": "https://github.com/Brajesh31/SimpleNotes",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Kotlin",
+      "updatedAt": "2026-11-10T07:54:21Z"
+    },
+    {
+      "name": "Signature-App",
+      "url": "https://github.com/Brajesh31/Signature-App",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:54:19Z"
+    },
+    {
+      "name": "Flexbox-in-CSS",
+      "url": "https://github.com/Brajesh31/Flexbox-in-CSS",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T07:54:05Z"
+    },
+    {
+      "name": "myscout-app",
+      "url": "https://github.com/Brajesh31/myscout-app",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Vue",
+      "updatedAt": "2026-11-10T07:54:03Z"
+    },
+    {
+      "name": "emma",
+      "url": "https://github.com/Brajesh31/emma",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:53:59Z"
+    },
+    {
+      "name": "ExpenseTracker",
+      "url": "https://github.com/Brajesh31/ExpenseTracker",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:53:50Z"
+    },
+    {
+      "name": "wandira-travel",
+      "url": "https://github.com/Brajesh31/wandira-travel",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:52:35Z"
+    },
+    {
+      "name": "image-analysis-for-segmentation-of-grayscale-image",
+      "url": "https://github.com/Brajesh31/image-analysis-for-segmentation-of-grayscale-image",
+      "description": null,
+      "stars": 9,
+      "forks": 0,
+      "language": "MATLAB",
+      "updatedAt": "2026-11-10T07:52:14Z"
+    },
+    {
+      "name": "UniTrack",
+      "url": "https://github.com/Brajesh31/UniTrack",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T07:52:13Z"
+    },
+    {
+      "name": "Budget-Bloom",
+      "url": "https://github.com/Brajesh31/Budget-Bloom",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:52:02Z"
+    },
+    {
+      "name": "MachineLearning_with_AT",
+      "url": "https://github.com/Brajesh31/MachineLearning_with_AT",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T07:51:52Z"
+    },
+    {
+      "name": "data-salary-dashboard",
+      "url": "https://github.com/Brajesh31/data-salary-dashboard",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T07:51:35Z"
+    },
+    {
+      "name": "Upcoming-Matches-List",
+      "url": "https://github.com/Brajesh31/Upcoming-Matches-List",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:51:27Z"
+    },
+    {
+      "name": "AQI-Finder-Using-Python",
+      "url": "https://github.com/Brajesh31/AQI-Finder-Using-Python",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T07:51:17Z"
+    },
+    {
+      "name": "Ai-Interview-Mocker",
+      "url": "https://github.com/Brajesh31/Ai-Interview-Mocker",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:51:17Z"
+    },
+    {
+      "name": "guess-my-number-javascript",
+      "url": "https://github.com/Brajesh31/guess-my-number-javascript",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:51:15Z"
+    },
+    {
+      "name": "Cab_Booking_System",
+      "url": "https://github.com/Brajesh31/Cab_Booking_System",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Java",
+      "updatedAt": "2026-11-10T07:50:46Z"
+    },
+    {
+      "name": "Contact-Searching-Application",
+      "url": "https://github.com/Brajesh31/Contact-Searching-Application",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:50:40Z"
+    },
+    {
+      "name": "Medical-Website",
+      "url": "https://github.com/Brajesh31/Medical-Website",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T07:50:33Z"
+    },
+    {
+      "name": "wellEat",
+      "url": "https://github.com/Brajesh31/wellEat",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T07:50:26Z"
+    },
+    {
+      "name": "Mini-Gemini",
+      "url": "https://github.com/Brajesh31/Mini-Gemini",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T07:50:22Z"
+    },
+    {
+      "name": "To-Do-List",
+      "url": "https://github.com/Brajesh31/To-Do-List",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:50:19Z"
+    },
+    {
+      "name": "dare-you",
+      "url": "https://github.com/Brajesh31/dare-you",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:50:06Z"
+    },
+    {
+      "name": "Grocery-Reminder-2",
+      "url": "https://github.com/Brajesh31/Grocery-Reminder-2",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Kotlin",
+      "updatedAt": "2026-11-10T07:49:48Z"
+    },
+    {
+      "name": "House-Price-Prediction",
+      "url": "https://github.com/Brajesh31/House-Price-Prediction",
+      "description": null,
+      "stars": 1,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T07:49:42Z"
+    },
+    {
+      "name": "Link-Archive",
+      "url": "https://github.com/Brajesh31/Link-Archive",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T07:49:36Z"
+    },
+    {
+      "name": "Nova",
+      "url": "https://github.com/Brajesh31/Nova",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:49:32Z"
+    },
+    {
+      "name": "Stock-Management-application",
+      "url": "https://github.com/Brajesh31/Stock-Management-application",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:49:31Z"
+    },
+    {
+      "name": "EcoAware",
+      "url": "https://github.com/Brajesh31/EcoAware",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T07:49:18Z"
+    },
+    {
+      "name": "mCalc",
+      "url": "https://github.com/Brajesh31/mCalc",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:49:16Z"
+    },
+    {
+      "name": "Fest-Event-App-Frontend",
+      "url": "https://github.com/Brajesh31/Fest-Event-App-Frontend",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:49:08Z"
+    },
+    {
+      "name": "garbage-controller-C-",
+      "url": "https://github.com/Brajesh31/garbage-controller-C-",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T07:48:58Z"
+    },
+    {
+      "name": "World-Time-App",
+      "url": "https://github.com/Brajesh31/World-Time-App",
+      "description": "This is the repo for the world time flutter app with APIs and DB connection",
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:05:51Z"
+    },
+    {
+      "name": "tetrablocks",
+      "url": "https://github.com/Brajesh31/tetrablocks",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:05:47Z"
+    },
+    {
+      "name": "ean13-bar-code-Generator",
+      "url": "https://github.com/Brajesh31/ean13-bar-code-Generator",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:05:44Z"
+    },
+    {
+      "name": "Airline-Ticket-Prediction-Analysis",
+      "url": "https://github.com/Brajesh31/Airline-Ticket-Prediction-Analysis",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T07:05:42Z"
+    },
+    {
+      "name": "Township-Management-System",
+      "url": "https://github.com/Brajesh31/Township-Management-System",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:05:41Z"
+    },
+    {
+      "name": "STONE-PAPER-SCISSOR",
+      "url": "https://github.com/Brajesh31/STONE-PAPER-SCISSOR",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:05:28Z"
+    },
+    {
+      "name": "Snacks-World",
+      "url": "https://github.com/Brajesh31/Snacks-World",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "PHP",
+      "updatedAt": "2026-11-10T07:05:26Z"
+    },
+    {
+      "name": "word_counter",
+      "url": "https://github.com/Brajesh31/word_counter",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:05:25Z"
+    },
+    {
+      "name": "Hacktoberfest2023",
+      "url": "https://github.com/Brajesh31/Hacktoberfest2023",
+      "description": null,
+      "stars": 10,
+      "forks": 1,
+      "language": "Java",
+      "updatedAt": "2026-11-10T07:05:22Z"
+    },
+    {
+      "name": "ZigaoWang",
+      "url": "https://github.com/Brajesh31/ZigaoWang",
+      "description": "Profile Repo",
+      "stars": 11,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T07:05:05Z"
+    },
+    {
+      "name": "LoanPredictor",
+      "url": "https://github.com/Brajesh31/LoanPredictor",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:05:04Z"
+    },
+    {
+      "name": "FoodOrderingApp",
+      "url": "https://github.com/Brajesh31/FoodOrderingApp",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:04:38Z"
+    },
+    {
+      "name": "Android-Development",
+      "url": "https://github.com/Brajesh31/Android-Development",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Kotlin",
+      "updatedAt": "2026-11-10T07:04:34Z"
+    },
+    {
+      "name": "myPen",
+      "url": "https://github.com/Brajesh31/myPen",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:04:29Z"
+    },
+    {
+      "name": "Veloxa",
+      "url": "https://github.com/Brajesh31/Veloxa",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:04:27Z"
+    },
+    {
+      "name": "Github-User-Finder",
+      "url": "https://github.com/Brajesh31/Github-User-Finder",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:04:00Z"
+    },
+    {
+      "name": "cube",
+      "url": "https://github.com/Brajesh31/cube",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C++",
+      "updatedAt": "2026-11-10T07:03:53Z"
+    },
+    {
+      "name": "E_Commers",
+      "url": "https://github.com/Brajesh31/E_Commers",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-10T07:03:45Z"
+    },
+    {
+      "name": "Skill_share_grow_final",
+      "url": "https://github.com/Brajesh31/Skill_share_grow_final",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:03:44Z"
+    },
+    {
+      "name": "multi-agent-observability-opentelemetry",
+      "url": "https://github.com/Brajesh31/multi-agent-observability-opentelemetry",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-10T07:03:40Z"
+    },
+    {
+      "name": "PassMan-Your-personal-password-manager",
+      "url": "https://github.com/Brajesh31/PassMan-Your-personal-password-manager",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-10T07:03:38Z"
+    },
+    {
+      "name": "bizradar-insights",
+      "url": "https://github.com/Brajesh31/bizradar-insights",
+      "description": null,
+      "stars": 1,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-10T07:03:38Z"
+    },
+    {
+      "name": "Fake-News-Prediction",
+      "url": "https://github.com/Brajesh31/Fake-News-Prediction",
+      "description": null,
+      "stars": 9,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-10T07:03:37Z"
+    },
+    {
+      "name": "yurijserrano",
+      "url": "https://github.com/Brajesh31/yurijserrano",
+      "description": "My Github Profile README :sunglasses:",
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-10T05:35:18Z"
+    },
+    {
+      "name": "MultiThreadedProxyServer",
+      "url": "https://github.com/Brajesh31/MultiThreadedProxyServer",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
+      "updatedAt": "2026-11-10T05:34:17Z"
     },
     {
       "name": "claude-ai-release-hunter-skill",
@@ -1422,348 +3393,6 @@
       "updatedAt": "2026-11-09T07:41:27Z"
     },
     {
-      "name": "Flight_Booking_Web_App_Client",
-      "url": "https://github.com/Brajesh31/Flight_Booking_Web_App_Client",
-      "description": null,
-      "stars": 11,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:39:14Z"
-    },
-    {
-      "name": "PingPanda_AI_SaaS_Monitoring_Platform",
-      "url": "https://github.com/Brajesh31/PingPanda_AI_SaaS_Monitoring_Platform",
-      "description": null,
-      "stars": 11,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:39:10Z"
-    },
-    {
-      "name": "Sampark-AI",
-      "url": "https://github.com/Brajesh31/Sampark-AI",
-      "description": null,
-      "stars": 11,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:39:04Z"
-    },
-    {
-      "name": "Anime-Book-Store",
-      "url": "https://github.com/Brajesh31/Anime-Book-Store",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:38:47Z"
-    },
-    {
-      "name": "alien-invasion-game",
-      "url": "https://github.com/Brajesh31/alien-invasion-game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:38:39Z"
-    },
-    {
-      "name": "Real-Estate-business",
-      "url": "https://github.com/Brajesh31/Real-Estate-business",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:38:35Z"
-    },
-    {
-      "name": "OllamaDiscordBot",
-      "url": "https://github.com/Brajesh31/OllamaDiscordBot",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:38:29Z"
-    },
-    {
-      "name": "LangSQL",
-      "url": "https://github.com/Brajesh31/LangSQL",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:38:08Z"
-    },
-    {
-      "name": "fastapi-py",
-      "url": "https://github.com/Brajesh31/fastapi-py",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:38:06Z"
-    },
-    {
-      "name": "traffic_analyzer",
-      "url": "https://github.com/Brajesh31/traffic_analyzer",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:38:05Z"
-    },
-    {
-      "name": "MATLAB_FingerPrint",
-      "url": "https://github.com/Brajesh31/MATLAB_FingerPrint",
-      "description": null,
-      "stars": 9,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:38:02Z"
-    },
-    {
-      "name": "DailyDo",
-      "url": "https://github.com/Brajesh31/DailyDo",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:37:51Z"
-    },
-    {
-      "name": "Positions-in-CSS-Assignment",
-      "url": "https://github.com/Brajesh31/Positions-in-CSS-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:37:49Z"
-    },
-    {
-      "name": "DIGIBHEM",
-      "url": "https://github.com/Brajesh31/DIGIBHEM",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:37:48Z"
-    },
-    {
-      "name": "NextGenSquadX",
-      "url": "https://github.com/Brajesh31/NextGenSquadX",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:37:48Z"
-    },
-    {
-      "name": "gupt",
-      "url": "https://github.com/Brajesh31/gupt",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T07:37:13Z"
-    },
-    {
-      "name": "Digital-Clock",
-      "url": "https://github.com/Brajesh31/Digital-Clock",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:37:10Z"
-    },
-    {
-      "name": "fast-react-pizza-typescript-app",
-      "url": "https://github.com/Brajesh31/fast-react-pizza-typescript-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:37:09Z"
-    },
-    {
-      "name": "emotion-detector",
-      "url": "https://github.com/Brajesh31/emotion-detector",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:37:09Z"
-    },
-    {
-      "name": "Scratch-detection-project",
-      "url": "https://github.com/Brajesh31/Scratch-detection-project",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:37:09Z"
-    },
-    {
-      "name": "school-laravel-project",
-      "url": "https://github.com/Brajesh31/school-laravel-project",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "PHP",
-      "updatedAt": "2026-11-09T07:37:08Z"
-    },
-    {
-      "name": "Heart_Disease_Prediction-master",
-      "url": "https://github.com/Brajesh31/Heart_Disease_Prediction-master",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:37:05Z"
-    },
-    {
-      "name": "student_management_system",
-      "url": "https://github.com/Brajesh31/student_management_system",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:36:55Z"
-    },
-    {
-      "name": "Video-quality-conversion-SD-to-HD--main",
-      "url": "https://github.com/Brajesh31/Video-quality-conversion-SD-to-HD--main",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:36:54Z"
-    },
-    {
-      "name": "Modern-HTML-Assignment",
-      "url": "https://github.com/Brajesh31/Modern-HTML-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:36:50Z"
-    },
-    {
-      "name": "memory-game",
-      "url": "https://github.com/Brajesh31/memory-game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:36:48Z"
-    },
-    {
-      "name": "trigger",
-      "url": "https://github.com/Brajesh31/trigger",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:36:48Z"
-    },
-    {
-      "name": "More-on-CSS-Assignment",
-      "url": "https://github.com/Brajesh31/More-on-CSS-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:36:44Z"
-    },
-    {
-      "name": "React-Pagination",
-      "url": "https://github.com/Brajesh31/React-Pagination",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:36:20Z"
-    },
-    {
-      "name": "Disaster-Management--Inohax-1.0",
-      "url": "https://github.com/Brajesh31/Disaster-Management--Inohax-1.0",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:35:52Z"
-    },
-    {
-      "name": "Admission-Prediction",
-      "url": "https://github.com/Brajesh31/Admission-Prediction",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:35:48Z"
-    },
-    {
-      "name": "Sliding-Window",
-      "url": "https://github.com/Brajesh31/Sliding-Window",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T07:35:39Z"
-    },
-    {
-      "name": "AI-Powered-Task-Optimizer",
-      "url": "https://github.com/Brajesh31/AI-Powered-Task-Optimizer",
-      "description": "This project focuses on leveraging data science and machine learning techniques to analyze employee emotions and moods using data such as text inputs, facial expressions, or speech.",
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:35:30Z"
-    },
-    {
-      "name": "REUNITE",
-      "url": "https://github.com/Brajesh31/REUNITE",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:35:23Z"
-    },
-    {
-      "name": "Robotic-Process-Automation-UiPath",
-      "url": "https://github.com/Brajesh31/Robotic-Process-Automation-UiPath",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:35:23Z"
-    },
-    {
-      "name": "Spotify-Clonee",
-      "url": "https://github.com/Brajesh31/Spotify-Clonee",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:35:19Z"
-    },
-    {
-      "name": "music-player",
-      "url": "https://github.com/Brajesh31/music-player",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:35:14Z"
-    },
-    {
-      "name": "education-dashboard",
-      "url": "https://github.com/Brajesh31/education-dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:35:04Z"
-    },
-    {
       "name": "claude-ai-directory-submitter-skill",
       "url": "https://github.com/Brajesh31/claude-ai-directory-submitter-skill",
       "description": null,
@@ -1780,1635 +3409,6 @@
       "forks": 0,
       "language": null,
       "updatedAt": "2026-11-09T07:33:58Z"
-    },
-    {
-      "name": "Art-Gallery",
-      "url": "https://github.com/Brajesh31/Art-Gallery",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:33:23Z"
-    },
-    {
-      "name": "Hangman-Web",
-      "url": "https://github.com/Brajesh31/Hangman-Web",
-      "description": null,
-      "stars": 9,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:33:21Z"
-    },
-    {
-      "name": "Text_to_Speech",
-      "url": "https://github.com/Brajesh31/Text_to_Speech",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:33:20Z"
-    },
-    {
-      "name": "MULTITHREADED-CHAT-APPLICATION",
-      "url": "https://github.com/Brajesh31/MULTITHREADED-CHAT-APPLICATION",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T07:33:12Z"
-    },
-    {
-      "name": "blog-management-system-laravel-vue-app",
-      "url": "https://github.com/Brajesh31/blog-management-system-laravel-vue-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Vue",
-      "updatedAt": "2026-11-09T07:32:55Z"
-    },
-    {
-      "name": "SEO-Assignment",
-      "url": "https://github.com/Brajesh31/SEO-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:32:54Z"
-    },
-    {
-      "name": "food-ordering-app-mern-stack-frontend",
-      "url": "https://github.com/Brajesh31/food-ordering-app-mern-stack-frontend",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:32:46Z"
-    },
-    {
-      "name": "food-ordering",
-      "url": "https://github.com/Brajesh31/food-ordering",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:32:25Z"
-    },
-    {
-      "name": "API-Gateway-Tripzy",
-      "url": "https://github.com/Brajesh31/API-Gateway-Tripzy",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:32:14Z"
-    },
-    {
-      "name": "RadarScope",
-      "url": "https://github.com/Brajesh31/RadarScope",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:32:01Z"
-    },
-    {
-      "name": "flexlayout-vite-example",
-      "url": "https://github.com/Brajesh31/flexlayout-vite-example",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:31:50Z"
-    },
-    {
-      "name": "Flights-Booking-Service",
-      "url": "https://github.com/Brajesh31/Flights-Booking-Service",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:31:45Z"
-    },
-    {
-      "name": "QuizTube",
-      "url": "https://github.com/Brajesh31/QuizTube",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:31:30Z"
-    },
-    {
-      "name": "Aahar-AI",
-      "url": "https://github.com/Brajesh31/Aahar-AI",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:31:27Z"
-    },
-    {
-      "name": "CRM-Laravel",
-      "url": "https://github.com/Brajesh31/CRM-Laravel",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "PHP",
-      "updatedAt": "2026-11-09T07:31:20Z"
-    },
-    {
-      "name": "NewsTraker",
-      "url": "https://github.com/Brajesh31/NewsTraker",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:29:36Z"
-    },
-    {
-      "name": "Number_guessing_game",
-      "url": "https://github.com/Brajesh31/Number_guessing_game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:29:27Z"
-    },
-    {
-      "name": "Voting_Application",
-      "url": "https://github.com/Brajesh31/Voting_Application",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:29:20Z"
-    },
-    {
-      "name": "Theme-color-switcher",
-      "url": "https://github.com/Brajesh31/Theme-color-switcher",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:29:19Z"
-    },
-    {
-      "name": "LearnReactGDSC",
-      "url": "https://github.com/Brajesh31/LearnReactGDSC",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:29:11Z"
-    },
-    {
-      "name": "Merchant_Dashboard",
-      "url": "https://github.com/Brajesh31/Merchant_Dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:29:07Z"
-    },
-    {
-      "name": "kfc",
-      "url": "https://github.com/Brajesh31/kfc",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:29:07Z"
-    },
-    {
-      "name": "Asim-Library",
-      "url": "https://github.com/Brajesh31/Asim-Library",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T07:29:06Z"
-    },
-    {
-      "name": "Image-Search-Website",
-      "url": "https://github.com/Brajesh31/Image-Search-Website",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T07:29:06Z"
-    },
-    {
-      "name": "Laravel-E-Commerce-Project",
-      "url": "https://github.com/Brajesh31/Laravel-E-Commerce-Project",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:29:03Z"
-    },
-    {
-      "name": "Notification-Service-Tripzy",
-      "url": "https://github.com/Brajesh31/Notification-Service-Tripzy",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:28:13Z"
-    },
-    {
-      "name": "Federated-Learning-Healthcare-Diabetes",
-      "url": "https://github.com/Brajesh31/Federated-Learning-Healthcare-Diabetes",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:28:11Z"
-    },
-    {
-      "name": "Media-Query-Assignment",
-      "url": "https://github.com/Brajesh31/Media-Query-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:28:06Z"
-    },
-    {
-      "name": "ArcherE-Bank",
-      "url": "https://github.com/Brajesh31/ArcherE-Bank",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:28:05Z"
-    },
-    {
-      "name": "Whether-web",
-      "url": "https://github.com/Brajesh31/Whether-web",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T07:28:05Z"
-    },
-    {
-      "name": "Covid-Detection",
-      "url": "https://github.com/Brajesh31/Covid-Detection",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:27:58Z"
-    },
-    {
-      "name": "AI-and-Machine-Learning",
-      "url": "https://github.com/Brajesh31/AI-and-Machine-Learning",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:27:58Z"
-    },
-    {
-      "name": "Native-Music-App",
-      "url": "https://github.com/Brajesh31/Native-Music-App",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:27:57Z"
-    },
-    {
-      "name": "Not-to-do-list-backend",
-      "url": "https://github.com/Brajesh31/Not-to-do-list-backend",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:27:54Z"
-    },
-    {
-      "name": "Random-Quote-Generator",
-      "url": "https://github.com/Brajesh31/Random-Quote-Generator",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:27:50Z"
-    },
-    {
-      "name": "Todo_App",
-      "url": "https://github.com/Brajesh31/Todo_App",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:27:47Z"
-    },
-    {
-      "name": "WeatherApp-Horizon",
-      "url": "https://github.com/Brajesh31/WeatherApp-Horizon",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T07:27:46Z"
-    },
-    {
-      "name": "Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
-      "url": "https://github.com/Brajesh31/Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:27:36Z"
-    },
-    {
-      "name": "Breast_Cancer_Detection",
-      "url": "https://github.com/Brajesh31/Breast_Cancer_Detection",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:27:35Z"
-    },
-    {
-      "name": "Analysis-of-products-using-NLP",
-      "url": "https://github.com/Brajesh31/Analysis-of-products-using-NLP",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:27:34Z"
-    },
-    {
-      "name": "Text-Converter",
-      "url": "https://github.com/Brajesh31/Text-Converter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:27:25Z"
-    },
-    {
-      "name": "CSS-Grid-Assignment",
-      "url": "https://github.com/Brajesh31/CSS-Grid-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:26:37Z"
-    },
-    {
-      "name": "Payment-gateway",
-      "url": "https://github.com/Brajesh31/Payment-gateway",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:26:32Z"
-    },
-    {
-      "name": "Student_Mentoring_System",
-      "url": "https://github.com/Brajesh31/Student_Mentoring_System",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:26:15Z"
-    },
-    {
-      "name": "FIREWALL",
-      "url": "https://github.com/Brajesh31/FIREWALL",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:26:13Z"
-    },
-    {
-      "name": "React-Movie-Search-App",
-      "url": "https://github.com/Brajesh31/React-Movie-Search-App",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:26:12Z"
-    },
-    {
-      "name": "React_MOVIEAPP",
-      "url": "https://github.com/Brajesh31/React_MOVIEAPP",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:26:11Z"
-    },
-    {
-      "name": "Operators-in-JavaScript-Part_2",
-      "url": "https://github.com/Brajesh31/Operators-in-JavaScript-Part_2",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:26:11Z"
-    },
-    {
-      "name": "CV-builder",
-      "url": "https://github.com/Brajesh31/CV-builder",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T07:26:09Z"
-    },
-    {
-      "name": "lock-screen",
-      "url": "https://github.com/Brajesh31/lock-screen",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T07:26:08Z"
-    },
-    {
-      "name": "Face-Recognition",
-      "url": "https://github.com/Brajesh31/Face-Recognition",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:26:07Z"
-    },
-    {
-      "name": "Bootstrap-Assignment",
-      "url": "https://github.com/Brajesh31/Bootstrap-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:26:07Z"
-    },
-    {
-      "name": "Air-Passengers-Time-series-forecasting",
-      "url": "https://github.com/Brajesh31/Air-Passengers-Time-series-forecasting",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:26:04Z"
-    },
-    {
-      "name": "Bifoga",
-      "url": "https://github.com/Brajesh31/Bifoga",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:26:03Z"
-    },
-    {
-      "name": "Image-Generator",
-      "url": "https://github.com/Brajesh31/Image-Generator",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T07:25:41Z"
-    },
-    {
-      "name": "MetroManagementSystem",
-      "url": "https://github.com/Brajesh31/MetroManagementSystem",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T07:25:38Z"
-    },
-    {
-      "name": "profile-management",
-      "url": "https://github.com/Brajesh31/profile-management",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:25:35Z"
-    },
-    {
-      "name": "Grocery-Store",
-      "url": "https://github.com/Brajesh31/Grocery-Store",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:25:29Z"
-    },
-    {
-      "name": "MazeCrafter",
-      "url": "https://github.com/Brajesh31/MazeCrafter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:25:09Z"
-    },
-    {
-      "name": "Advanced-CSS",
-      "url": "https://github.com/Brajesh31/Advanced-CSS",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:24:33Z"
-    },
-    {
-      "name": "FoodStorePopUp",
-      "url": "https://github.com/Brajesh31/FoodStorePopUp",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:24:33Z"
-    },
-    {
-      "name": "Blockchain-Healthcare",
-      "url": "https://github.com/Brajesh31/Blockchain-Healthcare",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:24:16Z"
-    },
-    {
-      "name": "basil_assignment",
-      "url": "https://github.com/Brajesh31/basil_assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:24:11Z"
-    },
-    {
-      "name": "css-project-one",
-      "url": "https://github.com/Brajesh31/css-project-one",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:24:04Z"
-    },
-    {
-      "name": "CareerCompass",
-      "url": "https://github.com/Brajesh31/CareerCompass",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:23:52Z"
-    },
-    {
-      "name": "NIC-detailExtracter",
-      "url": "https://github.com/Brajesh31/NIC-detailExtracter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:23:43Z"
-    },
-    {
-      "name": "Eye-Blink-Detection",
-      "url": "https://github.com/Brajesh31/Eye-Blink-Detection",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:23:42Z"
-    },
-    {
-      "name": "Contact-Display",
-      "url": "https://github.com/Brajesh31/Contact-Display",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:23:19Z"
-    },
-    {
-      "name": "Red-Pill-Coders-Hackathon-Submission",
-      "url": "https://github.com/Brajesh31/Red-Pill-Coders-Hackathon-Submission",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:23:10Z"
-    },
-    {
-      "name": "mini-operation-system-scheduler",
-      "url": "https://github.com/Brajesh31/mini-operation-system-scheduler",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T07:23:06Z"
-    },
-    {
-      "name": "Core-HTML-Assignment",
-      "url": "https://github.com/Brajesh31/Core-HTML-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:22:43Z"
-    },
-    {
-      "name": "Git_GitHub",
-      "url": "https://github.com/Brajesh31/Git_GitHub",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:22:43Z"
-    },
-    {
-      "name": "Delight-Food-Delivery-Frontend",
-      "url": "https://github.com/Brajesh31/Delight-Food-Delivery-Frontend",
-      "description": null,
-      "stars": 11,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:22:36Z"
-    },
-    {
-      "name": "PASSWORD-MANAGER-USING-HTML-CSS-AND-JS",
-      "url": "https://github.com/Brajesh31/PASSWORD-MANAGER-USING-HTML-CSS-AND-JS",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:22:33Z"
-    },
-    {
-      "name": "Url-shortening-",
-      "url": "https://github.com/Brajesh31/Url-shortening-",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:22:30Z"
-    },
-    {
-      "name": "student-dashboard",
-      "url": "https://github.com/Brajesh31/student-dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T07:22:07Z"
-    },
-    {
-      "name": "AlexEmpire",
-      "url": "https://github.com/Brajesh31/AlexEmpire",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:22:04Z"
-    },
-    {
-      "name": "Stem-AI",
-      "url": "https://github.com/Brajesh31/Stem-AI",
-      "description": "Created with StackBlitz ⚡️",
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:22:00Z"
-    },
-    {
-      "name": "Signature-App",
-      "url": "https://github.com/Brajesh31/Signature-App",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:21:49Z"
-    },
-    {
-      "name": "ExpenseTracker",
-      "url": "https://github.com/Brajesh31/ExpenseTracker",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:21:45Z"
-    },
-    {
-      "name": "myscout-app",
-      "url": "https://github.com/Brajesh31/myscout-app",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Vue",
-      "updatedAt": "2026-11-09T07:21:45Z"
-    },
-    {
-      "name": "SimpleNotes",
-      "url": "https://github.com/Brajesh31/SimpleNotes",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Kotlin",
-      "updatedAt": "2026-11-09T07:21:41Z"
-    },
-    {
-      "name": "Flexbox-in-CSS",
-      "url": "https://github.com/Brajesh31/Flexbox-in-CSS",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:21:39Z"
-    },
-    {
-      "name": "3-DPortfolio",
-      "url": "https://github.com/Brajesh31/3-DPortfolio",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:21:38Z"
-    },
-    {
-      "name": "emma",
-      "url": "https://github.com/Brajesh31/emma",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:21:25Z"
-    },
-    {
-      "name": "UniTrack",
-      "url": "https://github.com/Brajesh31/UniTrack",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T07:20:52Z"
-    },
-    {
-      "name": "wandira-travel",
-      "url": "https://github.com/Brajesh31/wandira-travel",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:20:25Z"
-    },
-    {
-      "name": "Budget-Bloom",
-      "url": "https://github.com/Brajesh31/Budget-Bloom",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:20:16Z"
-    },
-    {
-      "name": "AQI-Finder-Using-Python",
-      "url": "https://github.com/Brajesh31/AQI-Finder-Using-Python",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:20:15Z"
-    },
-    {
-      "name": "Upcoming-Matches-List",
-      "url": "https://github.com/Brajesh31/Upcoming-Matches-List",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:20:10Z"
-    },
-    {
-      "name": "image-analysis-for-segmentation-of-grayscale-image",
-      "url": "https://github.com/Brajesh31/image-analysis-for-segmentation-of-grayscale-image",
-      "description": null,
-      "stars": 9,
-      "forks": 0,
-      "language": "MATLAB",
-      "updatedAt": "2026-11-09T07:20:08Z"
-    },
-    {
-      "name": "guess-my-number-javascript",
-      "url": "https://github.com/Brajesh31/guess-my-number-javascript",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:20:07Z"
-    },
-    {
-      "name": "Ai-Interview-Mocker",
-      "url": "https://github.com/Brajesh31/Ai-Interview-Mocker",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:20:02Z"
-    },
-    {
-      "name": "Cab_Booking_System",
-      "url": "https://github.com/Brajesh31/Cab_Booking_System",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T07:19:53Z"
-    },
-    {
-      "name": "data-salary-dashboard",
-      "url": "https://github.com/Brajesh31/data-salary-dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:19:53Z"
-    },
-    {
-      "name": "Medical-Website",
-      "url": "https://github.com/Brajesh31/Medical-Website",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:19:49Z"
-    },
-    {
-      "name": "wellEat",
-      "url": "https://github.com/Brajesh31/wellEat",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:19:49Z"
-    },
-    {
-      "name": "Contact-Searching-Application",
-      "url": "https://github.com/Brajesh31/Contact-Searching-Application",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T07:19:48Z"
-    },
-    {
-      "name": "To-Do-List",
-      "url": "https://github.com/Brajesh31/To-Do-List",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:19:15Z"
-    },
-    {
-      "name": "MachineLearning_with_AT",
-      "url": "https://github.com/Brajesh31/MachineLearning_with_AT",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:18:36Z"
-    },
-    {
-      "name": "Mini-Gemini",
-      "url": "https://github.com/Brajesh31/Mini-Gemini",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T07:18:35Z"
-    },
-    {
-      "name": "Grocery-Reminder-2",
-      "url": "https://github.com/Brajesh31/Grocery-Reminder-2",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Kotlin",
-      "updatedAt": "2026-11-09T07:18:23Z"
-    },
-    {
-      "name": "dare-you",
-      "url": "https://github.com/Brajesh31/dare-you",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:18:11Z"
-    },
-    {
-      "name": "Link-Archive",
-      "url": "https://github.com/Brajesh31/Link-Archive",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T07:18:11Z"
-    },
-    {
-      "name": "Stock-Management-application",
-      "url": "https://github.com/Brajesh31/Stock-Management-application",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:18:09Z"
-    },
-    {
-      "name": "House-Price-Prediction",
-      "url": "https://github.com/Brajesh31/House-Price-Prediction",
-      "description": null,
-      "stars": 1,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T07:18:02Z"
-    },
-    {
-      "name": "EcoAware",
-      "url": "https://github.com/Brajesh31/EcoAware",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T07:17:47Z"
-    },
-    {
-      "name": "Fest-Event-App-Frontend",
-      "url": "https://github.com/Brajesh31/Fest-Event-App-Frontend",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T07:17:43Z"
-    },
-    {
-      "name": "Nova",
-      "url": "https://github.com/Brajesh31/Nova",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T07:17:35Z"
-    },
-    {
-      "name": "garbage-controller-C-",
-      "url": "https://github.com/Brajesh31/garbage-controller-C-",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T07:17:29Z"
-    },
-    {
-      "name": "mCalc",
-      "url": "https://github.com/Brajesh31/mCalc",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T07:17:17Z"
-    },
-    {
-      "name": "Skill-Sharing-Growing",
-      "url": "https://github.com/Brajesh31/Skill-Sharing-Growing",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "SCSS",
-      "updatedAt": "2026-11-09T05:56:50Z"
-    },
-    {
-      "name": "dr-strange",
-      "url": "https://github.com/Brajesh31/dr-strange",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:56:18Z"
-    },
-    {
-      "name": "Inventory_Management_System",
-      "url": "https://github.com/Brajesh31/Inventory_Management_System",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:55:53Z"
-    },
-    {
-      "name": "Student-management-shubhcoding",
-      "url": "https://github.com/Brajesh31/Student-management-shubhcoding",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T05:55:50Z"
-    },
-    {
-      "name": "FormValidation",
-      "url": "https://github.com/Brajesh31/FormValidation",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:55:13Z"
-    },
-    {
-      "name": "SimpleCalcultor",
-      "url": "https://github.com/Brajesh31/SimpleCalcultor",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:54:43Z"
-    },
-    {
-      "name": "AI_-Competitor_Analysis",
-      "url": "https://github.com/Brajesh31/AI_-Competitor_Analysis",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:54:39Z"
-    },
-    {
-      "name": "ESV",
-      "url": "https://github.com/Brajesh31/ESV",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:54:32Z"
-    },
-    {
-      "name": "Guess-Number-Game",
-      "url": "https://github.com/Brajesh31/Guess-Number-Game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T05:54:19Z"
-    },
-    {
-      "name": "AI-POWERED-PERSCRIPTION-VALIDATOR",
-      "url": "https://github.com/Brajesh31/AI-POWERED-PERSCRIPTION-VALIDATOR",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T05:53:43Z"
-    },
-    {
-      "name": "Text-Editor-C-",
-      "url": "https://github.com/Brajesh31/Text-Editor-C-",
-      "description": null,
-      "stars": 11,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-09T05:53:28Z"
-    },
-    {
-      "name": "Kilimani",
-      "url": "https://github.com/Brajesh31/Kilimani",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:52:54Z"
-    },
-    {
-      "name": "bondforge-studio",
-      "url": "https://github.com/Brajesh31/bondforge-studio",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:52:51Z"
-    },
-    {
-      "name": "wordpress-theme-udemy",
-      "url": "https://github.com/Brajesh31/wordpress-theme-udemy",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:52:47Z"
-    },
-    {
-      "name": "Starting-with-CSS-Assignment",
-      "url": "https://github.com/Brajesh31/Starting-with-CSS-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:52:39Z"
-    },
-    {
-      "name": "compressor",
-      "url": "https://github.com/Brajesh31/compressor",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Rust",
-      "updatedAt": "2026-11-09T05:52:32Z"
-    },
-    {
-      "name": "Lern_Node_CRUD",
-      "url": "https://github.com/Brajesh31/Lern_Node_CRUD",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:51:30Z"
-    },
-    {
-      "name": "getting-started-with-html-assignment1",
-      "url": "https://github.com/Brajesh31/getting-started-with-html-assignment1",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:51:05Z"
-    },
-    {
-      "name": "Bank-Management-System",
-      "url": "https://github.com/Brajesh31/Bank-Management-System",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Java",
-      "updatedAt": "2026-11-09T05:50:49Z"
-    },
-    {
-      "name": "EchoPress",
-      "url": "https://github.com/Brajesh31/EchoPress",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T05:50:06Z"
-    },
-    {
-      "name": "GIFT_U",
-      "url": "https://github.com/Brajesh31/GIFT_U",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:50:01Z"
-    },
-    {
-      "name": "hotel-listing-website",
-      "url": "https://github.com/Brajesh31/hotel-listing-website",
-      "description": null,
-      "stars": 10,
-      "forks": 1,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:49:59Z"
-    },
-    {
-      "name": "ExpenseTrack",
-      "url": "https://github.com/Brajesh31/ExpenseTrack",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:48:44Z"
-    },
-    {
-      "name": "FakeNewsDetection-Flask",
-      "url": "https://github.com/Brajesh31/FakeNewsDetection-Flask",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T05:48:42Z"
-    },
-    {
-      "name": "Country_Location",
-      "url": "https://github.com/Brajesh31/Country_Location",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:47:47Z"
-    },
-    {
-      "name": "Cryptocurrency-Dashboard",
-      "url": "https://github.com/Brajesh31/Cryptocurrency-Dashboard",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T05:46:38Z"
-    },
-    {
-      "name": "Flight-Search-Service",
-      "url": "https://github.com/Brajesh31/Flight-Search-Service",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:46:32Z"
-    },
-    {
-      "name": "phantom_team",
-      "url": "https://github.com/Brajesh31/phantom_team",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:46:04Z"
-    },
-    {
-      "name": "proshop-mern",
-      "url": "https://github.com/Brajesh31/proshop-mern",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:45:47Z"
-    },
-    {
-      "name": "Tic-tac-toe",
-      "url": "https://github.com/Brajesh31/Tic-tac-toe",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:45:23Z"
-    },
-    {
-      "name": "ATOM-Hospital",
-      "url": "https://github.com/Brajesh31/ATOM-Hospital",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:45:02Z"
-    },
-    {
-      "name": "Media-and-form-Assignment",
-      "url": "https://github.com/Brajesh31/Media-and-form-Assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:45:01Z"
-    },
-    {
-      "name": "Glaucoma-Detection-NSGA",
-      "url": "https://github.com/Brajesh31/Glaucoma-Detection-NSGA",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T05:44:58Z"
-    },
-    {
-      "name": "dotsters",
-      "url": "https://github.com/Brajesh31/dotsters",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T05:44:49Z"
-    },
-    {
-      "name": "ecommerce-frontend",
-      "url": "https://github.com/Brajesh31/ecommerce-frontend",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:43:50Z"
-    },
-    {
-      "name": "Airbnb-resources",
-      "url": "https://github.com/Brajesh31/Airbnb-resources",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:43:39Z"
-    },
-    {
-      "name": "saas-landing-page-template",
-      "url": "https://github.com/Brajesh31/saas-landing-page-template",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-09T05:43:31Z"
-    },
-    {
-      "name": "weather-app-wd",
-      "url": "https://github.com/Brajesh31/weather-app-wd",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T05:24:11Z"
-    },
-    {
-      "name": "Simple_Interest_Project_Coursera",
-      "url": "https://github.com/Brajesh31/Simple_Interest_Project_Coursera",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Shell",
-      "updatedAt": "2026-11-09T05:24:07Z"
-    },
-    {
-      "name": "carbon-calculator",
-      "url": "https://github.com/Brajesh31/carbon-calculator",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T05:23:12Z"
-    },
-    {
-      "name": "lbp-face-recognition-svm",
-      "url": "https://github.com/Brajesh31/lbp-face-recognition-svm",
-      "description": "Classical face recognition using Local Binary Pattern features and a Support Vector Machine classifier.",
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T05:22:37Z"
-    },
-    {
-      "name": "react-movies",
-      "url": "https://github.com/Brajesh31/react-movies",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:22:22Z"
-    },
-    {
-      "name": "spotify-clone",
-      "url": "https://github.com/Brajesh31/spotify-clone",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:21:41Z"
-    },
-    {
-      "name": "Cervical-Cancer-Prediction",
-      "url": "https://github.com/Brajesh31/Cervical-Cancer-Prediction",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T05:21:37Z"
-    },
-    {
-      "name": "qrcode-gen-master",
-      "url": "https://github.com/Brajesh31/qrcode-gen-master",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:20:54Z"
-    },
-    {
-      "name": "attendance-system-app",
-      "url": "https://github.com/Brajesh31/attendance-system-app",
-      "description": null,
-      "stars": 10,
-      "forks": 1,
-      "language": "Python",
-      "updatedAt": "2026-11-09T05:20:49Z"
-    },
-    {
-      "name": "r_guessing_game",
-      "url": "https://github.com/Brajesh31/r_guessing_game",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Rust",
-      "updatedAt": "2026-11-09T05:20:37Z"
-    },
-    {
-      "name": "World-Time-App",
-      "url": "https://github.com/Brajesh31/World-Time-App",
-      "description": "This is the repo for the world time flutter app with APIs and DB connection",
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T05:19:25Z"
-    },
-    {
-      "name": "ean13-bar-code-Generator",
-      "url": "https://github.com/Brajesh31/ean13-bar-code-Generator",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T05:18:13Z"
-    },
-    {
-      "name": "tetrablocks",
-      "url": "https://github.com/Brajesh31/tetrablocks",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T05:17:55Z"
-    },
-    {
-      "name": "Airline-Ticket-Prediction-Analysis",
-      "url": "https://github.com/Brajesh31/Airline-Ticket-Prediction-Analysis",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T05:17:53Z"
-    },
-    {
-      "name": "Township-Management-System",
-      "url": "https://github.com/Brajesh31/Township-Management-System",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T05:16:51Z"
-    },
-    {
-      "name": "STONE-PAPER-SCISSOR",
-      "url": "https://github.com/Brajesh31/STONE-PAPER-SCISSOR",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:16:16Z"
-    },
-    {
-      "name": "word_counter",
-      "url": "https://github.com/Brajesh31/word_counter",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:15:45Z"
-    },
-    {
-      "name": "Snacks-World",
-      "url": "https://github.com/Brajesh31/Snacks-World",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "PHP",
-      "updatedAt": "2026-11-09T05:15:35Z"
-    },
-    {
-      "name": "ZigaoWang",
-      "url": "https://github.com/Brajesh31/ZigaoWang",
-      "description": "Profile Repo",
-      "stars": 11,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-09T05:14:26Z"
-    },
-    {
-      "name": "Hacktoberfest2023",
-      "url": "https://github.com/Brajesh31/Hacktoberfest2023",
-      "description": null,
-      "stars": 10,
-      "forks": 1,
-      "language": "Java",
-      "updatedAt": "2026-11-09T05:14:19Z"
-    },
-    {
-      "name": "LoanPredictor",
-      "url": "https://github.com/Brajesh31/LoanPredictor",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:14:11Z"
-    },
-    {
-      "name": "Android-Development",
-      "url": "https://github.com/Brajesh31/Android-Development",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Kotlin",
-      "updatedAt": "2026-11-09T05:14:08Z"
-    },
-    {
-      "name": "myPen",
-      "url": "https://github.com/Brajesh31/myPen",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:13:58Z"
-    },
-    {
-      "name": "FoodOrderingApp",
-      "url": "https://github.com/Brajesh31/FoodOrderingApp",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:13:31Z"
-    },
-    {
-      "name": "Github-User-Finder",
-      "url": "https://github.com/Brajesh31/Github-User-Finder",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:12:06Z"
-    },
-    {
-      "name": "Skill_share_grow_final",
-      "url": "https://github.com/Brajesh31/Skill_share_grow_final",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:10:21Z"
-    },
-    {
-      "name": "cube",
-      "url": "https://github.com/Brajesh31/cube",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-09T05:08:48Z"
-    },
-    {
-      "name": "bizradar-insights",
-      "url": "https://github.com/Brajesh31/bizradar-insights",
-      "description": null,
-      "stars": 1,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:08:45Z"
-    },
-    {
-      "name": "PassMan-Your-personal-password-manager",
-      "url": "https://github.com/Brajesh31/PassMan-Your-personal-password-manager",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-09T05:08:16Z"
-    },
-    {
-      "name": "Veloxa",
-      "url": "https://github.com/Brajesh31/Veloxa",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-09T05:08:02Z"
-    },
-    {
-      "name": "E_Commers",
-      "url": "https://github.com/Brajesh31/E_Commers",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-09T05:07:45Z"
-    },
-    {
-      "name": "Fake-News-Prediction",
-      "url": "https://github.com/Brajesh31/Fake-News-Prediction",
-      "description": null,
-      "stars": 9,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-09T05:07:06Z"
-    },
-    {
-      "name": "multi-agent-observability-opentelemetry",
-      "url": "https://github.com/Brajesh31/multi-agent-observability-opentelemetry",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-09T05:07:02Z"
     },
     {
       "name": "claude-anndata-skill",
@@ -4366,45 +4366,45 @@
     }
   ],
   "languages": {
-    "TypeScript": 8413984,
     "Python": 1744412,
-    "JavaScript": 11009853,
     "HTML": 6713708,
-    "C": 809550,
     "CSS": 6912594,
+    "JavaScript": 11009853,
+    "C": 809550,
+    "TypeScript": 8413984,
     "Dockerfile": 11472,
     "Java": 1018412,
     "Jupyter Notebook": 55882203,
-    "PHP": 1180115,
-    "Vue": 323824,
-    "Blade": 86468,
-    "Procfile": 83,
-    "PowerShell": 24723,
-    "Shell": 31904,
-    "Batchfile": 9197,
     "Less": 562558,
     "SCSS": 1165900,
     "Stylus": 280304,
+    "Shell": 31904,
     "C++": 1733487,
     "Go": 1897,
     "CMake": 72048,
     "Fortran": 489,
     "V": 421,
+    "PHP": 1180115,
     "Hack": 12252,
     "Dart": 33397,
     "Ruby": 2604,
     "Objective-C": 1466,
     "Swift": 2535,
-    "Kotlin": 73469,
+    "Procfile": 83,
+    "Vue": 323824,
+    "Blade": 86468,
+    "PowerShell": 24723,
+    "Batchfile": 9197,
     "EJS": 57645,
+    "Kotlin": 73469,
     "Mako": 635,
     "Handlebars": 16974,
     "Solidity": 1404,
     "PLpgSQL": 17900,
-    "MATLAB": 57173,
-    "QMake": 290,
     "Rust": 1779,
     "Clojure": 19705,
+    "MATLAB": 57173,
+    "QMake": 290,
     "GLSL": 6035,
     "TeX": 9201,
     "Makefile": 1358,
