@@ -49,48 +49,9 @@ jobs:
             echo "::error::METRICS_TOKEN cannot list all owned repositories. Update it with the repo scope so private repository counts can be read."
             exit 1
           }
-          private_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^true
-        with:
-          use_prebuilt_image: no
-          filename: metrics/metrics-achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: main
-          committer_message: 'chore: update GitHub achievements card [Skip GitHub Action]'
-          user: Brajesh31
-          template: classic
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          plugin_fortune: yes
-          config_timezone: Asia/Kolkata
-          config_octicon: yes
-          config_twemoji: yes
-          plugins_errors_fatal: yes
- || true)
-          public_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^false
-        with:
-          use_prebuilt_image: no
-          filename: metrics/metrics-achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: main
-          committer_message: 'chore: update GitHub achievements card [Skip GitHub Action]'
-          user: Brajesh31
-          template: classic
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          plugin_fortune: yes
-          config_timezone: Asia/Kolkata
-          config_octicon: yes
-          config_twemoji: yes
-          plugins_errors_fatal: yes
- || true)
+          private_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^true$' || true)
+          public_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^false$' || true)
           echo "Accessible owned repositories: $public_count public, $private_count private"
-
       - name: Generate GitHub Achievements card
         uses: ./.metrics-action
         with:
