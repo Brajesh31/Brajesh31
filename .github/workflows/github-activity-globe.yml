@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-card-generators
+  group: github-activity-globe
   cancel-in-progress: false
 
 jobs:
