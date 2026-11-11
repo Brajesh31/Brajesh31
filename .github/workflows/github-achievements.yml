@@ -1,6 +1,12 @@
 name: GitHub Achievements
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/github-achievements.yml'
+      - '.github/metrics-custom/**'
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
@@ -33,6 +39,57 @@ jobs:
           COPY source/plugins/achievements/queries/achievements.graphql /metrics/source/plugins/achievements/queries/achievements.graphql
           COPY source/plugins/achievements/list/users.mjs /metrics/source/plugins/achievements/list/users.mjs
           EOF
+
+      - name: Verify private and public repository access
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        shell: bash
+        run: |
+          repo_visibility=$(gh api --paginate user/repos -f visibility=all -f affiliation=owner -q '.[].private') || {
+            echo "::error::METRICS_TOKEN cannot list all owned repositories. Update it with the repo scope so private repository counts can be read."
+            exit 1
+          }
+          private_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^true
+        with:
+          use_prebuilt_image: no
+          filename: metrics/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: 'chore: update GitHub achievements card [Skip GitHub Action]'
+          user: Brajesh31
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_fortune: yes
+          config_timezone: Asia/Kolkata
+          config_octicon: yes
+          config_twemoji: yes
+          plugins_errors_fatal: yes
+ || true)
+          public_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^false
+        with:
+          use_prebuilt_image: no
+          filename: metrics/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: 'chore: update GitHub achievements card [Skip GitHub Action]'
+          user: Brajesh31
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_fortune: yes
+          config_timezone: Asia/Kolkata
+          config_octicon: yes
+          config_twemoji: yes
+          plugins_errors_fatal: yes
+ || true)
+          echo "Accessible owned repositories: $public_count public, $private_count private"
 
       - name: Generate GitHub Achievements card
         uses: ./.metrics-action
