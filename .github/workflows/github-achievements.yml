@@ -51,14 +51,15 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
         shell: bash
         run: |
-          repo_visibility=$(gh api --paginate user/repos -f visibility=all -f affiliation=owner -q '.[].private') || {
-            echo "::error::METRICS_TOKEN cannot list all owned repositories. Update it with the repo scope so private repository counts can be read."
+          if ! repo_visibility=$(gh api --paginate 'user/repos?visibility=all&affiliation=owner&per_page=100' --jq '.[].private' 2>&1); then
+            echo "::error::Unable to read repository visibility with METRICS_TOKEN."
+            echo "$repo_visibility"
+            echo "Grant the token access to private repositories (classic PAT: repo scope; fine-grained PAT: repository access plus Metadata read and Contents read)."
             exit 1
-          }
+          fi
           private_count=$(printf '%s\n' "$repo_visibility" | grep -c '^true$' || true)
           public_count=$(printf '%s\n' "$repo_visibility" | grep -c '^false$' || true)
           echo "Accessible owned repositories: $public_count public, $private_count private"
-
       - name: Generate GitHub Achievements card
         uses: ./.metrics-action
         with:
