@@ -397,7 +397,7 @@ export default async function({list, login, data, computed, imports, graphql, qu
   }
   // Custom repository and engineering achievements (30 total)
   {
-    const value = user.ownedRepositories.totalCount;
+    const value = user.repositories.totalCount;
     list.push({
       title: "Portfolio Builder",
       text: `Owns ${value} repositories across public and private projects`,
@@ -433,7 +433,7 @@ export default async function({list, login, data, computed, imports, graphql, qu
   }
 
   {
-    const value = user.ownedRepositories.nodes.reduce((total, repository) => total + repository.stargazerCount, 0);
+    const value = user.repositories.nodes.reduce((total, repository) => total + repository.stargazerCount, 0);
     list.push({
       title: "Star Collector",
       text: `Collected ${value} stars across owned repositories`,
@@ -445,7 +445,7 @@ export default async function({list, login, data, computed, imports, graphql, qu
   }
 
   {
-    const value = user.ownedRepositories.nodes.reduce((total, repository) => total + repository.forkCount, 0);
+    const value = user.repositories.nodes.reduce((total, repository) => total + repository.forkCount, 0);
     list.push({
       title: "Fork Magnet",
       text: `Received ${value} forks across owned repositories`,
