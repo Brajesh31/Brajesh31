@@ -44,10 +44,12 @@ jobs:
         run: |
           cp .github/metrics-custom/achievements.graphql .metrics-action/source/plugins/achievements/queries/achievements.graphql
           cp .github/metrics-custom/users.mjs .metrics-action/source/plugins/achievements/list/users.mjs
+          cp .github/metrics-custom/achievements-index.mjs .metrics-action/source/plugins/achievements/index.mjs
           cat > .metrics-action/Dockerfile <<'EOF'
           FROM ghcr.io/lowlighter/metrics:v3.35-beta
           COPY source/plugins/achievements/queries/achievements.graphql /metrics/source/plugins/achievements/queries/achievements.graphql
           COPY source/plugins/achievements/list/users.mjs /metrics/source/plugins/achievements/list/users.mjs
+          COPY source/plugins/achievements/index.mjs /metrics/source/plugins/achievements/index.mjs
           EOF
 
       - name: Verify private and public repository access
