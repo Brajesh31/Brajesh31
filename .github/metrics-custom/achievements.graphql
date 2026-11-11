@@ -15,7 +15,7 @@ query AchievementsDefault {
       totalCount
     }
 
-    repositories(first: 1, privacy: PUBLIC, affiliations: OWNER, orderBy: {field: CREATED_AT, direction: ASC}) {
+    oldestPublicRepository: repositories(first: 1, privacy: PUBLIC, affiliations: OWNER, orderBy: {field: CREATED_AT, direction: ASC}) {
       nodes {
         createdAt
         nameWithOwner
