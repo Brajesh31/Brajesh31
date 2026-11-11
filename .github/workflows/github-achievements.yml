@@ -20,6 +20,12 @@ jobs:
     timeout-minutes: 15
 
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: main
+          persist-credentials: false
+
       # Pin the upstream Projects V2 fix and layer the custom 30-achievement extension.
       - name: Checkout fixed Metrics source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
