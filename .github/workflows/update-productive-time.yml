@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-card-generators
+  group: productive-time-card
   cancel-in-progress: false
 
 jobs:
