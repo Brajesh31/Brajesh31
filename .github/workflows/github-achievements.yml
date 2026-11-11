@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 15
 
     steps:
-      # Pin the upstream Projects V2 fix until it is included in a release.
+      # Pin the upstream Projects V2 fix and layer the custom 30-achievement extension.
       - name: Checkout fixed Metrics source
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
@@ -23,9 +23,11 @@ jobs:
           path: .metrics-action
           persist-credentials: false
 
-      - name: Layer Projects V2 fix onto the prebuilt Metrics image
+      - name: Layer Projects V2 fix and custom 30-achievement source
         shell: bash
         run: |
+          cp .github/metrics-custom/achievements.graphql .metrics-action/source/plugins/achievements/queries/achievements.graphql
+          cp .github/metrics-custom/users.mjs .metrics-action/source/plugins/achievements/list/users.mjs
           cat > .metrics-action/Dockerfile <<'EOF'
           FROM ghcr.io/lowlighter/metrics:v3.35-beta
           COPY source/plugins/achievements/queries/achievements.graphql /metrics/source/plugins/achievements/queries/achievements.graphql
