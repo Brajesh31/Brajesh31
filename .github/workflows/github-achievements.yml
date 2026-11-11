@@ -49,9 +49,10 @@ jobs:
             echo "::error::METRICS_TOKEN cannot list all owned repositories. Update it with the repo scope so private repository counts can be read."
             exit 1
           }
-          private_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^true$' || true)
-          public_count=$(printf '%s\\n' "$repo_visibility" | grep -c '^false$' || true)
+          private_count=$(printf '%s\n' "$repo_visibility" | grep -c '^true$' || true)
+          public_count=$(printf '%s\n' "$repo_visibility" | grep -c '^false$' || true)
           echo "Accessible owned repositories: $public_count public, $private_count private"
+
       - name: Generate GitHub Achievements card
         uses: ./.metrics-action
         with:
