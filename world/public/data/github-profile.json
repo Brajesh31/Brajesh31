@@ -1,13 +1,292 @@
 {
-  "generatedAt": "2026-11-13T13:07:37.289Z",
+  "generatedAt": "2026-11-14T12:12:24.351Z",
   "source": "GitHub REST API public profile and repositories",
   "profile": {
     "login": "Brajesh31",
-    "publicRepos": 625,
-    "followers": 33,
-    "following": 153
+    "publicRepos": 651,
+    "followers": 38,
+    "following": 165
   },
   "repositories": [
+    {
+      "name": "Image-Search-Website",
+      "url": "https://github.com/Brajesh31/Image-Search-Website",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-14T05:51:45Z"
+    },
+    {
+      "name": "claude-domain-skill",
+      "url": "https://github.com/Brajesh31/claude-domain-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T16:01:54Z"
+    },
+    {
+      "name": "claude-docs-search-skill",
+      "url": "https://github.com/Brajesh31/claude-docs-search-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T16:01:20Z"
+    },
+    {
+      "name": "claude-docker-expert-skill",
+      "url": "https://github.com/Brajesh31/claude-docker-expert-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T16:01:06Z"
+    },
+    {
+      "name": "claude-drawio-diagrams-skill",
+      "url": "https://github.com/Brajesh31/claude-drawio-diagrams-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T15:59:42Z"
+    },
+    {
+      "name": "claude-doordash-spend-guard-skill",
+      "url": "https://github.com/Brajesh31/claude-doordash-spend-guard-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T15:54:40Z"
+    },
+    {
+      "name": "claude-doordash-order-ledger-skill",
+      "url": "https://github.com/Brajesh31/claude-doordash-order-ledger-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T15:54:02Z"
+    },
+    {
+      "name": "claude-email-composer-skill",
+      "url": "https://github.com/Brajesh31/claude-email-composer-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:47:49Z"
+    },
+    {
+      "name": "claude-elixir-pro-skill",
+      "url": "https://github.com/Brajesh31/claude-elixir-pro-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:47:36Z"
+    },
+    {
+      "name": "claude-electron-development-skill",
+      "url": "https://github.com/Brajesh31/claude-electron-development-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:47:24Z"
+    },
+    {
+      "name": "claude-e2e-testing-patterns-skill",
+      "url": "https://github.com/Brajesh31/claude-e2e-testing-patterns-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:47:09Z"
+    },
+    {
+      "name": "claude-drugbank-database-skill",
+      "url": "https://github.com/Brajesh31/claude-drugbank-database-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:46:58Z"
+    },
+    {
+      "name": "claude-drizzle-orm-expert-skill",
+      "url": "https://github.com/Brajesh31/claude-drizzle-orm-expert-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:46:47Z"
+    },
+    {
+      "name": "claude-dotnet-backend-skill",
+      "url": "https://github.com/Brajesh31/claude-dotnet-backend-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:43:19Z"
+    },
+    {
+      "name": "claude-doordash-order-playbooks-skill",
+      "url": "https://github.com/Brajesh31/claude-doordash-order-playbooks-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:42:53Z"
+    },
+    {
+      "name": "claude-doordash-group-orders-skill",
+      "url": "https://github.com/Brajesh31/claude-doordash-group-orders-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:42:27Z"
+    },
+    {
+      "name": "claude-doordash-allergy-shield-skill",
+      "url": "https://github.com/Brajesh31/claude-doordash-allergy-shield-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:42:14Z"
+    },
+    {
+      "name": "claude-domain-name-brainstormer-skill",
+      "url": "https://github.com/Brajesh31/claude-domain-name-brainstormer-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T15:41:57Z"
+    },
+    {
+      "name": "claude-docx-official-skill",
+      "url": "https://github.com/Brajesh31/claude-docx-official-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T15:37:16Z"
+    },
+    {
+      "name": "claude-docx-skill",
+      "url": "https://github.com/Brajesh31/claude-docx-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T15:36:51Z"
+    },
+    {
+      "name": "claude-doc-skill",
+      "url": "https://github.com/Brajesh31/claude-doc-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T13:45:54Z"
+    },
+    {
+      "name": "claude-domain-driven-design-skill",
+      "url": "https://github.com/Brajesh31/claude-domain-driven-design-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T13:44:25Z"
+    },
+    {
+      "name": "claude-documentation-templates-skill",
+      "url": "https://github.com/Brajesh31/claude-documentation-templates-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T13:43:43Z"
+    },
+    {
+      "name": "claude-doc-coauthoring-skill",
+      "url": "https://github.com/Brajesh31/claude-doc-coauthoring-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T13:43:11Z"
+    },
+    {
+      "name": "claude-doc-chaser-lite-skill",
+      "url": "https://github.com/Brajesh31/claude-doc-chaser-lite-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-13T13:43:01Z"
+    },
+    {
+      "name": "claude-web-game-development-skill",
+      "url": "https://github.com/Brajesh31/claude-web-game-development-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-13T13:38:45Z"
+    },
+    {
+      "name": "claude-svg-diagramming-skill",
+      "url": "https://github.com/Brajesh31/claude-svg-diagramming-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T13:38:00Z"
+    },
+    {
+      "name": "claude-diffdock-skill",
+      "url": "https://github.com/Brajesh31/claude-diffdock-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T13:09:41Z"
+    },
+    {
+      "name": "claude-devops-iac-engineer-skill",
+      "url": "https://github.com/Brajesh31/claude-devops-iac-engineer-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-13T13:09:17Z"
+    },
+    {
+      "name": "claude-design-system-starter-skill",
+      "url": "https://github.com/Brajesh31/claude-design-system-starter-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updatedAt": "2026-11-13T13:07:51Z"
+    },
+    {
+      "name": "claude-design-mirror-skill",
+      "url": "https://github.com/Brajesh31/claude-design-mirror-skill",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "Shell",
+      "updatedAt": "2026-11-13T13:07:35Z"
+    },
     {
       "name": "claude-dnanexus-integration-skill",
       "url": "https://github.com/Brajesh31/claude-dnanexus-integration-skill",
@@ -126,24 +405,6 @@
       "updatedAt": "2026-11-13T12:55:38Z"
     },
     {
-      "name": "claude-diffdock-skill",
-      "url": "https://github.com/Brajesh31/claude-diffdock-skill",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-13T12:55:27Z"
-    },
-    {
-      "name": "claude-devops-iac-engineer-skill",
-      "url": "https://github.com/Brajesh31/claude-devops-iac-engineer-skill",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-13T12:55:00Z"
-    },
-    {
       "name": "claude-devil-skill",
       "url": "https://github.com/Brajesh31/claude-devil-skill",
       "description": null,
@@ -169,24 +430,6 @@
       "forks": 0,
       "language": null,
       "updatedAt": "2026-11-13T12:54:07Z"
-    },
-    {
-      "name": "claude-design-system-starter-skill",
-      "url": "https://github.com/Brajesh31/claude-design-system-starter-skill",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-13T12:53:56Z"
-    },
-    {
-      "name": "claude-design-mirror-skill",
-      "url": "https://github.com/Brajesh31/claude-design-mirror-skill",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-13T12:53:45Z"
     },
     {
       "name": "claude-deployment-procedures-skill",
@@ -1179,21 +1422,21 @@
       "updatedAt": "2026-11-12T14:27:26Z"
     },
     {
-      "name": "CV-builder",
-      "url": "https://github.com/Brajesh31/CV-builder",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-12T14:27:24Z"
-    },
-    {
       "name": "Face-Recognition",
       "url": "https://github.com/Brajesh31/Face-Recognition",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "TypeScript",
+      "updatedAt": "2026-11-12T14:27:24Z"
+    },
+    {
+      "name": "CV-builder",
+      "url": "https://github.com/Brajesh31/CV-builder",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "CSS",
       "updatedAt": "2026-11-12T14:27:24Z"
     },
     {
@@ -1872,21 +2115,21 @@
       "updatedAt": "2026-11-12T13:02:42Z"
     },
     {
-      "name": "Image_detecting_telegram_bot",
-      "url": "https://github.com/Brajesh31/Image_detecting_telegram_bot",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-12T13:02:41Z"
-    },
-    {
       "name": "quick-image-tool",
       "url": "https://github.com/Brajesh31/quick-image-tool",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "CSS",
+      "updatedAt": "2026-11-12T13:02:41Z"
+    },
+    {
+      "name": "Image_detecting_telegram_bot",
+      "url": "https://github.com/Brajesh31/Image_detecting_telegram_bot",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
       "updatedAt": "2026-11-12T13:02:41Z"
     },
     {
@@ -2403,21 +2646,21 @@
       "updatedAt": "2026-11-12T10:35:36Z"
     },
     {
-      "name": "Glaucoma-Detection-NSGA",
-      "url": "https://github.com/Brajesh31/Glaucoma-Detection-NSGA",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Python",
-      "updatedAt": "2026-11-12T10:35:35Z"
-    },
-    {
       "name": "Flight-Search-Service",
       "url": "https://github.com/Brajesh31/Flight-Search-Service",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
+      "updatedAt": "2026-11-12T10:35:35Z"
+    },
+    {
+      "name": "Glaucoma-Detection-NSGA",
+      "url": "https://github.com/Brajesh31/Glaucoma-Detection-NSGA",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
       "updatedAt": "2026-11-12T10:35:35Z"
     },
     {
@@ -2655,15 +2898,6 @@
       "updatedAt": "2026-11-12T10:28:43Z"
     },
     {
-      "name": "Cervical-Cancer-Prediction",
-      "url": "https://github.com/Brajesh31/Cervical-Cancer-Prediction",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "Jupyter Notebook",
-      "updatedAt": "2026-11-12T10:28:42Z"
-    },
-    {
       "name": "r_guessing_game",
       "url": "https://github.com/Brajesh31/r_guessing_game",
       "description": null,
@@ -2673,13 +2907,13 @@
       "updatedAt": "2026-11-12T10:28:42Z"
     },
     {
-      "name": "qrcode-gen-master",
-      "url": "https://github.com/Brajesh31/qrcode-gen-master",
+      "name": "Cervical-Cancer-Prediction",
+      "url": "https://github.com/Brajesh31/Cervical-Cancer-Prediction",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-12T10:28:36Z"
+      "language": "Jupyter Notebook",
+      "updatedAt": "2026-11-12T10:28:42Z"
     },
     {
       "name": "attendance-system-app",
@@ -2688,6 +2922,15 @@
       "stars": 10,
       "forks": 0,
       "language": "Python",
+      "updatedAt": "2026-11-12T10:28:36Z"
+    },
+    {
+      "name": "qrcode-gen-master",
+      "url": "https://github.com/Brajesh31/qrcode-gen-master",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
       "updatedAt": "2026-11-12T10:28:36Z"
     },
     {
@@ -3472,15 +3715,6 @@
       "forks": 0,
       "language": "HTML",
       "updatedAt": "2026-11-12T10:00:08Z"
-    },
-    {
-      "name": "Image-Search-Website",
-      "url": "https://github.com/Brajesh31/Image-Search-Website",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "CSS",
-      "updatedAt": "2026-11-12T10:00:05Z"
     },
     {
       "name": "Merchant_Dashboard",
@@ -5635,16 +5869,16 @@
     }
   ],
   "languages": {
-    "Python": 2129025,
-    "Shell": 40957,
+    "JavaScript": 11108970,
+    "CSS": 6921952,
+    "HTML": 6711184,
+    "Python": 2270652,
+    "Shell": 43729,
+    "TypeScript": 8420967,
     "PLpgSQL": 19821,
-    "HTML": 6713708,
-    "JavaScript": 11081469,
-    "CSS": 6912594,
-    "TypeScript": 8413984,
-    "Jupyter Notebook": 55882203,
+    "Jupyter Notebook": 55859918,
     "C": 809550,
-    "Java": 1018412,
+    "Java": 1027038,
     "C++": 1733487,
     "Go": 1897,
     "CMake": 72048,
@@ -5655,18 +5889,19 @@
     "Solidity": 1404,
     "PowerShell": 24723,
     "Vue": 323824,
-    "Kotlin": 73469,
+    "Kotlin": 82707,
     "Dockerfile": 11472,
     "MATLAB": 57173,
     "SCSS": 1165900,
     "QMake": 290,
-    "Dart": 33397,
+    "Dart": 35640,
     "Ruby": 2604,
     "Objective-C": 1466,
     "Swift": 2535,
     "Blade": 86468,
     "Procfile": 83,
     "Batchfile": 9197,
+    "Makefile": 1680,
     "Rust": 1779,
     "EJS": 57645,
     "Clojure": 19705,
@@ -5676,7 +5911,6 @@
     "Stylus": 280304,
     "Handlebars": 16974,
     "TeX": 69325,
-    "Makefile": 1358,
     "Svelte": 24334
   }
 }
