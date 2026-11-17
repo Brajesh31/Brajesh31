@@ -1,13 +1,40 @@
 {
-  "generatedAt": "2026-11-16T13:40:15.485Z",
+  "generatedAt": "2026-11-17T14:25:08.772Z",
   "source": "GitHub REST API public profile and repositories",
   "profile": {
     "login": "Brajesh31",
     "publicRepos": 651,
-    "followers": 45,
-    "following": 189
+    "followers": 47,
+    "following": 192
   },
   "repositories": [
+    {
+      "name": "chatbot-C-",
+      "url": "https://github.com/Brajesh31/chatbot-C-",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-17T12:07:52Z"
+    },
+    {
+      "name": "Book-Recommender",
+      "url": "https://github.com/Brajesh31/Book-Recommender",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-16T20:37:59Z"
+    },
+    {
+      "name": "AQI-Finder-Using-Python",
+      "url": "https://github.com/Brajesh31/AQI-Finder-Using-Python",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-16T16:39:31Z"
+    },
     {
       "name": "Image-Search-Website",
       "url": "https://github.com/Brajesh31/Image-Search-Website",
@@ -954,15 +981,6 @@
       "updatedAt": "2026-11-12T16:00:35Z"
     },
     {
-      "name": "Book-Recommender",
-      "url": "https://github.com/Brajesh31/Book-Recommender",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-12T16:00:25Z"
-    },
-    {
       "name": "Tailwind-CSS-Assignment",
       "url": "https://github.com/Brajesh31/Tailwind-CSS-Assignment",
       "description": null,
@@ -1548,21 +1566,21 @@
       "updatedAt": "2026-11-12T14:26:16Z"
     },
     {
-      "name": "css-project-one",
-      "url": "https://github.com/Brajesh31/css-project-one",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-12T14:26:02Z"
-    },
-    {
       "name": "basil_assignment",
       "url": "https://github.com/Brajesh31/basil_assignment",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "JavaScript",
+      "updatedAt": "2026-11-12T14:26:02Z"
+    },
+    {
+      "name": "css-project-one",
+      "url": "https://github.com/Brajesh31/css-project-one",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
       "updatedAt": "2026-11-12T14:26:02Z"
     },
     {
@@ -1602,8 +1620,8 @@
       "updatedAt": "2026-11-12T14:25:31Z"
     },
     {
-      "name": "Core-HTML-Assignment",
-      "url": "https://github.com/Brajesh31/Core-HTML-Assignment",
+      "name": "Contact-Display",
+      "url": "https://github.com/Brajesh31/Contact-Display",
       "description": null,
       "stars": 10,
       "forks": 0,
@@ -1611,8 +1629,8 @@
       "updatedAt": "2026-11-12T14:25:29Z"
     },
     {
-      "name": "Contact-Display",
-      "url": "https://github.com/Brajesh31/Contact-Display",
+      "name": "Core-HTML-Assignment",
+      "url": "https://github.com/Brajesh31/Core-HTML-Assignment",
       "description": null,
       "stars": 10,
       "forks": 0,
@@ -1629,21 +1647,21 @@
       "updatedAt": "2026-11-12T14:25:17Z"
     },
     {
-      "name": "Git_GitHub",
-      "url": "https://github.com/Brajesh31/Git_GitHub",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-12T14:25:12Z"
-    },
-    {
       "name": "mini-operation-system-scheduler",
       "url": "https://github.com/Brajesh31/mini-operation-system-scheduler",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "C",
+      "updatedAt": "2026-11-12T14:25:12Z"
+    },
+    {
+      "name": "Git_GitHub",
+      "url": "https://github.com/Brajesh31/Git_GitHub",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
       "updatedAt": "2026-11-12T14:25:12Z"
     },
     {
@@ -1980,15 +1998,6 @@
       "updatedAt": "2026-11-12T13:24:59Z"
     },
     {
-      "name": "AQI-Finder-Using-Python",
-      "url": "https://github.com/Brajesh31/AQI-Finder-Using-Python",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-12T13:23:31Z"
-    },
-    {
       "name": "EcoAware",
       "url": "https://github.com/Brajesh31/EcoAware",
       "description": null,
@@ -2176,15 +2185,6 @@
       "forks": 0,
       "language": "HTML",
       "updatedAt": "2026-11-12T13:02:29Z"
-    },
-    {
-      "name": "chatbot-C-",
-      "url": "https://github.com/Brajesh31/chatbot-C-",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-12T13:02:28Z"
     },
     {
       "name": "NETFLIX-CLONE",
@@ -5869,25 +5869,26 @@
     }
   ],
   "languages": {
-    "JavaScript": 11152760,
-    "CSS": 6929078,
-    "HTML": 6713679,
-    "Python": 2292450,
-    "Shell": 43729,
-    "TypeScript": 8421178,
+    "Python": 2392436,
+    "C": 812650,
+    "Shell": 46119,
+    "PowerShell": 25982,
+    "Makefile": 4018,
+    "HTML": 6724266,
+    "JavaScript": 11201914,
+    "CSS": 6940230,
+    "TypeScript": 8425928,
     "PLpgSQL": 19821,
-    "Jupyter Notebook": 55694975,
-    "C": 809550,
+    "Jupyter Notebook": 55696329,
     "Java": 1027038,
-    "C++": 1733487,
+    "C++": 1746406,
     "Go": 1897,
-    "CMake": 72048,
+    "CMake": 73284,
     "Fortran": 489,
     "V": 421,
     "PHP": 1180115,
     "Hack": 12252,
     "Solidity": 1404,
-    "PowerShell": 24723,
     "Vue": 323824,
     "Kotlin": 82707,
     "Dockerfile": 11472,
@@ -5901,7 +5902,6 @@
     "Blade": 86468,
     "Procfile": 83,
     "Batchfile": 9197,
-    "Makefile": 1680,
     "Rust": 1779,
     "EJS": 57645,
     "Clojure": 19705,
