@@ -1,13 +1,40 @@
 {
-  "generatedAt": "2026-11-17T14:25:08.772Z",
+  "generatedAt": "2026-11-18T13:58:58.808Z",
   "source": "GitHub REST API public profile and repositories",
   "profile": {
     "login": "Brajesh31",
-    "publicRepos": 651,
-    "followers": 47,
-    "following": 192
+    "publicRepos": 652,
+    "followers": 48,
+    "following": 194
   },
   "repositories": [
+    {
+      "name": "Contact-Searching-Application",
+      "url": "https://github.com/Brajesh31/Contact-Searching-Application",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-18T04:51:48Z"
+    },
+    {
+      "name": "vfx-ui-anime",
+      "url": "https://github.com/Brajesh31/vfx-ui-anime",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updatedAt": "2026-11-18T03:24:25Z"
+    },
+    {
+      "name": "Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
+      "url": "https://github.com/Brajesh31/Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "Python",
+      "updatedAt": "2026-11-17T23:36:33Z"
+    },
     {
       "name": "chatbot-C-",
       "url": "https://github.com/Brajesh31/chatbot-C-",
@@ -1440,21 +1467,21 @@
       "updatedAt": "2026-11-12T14:27:26Z"
     },
     {
-      "name": "Face-Recognition",
-      "url": "https://github.com/Brajesh31/Face-Recognition",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "TypeScript",
-      "updatedAt": "2026-11-12T14:27:24Z"
-    },
-    {
       "name": "CV-builder",
       "url": "https://github.com/Brajesh31/CV-builder",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "CSS",
+      "updatedAt": "2026-11-12T14:27:24Z"
+    },
+    {
+      "name": "Face-Recognition",
+      "url": "https://github.com/Brajesh31/Face-Recognition",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "TypeScript",
       "updatedAt": "2026-11-12T14:27:24Z"
     },
     {
@@ -1566,21 +1593,21 @@
       "updatedAt": "2026-11-12T14:26:16Z"
     },
     {
-      "name": "basil_assignment",
-      "url": "https://github.com/Brajesh31/basil_assignment",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-12T14:26:02Z"
-    },
-    {
       "name": "css-project-one",
       "url": "https://github.com/Brajesh31/css-project-one",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "HTML",
+      "updatedAt": "2026-11-12T14:26:02Z"
+    },
+    {
+      "name": "basil_assignment",
+      "url": "https://github.com/Brajesh31/basil_assignment",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
       "updatedAt": "2026-11-12T14:26:02Z"
     },
     {
@@ -1647,21 +1674,21 @@
       "updatedAt": "2026-11-12T14:25:17Z"
     },
     {
-      "name": "mini-operation-system-scheduler",
-      "url": "https://github.com/Brajesh31/mini-operation-system-scheduler",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C",
-      "updatedAt": "2026-11-12T14:25:12Z"
-    },
-    {
       "name": "Git_GitHub",
       "url": "https://github.com/Brajesh31/Git_GitHub",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "HTML",
+      "updatedAt": "2026-11-12T14:25:12Z"
+    },
+    {
+      "name": "mini-operation-system-scheduler",
+      "url": "https://github.com/Brajesh31/mini-operation-system-scheduler",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "C",
       "updatedAt": "2026-11-12T14:25:12Z"
     },
     {
@@ -1852,15 +1879,6 @@
       "forks": 0,
       "language": "Java",
       "updatedAt": "2026-11-12T14:22:31Z"
-    },
-    {
-      "name": "Contact-Searching-Application",
-      "url": "https://github.com/Brajesh31/Contact-Searching-Application",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "C++",
-      "updatedAt": "2026-11-12T14:22:29Z"
     },
     {
       "name": "Medical-Website",
@@ -2313,12 +2331,12 @@
       "updatedAt": "2026-11-12T13:00:25Z"
     },
     {
-      "name": "Zentry-game",
-      "url": "https://github.com/Brajesh31/Zentry-game",
+      "name": "video_to_sequence",
+      "url": "https://github.com/Brajesh31/video_to_sequence",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "JavaScript",
+      "language": "Python",
       "updatedAt": "2026-11-12T13:00:21Z"
     },
     {
@@ -2331,12 +2349,12 @@
       "updatedAt": "2026-11-12T13:00:21Z"
     },
     {
-      "name": "video_to_sequence",
-      "url": "https://github.com/Brajesh31/video_to_sequence",
+      "name": "Zentry-game",
+      "url": "https://github.com/Brajesh31/Zentry-game",
       "description": null,
       "stars": 10,
       "forks": 0,
-      "language": "Python",
+      "language": "JavaScript",
       "updatedAt": "2026-11-12T13:00:21Z"
     },
     {
@@ -2376,21 +2394,21 @@
       "updatedAt": "2026-11-12T11:47:59Z"
     },
     {
-      "name": "Oxford-Medical",
-      "url": "https://github.com/Brajesh31/Oxford-Medical",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-12T11:47:14Z"
-    },
-    {
       "name": "Smart-Room-Cleaner-AI",
       "url": "https://github.com/Brajesh31/Smart-Room-Cleaner-AI",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "Python",
+      "updatedAt": "2026-11-12T11:47:14Z"
+    },
+    {
+      "name": "Oxford-Medical",
+      "url": "https://github.com/Brajesh31/Oxford-Medical",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
       "updatedAt": "2026-11-12T11:47:14Z"
     },
     {
@@ -4401,15 +4419,6 @@
       "updatedAt": "2026-11-12T08:59:03Z"
     },
     {
-      "name": "Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
-      "url": "https://github.com/Brajesh31/Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": null,
-      "updatedAt": "2026-11-12T08:58:07Z"
-    },
-    {
       "name": "Helpmate-AI",
       "url": "https://github.com/Brajesh31/Helpmate-AI",
       "description": null,
@@ -5869,19 +5878,19 @@
     }
   ],
   "languages": {
-    "Python": 2392436,
-    "C": 812650,
-    "Shell": 46119,
-    "PowerShell": 25982,
+    "Python": 2449210,
+    "C++": 1746406,
+    "Shell": 51995,
+    "PowerShell": 30210,
+    "JavaScript": 11295770,
+    "HTML": 6731521,
+    "C": 813337,
     "Makefile": 4018,
-    "HTML": 6724266,
-    "JavaScript": 11201914,
-    "CSS": 6940230,
-    "TypeScript": 8425928,
+    "CSS": 6940229,
+    "TypeScript": 8426885,
     "PLpgSQL": 19821,
     "Jupyter Notebook": 55696329,
     "Java": 1027038,
-    "C++": 1746406,
     "Go": 1897,
     "CMake": 73284,
     "Fortran": 489,
@@ -5902,7 +5911,7 @@
     "Blade": 86468,
     "Procfile": 83,
     "Batchfile": 9197,
-    "Rust": 1779,
+    "Rust": 6662,
     "EJS": 57645,
     "Clojure": 19705,
     "GLSL": 6035,
