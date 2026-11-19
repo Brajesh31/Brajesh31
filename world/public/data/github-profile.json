@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:58:58.808Z",
+  "generatedAt": "2026-11-19T14:27:41.852Z",
   "source": "GitHub REST API public profile and repositories",
   "profile": {
     "login": "Brajesh31",
@@ -9,6 +9,15 @@
   },
   "repositories": [
     {
+      "name": "vfx-ui-anime",
+      "url": "https://github.com/Brajesh31/vfx-ui-anime",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updatedAt": "2026-11-18T15:19:36Z"
+    },
+    {
       "name": "Contact-Searching-Application",
       "url": "https://github.com/Brajesh31/Contact-Searching-Application",
       "description": null,
@@ -16,15 +25,6 @@
       "forks": 0,
       "language": "Python",
       "updatedAt": "2026-11-18T04:51:48Z"
-    },
-    {
-      "name": "vfx-ui-anime",
-      "url": "https://github.com/Brajesh31/vfx-ui-anime",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-18T03:24:25Z"
     },
     {
       "name": "Coffee-Shop-Sales-Dashboard-Using-PowerBI-main",
@@ -1674,21 +1674,21 @@
       "updatedAt": "2026-11-12T14:25:17Z"
     },
     {
-      "name": "Git_GitHub",
-      "url": "https://github.com/Brajesh31/Git_GitHub",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "HTML",
-      "updatedAt": "2026-11-12T14:25:12Z"
-    },
-    {
       "name": "mini-operation-system-scheduler",
       "url": "https://github.com/Brajesh31/mini-operation-system-scheduler",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "C",
+      "updatedAt": "2026-11-12T14:25:12Z"
+    },
+    {
+      "name": "Git_GitHub",
+      "url": "https://github.com/Brajesh31/Git_GitHub",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "HTML",
       "updatedAt": "2026-11-12T14:25:12Z"
     },
     {
@@ -2682,21 +2682,21 @@
       "updatedAt": "2026-11-12T10:35:35Z"
     },
     {
-      "name": "ATOM-Hospital",
-      "url": "https://github.com/Brajesh31/ATOM-Hospital",
-      "description": null,
-      "stars": 10,
-      "forks": 0,
-      "language": "JavaScript",
-      "updatedAt": "2026-11-12T10:35:26Z"
-    },
-    {
       "name": "dotsters",
       "url": "https://github.com/Brajesh31/dotsters",
       "description": null,
       "stars": 10,
       "forks": 0,
       "language": "CSS",
+      "updatedAt": "2026-11-12T10:35:26Z"
+    },
+    {
+      "name": "ATOM-Hospital",
+      "url": "https://github.com/Brajesh31/ATOM-Hospital",
+      "description": null,
+      "stars": 10,
+      "forks": 0,
+      "language": "JavaScript",
       "updatedAt": "2026-11-12T10:35:26Z"
     },
     {
@@ -5878,12 +5878,12 @@
     }
   ],
   "languages": {
-    "Python": 2449210,
+    "HTML": 6894465,
+    "JavaScript": 11327713,
+    "Python": 2450753,
     "C++": 1746406,
     "Shell": 51995,
     "PowerShell": 30210,
-    "JavaScript": 11295770,
-    "HTML": 6731521,
     "C": 813337,
     "Makefile": 4018,
     "CSS": 6940229,
